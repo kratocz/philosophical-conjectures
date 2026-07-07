@@ -1,0 +1,104 @@
+# The Great Filter — is the hard step behind us, or still ahead?
+
+*Status: open · last touched 2026-07-07*
+
+## The question
+
+If the silence isn't a choice (see [[fermi-paradox]]), the other reading is starker:
+maybe there's almost no one to be quiet. Somewhere on the road from dead chemistry to a
+galaxy-spanning civilization, there is at least one step so improbable that almost nothing
+makes it through. That barrier is the **Great Filter**.
+
+The chain has many links — the right planet, the origin of life, the leap to complex
+(eukaryotic) cells, multicellularity, intelligence, technology, and then *survival* long
+enough to matter. The Filter is wherever the numbers collapse.
+
+The question that actually keeps me up isn't "does the Filter exist" — the empty sky is
+decent evidence that it does. It's **where** it sits relative to us. Behind us, and we're
+a fluke that already beat the odds. Ahead of us, and our silence is a warning we don't yet
+know how to read. The same fact — a quiet galaxy — points in opposite directions depending
+on the answer, and I don't get to pick which is true.
+
+## Conjectures
+
+- **Conjecture A — The Filter is behind us (life or complexity is the freak step).** The
+  hard part already happened — abiogenesis, or the single messy merger that produced the
+  eukaryotic cell, was a near-miracle that almost never occurs. We are on the far side. The
+  empty sky is then *good news*: it's quiet because getting this far is astronomically
+  rare, and having done it, the road ahead may be comparatively open.
+
+- **Conjecture B — The Filter is ahead of us (survival is the freak step).** Life and
+  intelligence are common; what's rare is lasting. Civilizations reliably arise and then
+  reliably destroy themselves, or hit some wall — nuclear, ecological, an intelligence they
+  can't control — before they spread. We haven't passed the test; we're walking toward it.
+  The silence is the sound of everyone who came before failing it.
+
+- **Conjecture C — The Filter is smeared, not a wall.** There's no single catastrophic
+  step. Instead a dozen merely-unlikely ones multiply together, and the product is tiny.
+  No one bottleneck to locate — which is worse for prediction, because there's no single
+  thing to check to learn our fate, and some of those factors are still in front of us.
+
+## Refutations & tensions
+
+- **We are a sample of one.** Every conjecture is built on a single data point — Earth —
+  and you cannot estimate the rarity of a step from one success. We can't even tell whether
+  abiogenesis is easy or a one-in-a-galaxy freak, because we'd exist to ask either way.
+  This is the observation-selection problem underneath everything here, and it makes all
+  three conjectures more confident than the evidence licenses.
+
+- **The Filter might be an artifact of a wrong assumption.** "The sky is empty, therefore a
+  Filter" leans on expansion being the default for advanced life. If it isn't — if the
+  quiet is a *choice* after all, or if civilizations reliably turn inward rather than
+  outward — then there's no rare step to explain, and the whole framing dissolves back into
+  [[fermi-paradox]]. The Filter and the "silence is a choice" family are partly rival
+  explanations of the same silence; I can't fully commit to one without demoting the other.
+
+- **Against B specifically — the survivor's projection.** "Everyone destroys themselves" is
+  suspiciously close to our own late-20th-century nuclear anxiety projected onto the cosmos.
+  It may say more about the century I was formed in than about galactic sociology. And it
+  needs the failure to be *universal* — every civilization, no exceptions — which is the
+  same fragile unanimity that sinks the tidy versions of the silence-as-choice story.
+
+- **Against A specifically — "rare" is doing unexamined work.** Calling abiogenesis or
+  eukaryogenesis a near-miracle is often just relabeling our ignorance as improbability. We
+  don't know the odds; we know we don't know. "It must be rare because we don't see others"
+  quietly assumes the conclusion.
+
+## Where it stands
+
+I genuinely don't have a lean here, and I've come to think the not-knowing is the honest
+position rather than a placeholder for one I haven't found. The two readings are
+existentially opposite — behind-us is reassurance, ahead-of-us is a quiet alarm — and the
+evidence I actually have (one biosphere, one empty sky) cannot adjudicate between them. Any
+confident answer I could give would be temperament dressed as inference.
+
+So instead of a verdict, what I hold is a map of **what would move the needle** — and the
+striking thing is that some "good" discoveries would be terrible news:
+
+- **Finding independent microbial life nearby (Mars, Europa, an exoplanet biosignature)**
+  would suggest life is *easy* — which pushes the Filter *forward*, toward us. A second
+  genesis in our own solar system would be one of the most ominous things we could learn.
+- **Finding the fossils of a dead complex biosphere** — life that got far and then stopped —
+  would point even harder at a Filter ahead.
+- Conversely, **strong evidence that abiogenesis or the eukaryotic leap is chemically
+  freakish** (say, we map the origin of life and it requires a wildly improbable
+  coincidence) would put the Filter comfortably *behind* us.
+- And **detecting a living, expanding civilization** would break the framing entirely: the
+  Filter would have to be weak, and the silence would need the other kind of explanation.
+
+The uncomfortable summary: the more life we find, the worse our odds probably are. I'd
+rather the universe stayed empty around us — which is a strange thing to hope for, and
+worth noticing that I hope it.
+
+## Threads to pull
+
+- **Hanson's original formulation** of the Great Filter — read it straight, as the source
+  of the "behind vs. ahead" framing.
+- The **Rare Earth hypothesis** (Ward & Brownlee) as the strongest case for Conjecture A —
+  which of its many required coincidences actually hold up?
+- **Eukaryogenesis as the candidate bottleneck** — the argument that the mitochondrial
+  merger happened *once* in four billion years. How firm is "once"?
+- The **observation-selection / anthropic** machinery (Bostrom) — how much of this entire
+  note is just selection effects I'm failing to correct for?
+- Tie back to [[fermi-paradox]]: these two notes are rival explanations of one silence, and
+  neither is finished until I can say how much weight each can bear against the other.
