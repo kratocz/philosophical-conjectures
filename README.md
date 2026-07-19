@@ -12,6 +12,7 @@ Most of these are worked out in dialogue — often with an AI assistant — whic
 - **`cosmos/`** — Our place in the universe. The Fermi paradox and its candidate resolutions; what we might ask another intelligence if we ever met one.
 - **`meaning/`** — What a life is for. Purpose, value, and how to live without a guarantee that any of it means anything.
 - **`mind/`** — The thing doing all the asking. Consciousness, free will, and whether experience is what it seems to be.
+- **`religion/`** — Faith examined from outside. What scripture gets right and wrong against checkable reality, and what makes a religion dangerous to the civilization hosting it.
 
 The structure is itself a conjecture, and will change as the questions do.
 

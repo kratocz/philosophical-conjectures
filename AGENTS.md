@@ -16,6 +16,7 @@ deliverable is prose.
 - `cosmos/` — Our place in the universe: the Fermi paradox and its candidate resolutions.
 - `meaning/` — What a life is for: purpose, value, living without guarantees.
 - `mind/` — Consciousness, free will, and whether experience is what it seems.
+- `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
 
 The structure is itself a conjecture and will change as the questions do.
 
