@@ -25,10 +25,23 @@ Every entry follows the same rough shape (see `TEMPLATE.md`):
 3. **Refutations & tensions** — where each one breaks down.
 4. **Where it stands** — my current, provisional view, and what would change it.
 5. **Threads to pull** — open sub-questions and things to read next.
+6. **Sources** — where a note leans on checkable facts: what was verified, what turned out to be wrong, and what I withdrew along the way.
+
+Each note carries two dates — when the prose last changed, and when its factual claims were last checked against sources. They drift apart on purpose. A note can go stale without a single word of it becoming false, and only the second date warns you.
 
 ## A note on tone
 
 These are thinking-in-progress, not conclusions. If something here sounds confident, read it as "this is my best current guess," not "this is true." The point is the refutations.
+
+## Who wrote the objections
+
+Worth stating plainly, because it bears on how much the refutations are actually worth: the **"Refutations & tensions" section in every note was written by me** — the same person making the conjectures.
+
+That is a real limit, and it doesn't dissolve by being noticed. I can only argue against myself with the objections I have thought of, and I am not a neutral judge of which ones land — the counterarguments I find devastating tend to be the ones I have already made my peace with, and the ones I find weak deserve more suspicion than I am able to give them. Where a note takes a position on a living tradition, a contested field, or anything that reasonable people organise their lives around, assume the strongest version of the other side is stronger than the version you will find here.
+
+So corrections are wanted, and most of all from people who think a note is wrong. Open an issue or a pull request.
+
+As notes get read by people who disagree with them, I will record that **in the note** rather than quietly deleting this section. A list of who has pushed back, and where, is more informative than the absence of an admission.
 
 ## License
 
