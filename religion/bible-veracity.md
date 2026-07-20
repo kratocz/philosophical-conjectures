@@ -67,25 +67,32 @@ question is never "fiction or fact," it's "which shelf."
 **Against B — it fails its own Deuteronomy test, more than once.**
 
 - **Tyre.** Ezekiel 26 names Nebuchadnezzar as the destroyer after whom Tyre "shall
-  never be rebuilt." Nebuchadnezzar besieged Tyre for thirteen years and failed — and
-  Ezekiel 29:17–20 *admits this in the text*, awarding him Egypt as compensation for the
-  wages he never got from Tyre. The replacement prophecy failed too: Egypt was never
-  desolate and uninhabited for forty years. So the canon preserves its own miss, plus
-  the correction, plus the correction's miss. (Tyre, for the record, is inhabited
-  today.)
+  never be rebuilt." He besieged the city and failed to take the island. (The famous
+  "thirteen years" comes only from Josephus and is contested — a rival manuscript
+  reading gives three years and ten months, and the site has yielded no siegeworks and
+  no destruction layer.) The failure itself is not in doubt, because Ezekiel 29:17–20
+  *admits it in the text*, awarding Nebuchadnezzar Egypt as compensation for the wages
+  he never got from Tyre. The replacement prophecy failed too: the Egyptian campaign of
+  his thirty-seventh year was a raid, not a conquest, and Egypt was never desolate and
+  uninhabited for forty years. So the canon preserves its own miss, plus the correction,
+  plus the correction's miss. Tyre, meanwhile, is a living Lebanese city carrying a
+  UNESCO listing on its Roman remains.
 - **Daniel's seam.** Daniel 11 tracks the Ptolemaic–Seleucid wars and Antiochus IV so
   precisely, verse by verse, that the scholarly dating of the book (~165 BCE) hangs on
   it. At verse 40 the text stops describing and starts predicting — and immediately goes
   wrong: Antiochus was to die campaigning "between the sea and the beautiful holy
-  mountain." He died in Persia. You can almost date the manuscript by where the accuracy
+  mountain." He died a thousand miles east of there, in Elam or Persis, after a failed
+  attempt to plunder a temple. You can almost date the manuscript by where the accuracy
   ends.
 - **The deadline that passed.** Mark 13:30 — "this generation will not pass away until
   all these things have taken place," the things including the Son of Man arriving on
   clouds. Matthew 16:28 — some listeners will not taste death first. Paul plans around
   it: "we who are alive, who are left" (1 Thessalonians 4). By 2 Peter 3 the church is
-  already fielding mockers asking where the promise went, and answering that a day is
-  like a thousand years. The New Testament's central prediction missed, and the
-  management of the miss is visible *inside the canon*.
+  fielding mockers asking where the promise went, and answering that a day is like a
+  thousand years — on the majority reading, at least; a minority argues those particular
+  scoffers were complaining about something else, so I shouldn't rest the case on that
+  one verse. The New Testament's central prediction missed, and the management of the
+  miss is visible *inside the canon*.
 
 **Against B — the "fulfilled prophecies" don't survive a fair test.** To count, a
 prophecy must be (1) specific, (2) demonstrably written before the event, (3) not
@@ -93,9 +100,12 @@ fulfillable by someone who had read it, and (4) fulfilled. The famous ones each 
 clause. Cyrus is named in Isaiah 44–45 because Isaiah 40–55 was written during the
 exile, by Cyrus's contemporary — not 150 years ahead. Gospel fulfilments were written by
 authors with the script open on the desk, and sometimes it shows: Matthew 21 has Jesus
-ride into Jerusalem on *two animals at once*, because Matthew misread the poetic
-parallelism of Zechariah 9:9 ("on a donkey, on a colt, the foal of a donkey" — one
-animal, said twice). Mark and Luke have one donkey. When the narrative bends to fit the
+ride into Jerusalem on *two animals at once*, where Mark and Luke have one — and the
+extra animal comes straight out of the poetic parallelism of Zechariah 9:9 ("on a
+donkey, on a colt, the foal of a donkey": one animal, named twice). Whether Matthew
+misread the Hebrew or deliberately conformed his scene to the letter of the text is
+disputed, and for this argument it doesn't matter which — either way the animal count is
+being set by the prophecy rather than by the event. When the narrative bends to fit the
 prophecy, the fulfilment is evidence of the author's reading list, not of foresight.
 Same machinery in the nativity: to get a Galilean born in Bethlehem (Micah 5:2), Luke
 invokes a census under Quirinius (6 CE) while Matthew needs Herod (died 4 BCE) — a
@@ -138,10 +148,17 @@ which is how the phrase would have been heard, and I think they are right.
   rather than substance. Answer: that is fidelity of *copying*, not fidelity to fact — a
   faithfully copied error is still an error. But the care is real, and "fairy tales"
   never earns it.
-- Inerrancy is younger than it looks: Origen and Augustine were already reading Genesis
-  non-literally in antiquity, and the modern doctrine hardened only in reaction to
-  modern criticism (Chicago Statement, 1978). B is less "the traditional view" than a
-  modern bunker.
+- Inerrancy is younger than it looks — though I had this too neat, and the sourcing
+  caught me. Origen is the real witness: he asks who could be "so ignorant" as to
+  imagine God planting an orchard with a physical tree of wood in it, and reads the
+  first days, which had no sun, as figurative. Augustine is weaker than I implied — his
+  *Literal Meaning of Genesis* means literal as in *historically referential*, and
+  though he denied the six days were calendar days, he never allegorizes the way Origen
+  does. And in fairness to the other side, the Chicago Statement of 1978 explicitly
+  disclaims naive literalism: "history must be treated as history, poetry as poetry,
+  hyperbole and metaphor as hyperbole and metaphor." So B's modern form is a bunker, but
+  a more sophisticated one than my caricature. What it still cannot absorb is a
+  prophecy that simply failed.
 - The honest open edge: *how big* is the historical core? Tel Dan proves a Davidic
   dynasty existed, not that the united monarchy was as grand as Kings paints it.
   Minimalists and maximalists are still fighting over that with real archaeology on both
