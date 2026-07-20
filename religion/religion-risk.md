@@ -42,18 +42,33 @@ rigidly defined religion, or a vague one that can be bent into anything?
 
 **A fails in both directions — the most instructive fact in this note.** Judaism carries
 genocide in its canon — the *herem* commands, Amalek, 1 Samuel 15 — and is essentially
-non-violent today: the rabbinic tradition legislated the violence into unusability
-(Amalek was declared no longer identifiable, so the command can never bind again).
-Buddhism carries the gentlest canon of the majors and still delivered Myanmar's monk-led
-anti-Rohingya movement, Sri Lanka's ethno-nationalist reading of the Mahavamsa, and Zen
-institutions blessing Japanese militarism. The text alone predicts behavior poorly.
+non-violent today, because a dominant strand of rabbinic tradition worked the command
+into inoperability: reading Amalek symbolically (as the evil inclination, as militarism),
+hedging it with halakhic restrictions, and leaning on the ruling that Sennacherib's
+deportations scrambled the nations past identification. Two qualifications I had wrong
+at first and want on the record. That Sennacherib ruling is stated in the sources about
+Ammonite and Moabite converts and the marriage ban, not about Amalek — extending it is a
+later inference. And it is not unanimous: Maimonides holds the memory of the seven
+nations already obliterated, yet still lists destroying the memory of Amalek as a
+standing positive commandment. So the honest claim is weaker than the one I made — not
+"the tradition disarmed the text" but "the mainstream of the tradition spent centuries
+coping with it, mostly by disarming it, over dissent." Buddhism runs the experiment from
+the other end: the gentlest canon of the majors, and still Myanmar's monk-led anti-Muslim
+movement, Sinhala Buddhist nationalism in Sri Lanka, and Zen institutions blessing
+Japanese militarism. The Sri Lankan case is the one to study for mechanism — the
+scholarship reads it as a modern construction, ancient chronicle material mobilised by
+nineteenth- and twentieth-century revivalists working inside colonial ethnic categories,
+rather than an old hatred running continuously. Old text, recent weaponization: B's
+thesis in miniature. The text alone predicts behavior poorly.
 
 **The strongest argument for B-plus-C is a constant and a variable.** Christianity's text
 did not change between 1415 and today. Its *position* did. It burned Hus while it held a
-truth-monopoly enforced by the secular arm; it ran inquisitions and witch trials (tens
-of thousands executed) while heresy was a capital crime; and it stopped — not when the
-gospels were edited, but when the monopoly broke. Same book, different architecture,
-different body count. Islam ran the experiment with the opposite sign: in the medieval
+truth-monopoly enforced by the secular arm; it ran inquisitions and witch trials (some
+forty-five thousand executed on the current consensus estimate — a figure the research
+has been revising *downward*, away from the older tens-of-thousands-more guesses and
+nowhere near the folk "nine million") while heresy was a capital crime; and it stopped —
+not when the gospels were edited, but when no confession could enforce a monopoly any
+more. Same book, different architecture, different body count. Islam ran the experiment with the opposite sign: in the medieval
 centuries its treatment of religious minorities was, in the standard comparative study's
 careful phrasing, "less confrontational and violent" than Christendom's — a relative
 claim about two hierarchical, discriminatory systems, not a lost utopia — and it is
@@ -63,9 +78,13 @@ the book alone nor any single century's snapshot.
 **Hus as mechanism, not anomaly.** Exclusive truth (factor 1) makes heresy not an
 opinion but an infection endangering infinite souls; burning becomes proportionate —
 merciful, even. Add a state executioner (factor 6) and the machine runs itself:
-Constance 1415, the inquisitions, the crusades, the Thirty Years' War. Note that the
-mechanism nowhere requires anyone to be evil — only sincere, inside that architecture.
-That is what makes it a *structural* finding.
+Constance 1415, the inquisitions, the crusades, the Thirty Years' War. Hus shows the
+machinery with its cover off. He travelled to Constance under an imperial safe conduct;
+the council's formal position was that a safe conduct does not bind where heresy is
+charged, and the best modern study of the trial finds Sigismund pressing for him to burn
+*even if he recanted* — the verdict standing ahead of the proceedings, in defiance of
+the council's own canon law. Note that the mechanism nowhere requires anyone to be evil
+— only sincere, inside that architecture. That is what makes it a *structural* finding.
 
 **C explains too much and too little.** Too much: if only power mattered, doctrine would
 be inert — yet Aum Shinrikyo brewed apocalyptic sarin with a monopoly on nothing, and
@@ -74,6 +93,18 @@ the sacred-values fieldwork finds that offering money to compromise a sacred com
 behaves. Doctrinal content does independent work. Too little: C can't say why *this*
 uniform recurs so reliably. The honest synthesis: structure loads the gun, power pulls
 the trigger — B for the loading, C for the firing.
+
+**A complication the sourcing handed me, which I did not expect.** I had assumed the
+toleration that ended the burnings arrived from outside, as secularization. The standard
+histories say close to the opposite: the arguments that won were made largely *from
+inside* Christian theology — Erasmus, Milton, Locke and their kind, on religious grounds
+— and the leading account holds that concern for the spiritual welfare of religion
+itself did more for toleration than secular or pragmatic argument ever did. Another
+holds that toleration in practice was a patchwork of local accommodations that actually
+*receded* between roughly 1550 and 1750. This cuts against the crude reading of C, and
+it complicates B: a tradition can carry its own antidote alongside its own poison, and
+which of the two gets picked up is precisely the structural question. "The monopoly
+broke" names the opportunity, not the cause.
 
 **Factor 4 took a real hit while I was sourcing this note, and I'm leaving the wound
 visible.** I had written that martyrdom payoffs produce suicide attackers specifically
