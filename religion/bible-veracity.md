@@ -201,3 +201,159 @@ What would change my mind:
   the control group I've never run.
 - [[religion-risk]] — truth and danger are independent axes: a false-but-gentle creed
   and a true-but-weaponizable one could both exist. That note asks the second question.
+
+## Sources
+
+Every item below was checked against the source rather than cited from memory, and the
+checking changed the note: three claims were withdrawn and several corrected, each
+marked where it appears above. Museum and university pages are preferred for artefacts,
+standard critical commentaries for texts. Where I am relying on a summary rather than
+the volume itself, I say so — a citation I haven't verified is worth less than no
+citation, because it borrows authority it hasn't earned.
+
+**The archaeological anchors (against Conjecture A)**
+
+- **Tel Dan stele** — Israel Museum, Jerusalem, [collection item
+  371407](https://www.imj.org.il/en/collections/371407); Jewish Museum, New York, [*Tel
+  Dan Stele*](https://thejewishmuseum.org/exhibitions/tel-dan-stele/). Ninth-century
+  Aramaic victory stele carrying the earliest *widely accepted* extra-biblical mention
+  of the House of David. That hedge is deliberate: a contested reading of the Mesha
+  stele may be older.
+- **Sennacherib's prisms** — Institute for the Study of Ancient Cultures, University of
+  Chicago, [Highlights: Assyria](https://isac.uchicago.edu/collections/highlights/highlights-collection-assyria)
+  (Chicago Prism, OIM A2793); George Heath-Whyte, [Artefact in Focus: The Taylor
+  Prism](https://tyndalehouse.com/2026/07/01/artefact-in-focus-the-taylor-prism/),
+  Tyndale House, 2026. Source of "like a bird in a cage" and of the conspicuous absence
+  of any capture claim. Note the limit: the prisms do not corroborate 2 Kings' 185,000
+  slain.
+- **Siloam tunnel** — A. Frumkin, A. Shimron & J. Rosenbaum, "Radiometric dating of the
+  Siloam Tunnel, Jerusalem," [*Nature* 425 (2003):
+  169–171](https://www.nature.com/articles/nature01875). Radiocarbon and uranium–thorium
+  dating put the tunnel near 700 BCE and rule out a Hasmonean date. The inscription is
+  anonymous — it never names Hezekiah — and has sat in the Istanbul Archaeology Museum
+  since Ottoman authorities seized it in 1890.
+- **Belshazzar** — Paul-Alain Beaulieu, *The Reign of Nabonidus, King of Babylon 556–539
+  B.C.* (Yale University Press, 1989); Nabonidus cylinder from Ur, British Museum.
+  Babylonian documents call Belshazzar *mār šarri*, "son of the king," and record him
+  running Babylonia through Nabonidus's decade at Tayma without ever taking the title.
+- **New Testament stage-dressing** — Pilate stone, Israel Museum (Caesarea, 1961; it
+  gives Pilate's title as *praefectus*); Caiaphas ossuary, Israel Museum collection
+  191542 (1990 — the identification with the high priest is probable, not unanimous);
+  Urban C. von Wahlde, "The Puzzling Pool of Bethesda," *Biblical Archaeology Review*
+  37:5 (2011), via [Biblical Archaeology
+  Society](https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/)
+  — the five porticoes are four around the perimeter plus one on the dividing wall.
+- **Jesus as a historical figure** — Tacitus, [*Annals*
+  15.44](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0078%3Abook%3D15%3Achapter%3D44)
+  (Perseus, Tufts); Josephus, *Antiquities* 20.200; Robert E. Van Voorst, *Jesus Outside
+  the New Testament* (Eerdmans, 2000); Bart D. Ehrman, *Did Jesus Exist?* (HarperOne,
+  2012); E. P. Sanders, *The Historical Figure of Jesus* (Penguin, 1993). The James
+  passage is near-universally accepted; the *Testimonium* of *Antiquities* 18 is not,
+  and nothing here rests on it. A miniature lesson in source fallibility: Tacitus calls
+  Pilate a procurator, and the stone from Caesarea says prefect.
+
+**The failed prophecies (against Conjecture B)**
+
+- **Tyre** — Josephus, [*Against Apion*
+  1.156](https://penelope.uchicago.edu/josephus/apion-1.html) (LacusCurtius, University
+  of Chicago) for the siege; Helen Dixon, "Reexamining Nebuchadnezzar II's 'Thirteen-Year'
+  Siege of Tyre in Phoenician Historiography," *Journal of Ancient History* 10.2 (2022):
+  165–199, for why the thirteen years cannot bear weight. Paul Sanders (Protestant
+  Theological University), ["When prophecy doesn't come
+  true"](https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/), for
+  Ezekiel 29:17–20 as the book's last oracle, spring 571 BCE, and for the flat verdict
+  that the predicted destruction never occurred. [UNESCO World Heritage List no.
+  299](https://whc.unesco.org/en/list/299/) for Tyre as a living city. The standard
+  commentaries — Zimmerli (Hermeneia), Greenberg (Anchor Bible 22A), Joyce (LHBOTS 482) —
+  exist and are correctly cited, but I have not read them on this passage and offer them
+  only as pointers.
+- **Egypt as compensation** — Dan'el Kahn (University of Haifa), [Nebuchadnezzar Fails to
+  Conquer Egypt](https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated).
+  Tablet BM 33041 records a campaign in Nebuchadnezzar's thirty-seventh year that cannot
+  fairly be called a conquest; there is no record of any forty-year desolation.
+- **Daniel** — Reinhard G. Kratz (Göttingen), [Antiochus IV's Persecution as Portrayed in
+  the Book of Daniel](https://www.thetorah.com/article/antiochus-iv-persecution-as-portrayed-in-the-book-of-daniel),
+  drawing on John J. Collins, *Daniel* (Hermeneia, 1993). Chapter 11 tracks real events
+  to verse 39 and then describes a war that never happened. Antiochus died in the east,
+  Elam or Persis, in 164 BCE.
+- **The parousia deadline** — Bart D. Ehrman, *Jesus: Apocalyptic Prophet of the New
+  Millennium* (Oxford University Press, 1999); Dale C. Allison Jr., *Jesus of Nazareth:
+  Millenarian Prophet* (Fortress, 1998); Delbert Burkett, *An Introduction to the New
+  Testament and the Origins of Christianity* (Cambridge University Press), ch. 23. For
+  the dissenting reading of 2 Peter 3:4, see "'Where is the Promise of his Coming?' The
+  Complaint of the Scoffers in 2 Peter 3.4," *New Testament Studies*, which denies the
+  scoffers were complaining about a missed generation. I verified the books and their
+  theses, not their verse-by-verse handling of my proof texts.
+
+**The fulfilment test**
+
+- **Cyrus and Deutero-Isaiah** — Bible Odyssey (Society of Biblical Literature), ["How
+  Many Isaiahs Were There?"](https://www.bibleodyssey.org/articles/how-many-isaiahs-were-there/)
+  and ["Cyrus the Messiah"](https://www.bibleodyssey.org/articles/cyrus-the-messiah/).
+  From chapter 40 the writer speaks as a contemporary awaiting Cyrus's imminent arrival.
+  The same articles warn against tidying Isaiah into exactly three authors.
+- **Matthew's two animals** — Wayne Coppins, ["Sitting on Two Asses? Second Thoughts on
+  the Two-Animal Interpretation of Matthew
+  21:7"](https://www.tyndalebulletin.org/article/29350-sitting-on-two-asses-second-thoughts-on-the-two-animal-interpretation-of-matthew-21-7),
+  *Tyndale Bulletin* 63.2 (2012): 275–290. Coppins confirms Matthew depicts two animals
+  and that this derives from his handling of Zechariah 9:9 — but frames it as history
+  conformed to scripture rather than a blunder over parallelism. The Davies & Allison
+  and Luz attributions that circulate for the "misread it" version trace to a blog, not
+  a checkable source, which is why the note no longer asserts it.
+- **The nativity chronology** — Robert R. Cargill (University of Iowa), [on the census in
+  Luke](https://bam.sites.uiowa.edu/faq/can-you-explain-problem-census-gospel-luke),
+  citing Josephus *Antiquities* 17.13.5 and 18.1.1; Raymond E. Brown, *The Birth of the
+  Messiah* (rev. ed. 1993).
+
+**The ancient world-picture**
+
+- Paul H. Seely, ["The Firmament and the Water Above, Part
+  I"](https://www.galaxie.com/article/wtj53-2-04), *Westminster Theological Journal* 53
+  (1991): 227–240 — argued, notably, from inside a Reformed evangelical position; Wayne
+  Horowitz, *Mesopotamian Cosmic Geography* (Eisenbrauns, 1998).
+- Jacob Milgrom, *Leviticus 1–16* (Anchor Bible 3, 1991). Load-bearing for fairness:
+  Milgrom reads the hare, the bat and the four-legged insects as folk taxonomy sorting
+  by appearance and locomotion, not as failed zoology. That is exactly why the note's
+  claim is about the world-picture the text assumes rather than about "errors."
+- Scott B. Noegel, ["Sex, Sticks, and the Trickster in Gen.
+  30:31–43"](https://faculty.washington.edu/snoegel/PDFs/articles/Noegel%2020%20-%20JANES%201997.pdf),
+  *Journal of the Ancient Near Eastern Society* 25 (1997): 7–17; Zev Farber, ["Maternal
+  Impressions"](https://www.thetorah.com/article/maternal-impressions-from-sheep-to-humans),
+  TheTorah.com.
+- David R. Montgomery, *The Rocks Don't Lie: A Geologist Investigates Noah's Flood*
+  (Norton, 2012) — for the geology only. The population-genetics and continuous-records
+  strands of my sentence are standard but are not Montgomery's argument, and I have not
+  sourced them separately.
+- Israel Finkelstein & Neil Asher Silberman, *The Bible Unearthed* (Free Press, 2001) for
+  the Exodus and Late Bronze Canaan — repeated Sinai surveys yielding "not even a single
+  sherd"; Lorenzo Nigro, ["The Bronze Age Destruction of Jericho, Archaeology, and the
+  Book of Joshua"](https://www.mdpi.com/2077-1444/14/6/796), *Religions* 14/6 (2023):
+  796, with Kathleen Kenyon's excavation reports behind it. Bryant Wood's redating to
+  ~1400 BCE is expressly a minority position.
+
+**Transmission, contradictions, and the age of inerrancy**
+
+- Israel Museum, [Digital Dead Sea Scrolls: The Great Isaiah
+  Scroll](http://dss.collections.imj.org.il/isaiah) — ca. 125 BCE, "generally in
+  agreement" with the Masoretic text while containing many variant readings, alternative
+  spellings, scribal errors and corrections. Hence ~95 percent, not letter for letter.
+- Richard Elliott Friedman, *Who Wrote the Bible?* (Summit, 1987) for Genesis 1 and 2 as
+  P and J.
+- Raymond E. Brown, *The Death of the Messiah* (Doubleday, 1994) on Judas and the
+  crucifixion date, and *The Birth of the Messiah* on the genealogies, which he judges
+  irreconcilable and declines to harmonize.
+- Origen, [*On First Principles* IV](https://www.newadvent.org/fathers/04124.htm) — "who
+  is found so ignorant as to suppose that God planted trees in paradise… a visible and
+  palpable tree of wood?" Simo Knuuttila, "Time and creation in Augustine," in *The
+  Cambridge Companion to Augustine* (Cambridge University Press, 2001) — handle with
+  care, since Augustine's "literal" means historically referential. ["The Chicago
+  Statement on Biblical Inerrancy"](http://www.bible-researcher.com/chicago1.html)
+  (1978), including its own disclaimer that history is to be read as history and
+  hyperbole as hyperbole.
+
+**Withdrawn during sourcing** — recorded because a note that only shows its wins is
+advertising. Papyrus P52's early date: the John Rylands Library itself now leans toward
+~200 CE and Brent Nongbri argues palaeography cannot fix a date within eighty years. The
+40,000 versus 4,000 stalls: a numeral slip in transmission, and inerrancy is claimed for
+the autographs. The mustard seed as "smallest of all seeds": proverbial hyperbole, and
+the commentators are right.

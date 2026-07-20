@@ -279,3 +279,166 @@ What would change my mind:
 - Memetics as the frame over both notes: religions as evolving memeplexes whose fitness
   is orthogonal to both truth ([[bible-veracity]]) and benevolence. That would predict
   exactly the pattern found here: whatever survives, survives.
+
+## Sources
+
+Checked against the sources rather than cited from memory. The checking cost me one
+argument outright (factor 4, below) and weakened another (Amalek), which is the point of
+doing it. Several sources are cited here *against* the use I first wanted to make of
+them; those are flagged, because a source that only ever agrees with you is a source you
+haven't read.
+
+**The Amalek case — the note's main evidence against Conjecture A**
+
+- Avi Sagi, ["The Punishment of Amalek in Jewish Tradition: Coping with the Moral
+  Problem"](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/punishment-of-amalek-in-jewish-tradition-coping-with-the-moral-problem/889E0F204DDBBB9FDCE987618202BCC1),
+  *Harvard Theological Review* 87:3 (1994): 323–346. Primary texts verified on Sefaria:
+  [Mishnah Yadayim 4:4](https://www.sefaria.org/api/texts/Mishnah_Yadayim.4.4) and [b.
+  Berakhot 28a](https://www.sefaria.org/api/texts/Berakhot.28a) for Sennacherib having
+  "mingled all the nations"; [Maimonides, *Mishneh Torah*, Kings and Wars
+  5:4–5](https://www.sefaria.org/api/texts/Mishneh_Torah,_Kings_and_Wars.5.4-5). Sagi's
+  subtitle carries the correction I needed: the tradition is *coping*, not finished. The
+  Sennacherib ruling is stated about Ammonite and Moabite converts, not Amalek, and
+  Maimonides declares the seven nations' memory obliterated while keeping Amalek as a
+  standing commandment.
+
+**Buddhism's violent configurations**
+
+- International Crisis Group, *Buddhism and State Power in Myanmar*, Asia Report N°290
+  (5 September 2017) — 969, Ma Ba Tha, Ashin Wirathu, the interfaith-marriage laws.
+  ICG's own framing is more careful than mine: Ma Ba Tha is decentralised and heavily
+  engaged in education and social services, and the report argues against blanket bans
+  as counterproductive.
+- Stanley J. Tambiah, [*Buddhism Betrayed? Religion, Politics, and Violence in Sri
+  Lanka*](https://press.uchicago.edu/ucp/books/book/chicago/B/bo3618620.html) (University
+  of Chicago Press, 1992). The source of the note's "modern construction" reading:
+  chronicle material mobilised by nineteenth- and twentieth-century revivalists inside
+  colonial ethnic categories, not an ancient hatred running continuously. The book was
+  banned in Sri Lanka; its title is a question, not a verdict.
+- Brian Daizen Victoria, *Zen at War* (Weatherhill 1997; 2nd ed. Rowman & Littlefield
+  2006), with Christopher Ives, [*Imperial-Way
+  Zen*](https://uhpress.hawaii.edu/title/imperial-way-zen-ichikawa-hakugens-critique-and-lingering-questions-for-buddhist-ethics/)
+  (University of Hawai'i Press, 2009). Cite Victoria for the documentation, not the
+  causal thesis: Ives explicitly rejects the claim that Imperial-Way Zen followed from
+  the old Zen–samurai connection, reading it instead as a modern instance of Buddhism's
+  protector-of-the-realm role. Victoria's handling of individual figures, D. T. Suzuki
+  especially, has also drawn criticism.
+
+**The Christian monopoly and how it ended**
+
+- Thomas A. Fudge, *The Trial of Jan Hus: Medieval Heresy and Criminal Procedure*
+  (Oxford University Press, 2013), reviewed in [*The Medieval Review*
+  14.04.12](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/18572/24685).
+  Source of the sharpened reading: the council held safe conducts irrelevant where
+  heresy was charged, and Sigismund pressed for burning even on recantation. "Broken
+  promise" understates it — the procedure was the point.
+- Brian P. Levack, *The Witch-Hunt in Early Modern Europe* (3rd ed., 2006): c. 45,000
+  executions, revised *down* from his own earlier 60,000; Robin Briggs, *Witches and
+  Neighbours* (1996): c. 100,000 trials, 40,000–50,000 executions, a fifth to a quarter
+  of the victims men. Both against the folk "nine million."
+- Perez Zagorin, [*How the Idea of Religious Toleration Came to the
+  West*](https://press.princeton.edu/books/paperback/9780691121420/how-the-idea-of-religious-toleration-came-to-the-west)
+  (Princeton University Press, 2003); Benjamin J. Kaplan, *Divided by Faith* (Harvard
+  University Press, 2007). **Cited against my first draft.** Zagorin holds that concern
+  for religion's own spiritual welfare did more for toleration than secular or pragmatic
+  argument; Kaplan argues toleration in practice was local accommodation and actually
+  receded between roughly 1550 and 1750. Both support "the same texts underwrote
+  persecution and then toleration"; neither supports "secularization did it."
+- Ronald W. Walker, Richard E. Turley Jr. & Glen M. Leonard, *Massacre at Mountain
+  Meadows* (Oxford University Press, 2008), via [BYU Department of
+  History](https://history.byu.edu/mountainmeadowsmassacre) — about 120 killed on 11
+  September 1857, at the end of a four-day siege, by territorial militia with some
+  Southern Paiute participation.
+
+**Islam: doctrine, structure, data**
+
+- The Qur'an as verbatim divine speech: Oxford reference works. On "uncreated" and its
+  internal contest, Jon Hoover, ["Ibn Taymiyya," *Stanford Encyclopedia of
+  Philosophy*](https://plato.stanford.edu/entries/ibn-taymiyya/) — Ashʿarī, Hanbali and
+  Muʿtazilī positions differ, and the doctrine won through the *mihna* inquisition
+  rather than by always having been there. "Verbatim word of God" is the uncontroversial
+  formulation; "uncreated" is the Sunni majority one with a history.
+- Emad Hamdeh, [*Salafism and Traditionalism: Scholarly Authority in Modern
+  Islam*](https://www.cambridge.org/core/books/abs/salafism-and-traditionalism/quran-and-sunna-or-the-madhhabs/FD6194595548502BAC7FE62C4B103460)
+  (Cambridge University Press, 2021), ch. 5 — the load-bearing citation for the note's
+  "rigid at the text layer" claim. Hamdeh also complicates it: Salafis and Traditionalists
+  work with different definitions of *taqlīd* and *ijtihād*, so "they reject the schools"
+  is too flat. Quintan Wiktorowicz, "Anatomy of the Salafi Movement," *Studies in
+  Conflict & Terrorism* 29:3 (2006): 207–239, for the purist/politico/jihadi typology.
+- Pew Research Center, [*The World's Muslims: Religion, Politics and
+  Society*](https://www.pewresearch.org/religion/2013/04/30/the-worlds-muslims-religion-politics-society-beliefs-about-sharia/)
+  (2013) — Egypt 74%, Pakistan 84%, Afghanistan 99%, Turkey 12%; fieldwork 2008–2012;
+  most supporters want sharia applied only to Muslims.
+- Pew Research Center, ["Four-in-ten countries and territories worldwide had blasphemy
+  laws in 2019"](https://www.pewresearch.org/short-reads/2022/01/25/four-in-ten-countries-and-territories-worldwide-had-blasphemy-laws-in-2019-2/)
+  (2022) and Humanists International, [*Freedom of Thought
+  Report*](https://fot.humanists.international/general-introduction/). Death-penalty
+  counts run from Pew's seven to Humanists International's nine or ten depending on how
+  apostasy and blasphemy are pooled — so "on the order of ten," not a dozen. And not
+  exclusively Muslim-majority: Nigeria is roughly half Christian, with capital provisions
+  in its northern sharia states.
+- Pew Research Center, ["How the Global Religious Landscape Changed from 2010 to
+  2020"](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/)
+  (June 2025) and [*The Future of World
+  Religions*](https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/)
+  (2015) for the reach row: Christians 2.3 B, Muslims 2.0 B (+347 million in a decade,
+  more than all other religions combined), Hindus 1.2 B, Buddhists 324 M and the only
+  major group to shrink, Jews 14.8 M; near parity by 2050 and crossover around 2070.
+- William McCants, *The ISIS Apocalypse* (St. Martin's, 2015), with Graeme Wood, ["What
+  ISIS Really Wants"](https://www.theatlantic.com/magazine/archive/2015/03/what-isis-really-wants/384980/),
+  *The Atlantic* (March 2015). McCants notes the Dabiq prophecy went unemphasised until
+  2014 — the apocalypticism was strategically activated, not constant. Wood's theological
+  weighting drew heavy scholarly pushback; a contested reading, not consensus.
+
+**Factor 4 and the secular control group**
+
+- Robert A. Pape, [*Dying to Win: The Strategic Logic of Suicide
+  Terrorism*](https://cpost.uchicago.edu/publications/dying_to_win_the_strategic_logic_of_suicide_terrorism/)
+  (Random House, 2005) — 315 attacks, 1980–2003, with the Marxist-Leninist, avowedly
+  anti-religious LTTE the single most prolific group. **This is the source that demoted
+  factor 4.** Against it: Assaf Moghadam, ["Suicide Terrorism, Occupation, and the
+  Globalization of Martyrdom"](https://www.tandfonline.com/doi/full/10.1080/10576100600561907),
+  *Studies in Conflict & Terrorism* (2006), arguing Pape understates Salafi-jihadist
+  ideology for transnational attacks. The dataset also ends in 2003, before the Iraq
+  insurgency's peak and before ISIS.
+- Scott Atran & Jeremy Ginges, ["Religious and Sacred Imperatives in Human
+  Conflict"](https://www.science.org/doi/10.1126/science.1216902), *Science* 336:6083 (18
+  May 2012): 855–857; Scott Atran, *Talking to the Enemy* (HarperCollins, 2010). State
+  the finding whole: material incentives to compromise a sacred value *increase* anger,
+  but symbolic gestures — sincere apology, demonstrated respect — produce flexibility
+  even among militants. Sacred values are tractable, just not by money.
+- Yanagisawa et al., ["The Tokyo subway sarin attack has long-term effects on
+  survivors"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7310687/) — 13 dead, 6,226 injury
+  reports, 20 March 1995. (Some counts give 14, including a victim who died in 2020
+  after 25 years in a coma.)
+- R. J. Rummel, [*Death by Government*](https://www.hawaii.edu/powerkills/NOTE1.HTM)
+  (Transaction, 1994) and Stéphane Courtois et al., *The Black Book of Communism*
+  (Harvard University Press, 1997) — cited with the dispute attached, which is most of
+  their value here. Rummel averages secondary sources and skews high; Nicolas Werth and
+  Jean-Louis Margolin, who wrote chapters of the *Black Book*, publicly disowned
+  Courtois's ~100 million aggregate. The defensible claim is the weak one: each of these
+  regimes killed on the order of millions to tens of millions, exceeding any
+  religiously-framed twentieth-century campaign, with the figures contested by a factor
+  of two to four.
+- Karen Armstrong, *Fields of Blood* (2014) for Conjecture C — but it is a popular
+  polemic aimed at the New Atheists; William Cavanaugh, *The Myth of Religious Violence*
+  (Oxford University Press, 2009) makes much the same argument through a university
+  press and is the better citation.
+
+**Hindutva and Kahanism**
+
+- Human Rights Watch, [*"We Have No Orders To Save
+  You"*](https://www.hrw.org/report/2002/04/30/we-have-no-orders-save-you/state-participation-and-complicity-communal-violence)
+  (2002): over 850 dead officially, up to 2,000 unofficially, following the Godhra train
+  fire in which 58 died; police leading mobs with computer-generated lists of Muslim
+  addresses. Human Rights Watch, [*Violent Cow Protection in
+  India*](https://www.hrw.org/report/2019/02/18/violent-cow-protection-india/vigilante-groups-attack-minorities)
+  (2019): at least 44 killed between May 2015 and December 2018, 36 of them Muslim,
+  across 12 states.
+- Council on Foreign Relations, ["Kach, Kahane
+  Chai"](https://www.cfr.org/backgrounders/kach-kahane-chai-israel-extremists) — Baruch
+  Goldstein killed 29 worshippers at the Ibrahimi Mosque on 25 February 1994; Israel
+  outlawed both groups within a month. One currency check the note needs: the US Foreign
+  Terrorist Organization designation came in 1997 and was **revoked in May 2022** on
+  grounds of inactivity, with Kahane Chai retained as a Specially Designated Global
+  Terrorist entity.
