@@ -167,3 +167,88 @@ What would change my mind:
   existence rather than a stranger's?
 - Fold back into [[personal-identity]] — this note assumes pattern-continuity *might* be
   survival; that assumption is exactly what that note has to examine.
+
+## Sources
+
+Checked against the sources rather than cited from memory. This is the note the audit
+changed most: I had a factual error at the centre of the empirical question, and the
+correction moved my conclusion. Note also a methodological trap specific to this topic —
+much of the accessible literature is written by cryonics providers or advocates, so
+wherever possible I have preferred peer-reviewed cryobiology, and flagged where I
+couldn't.
+
+**What preservation actually does**
+
+- **The error at the centre.** R. L. McIntyre & G. M. Fahy, "Aldehyde-stabilized
+  cryopreservation," [*Cryobiology* 71 (2015):
+  448–458](https://pubmed.ncbi.nlm.nih.gov/26408851/), with the Brain Preservation
+  Foundation's [Small Mammal (2016)](https://www.brainpreservation.org/small-mammal-announcement/)
+  and [Large Mammal (2018)](https://www.brainpreservation.org/large-mammal-announcement/)
+  prizes. ASC perfuses glutaraldehyde, then ramps ethylene glycol to 65% and vitrifies at
+  −135 °C; electron microscopy showed "uniformly excellent" ultrastructure with
+  "easily traceable" processes across a whole rabbit brain, later a pig brain. The
+  decisive caveats come from the prize-awarding foundation itself: glutaraldehyde works by
+  "instantly halting metabolism by covalently crosslinking the brain's proteins in place,"
+  this "leads to death by contemporary standards," and "such irreversible crosslinking
+  makes future biological revival exceedingly impractical." No animal was revived. Alcor
+  — which does *not* use aldehyde fixation — calls ASC a "research dead end on the road to
+  developing reversible tissue preservation." So the famous connectome result does not
+  describe what patients receive, and Alcor concedes that for the fixation-free
+  vitrification they do perform, dehydration makes it "difficult to see whether the
+  connectome is preserved or not with electron microscopy." (Bibliographic oddity: PubMed
+  now lists the first author as Aurelia Song after a post-publication name change; the
+  literature cites McIntyre & Fahy.)
+- Gregory M. Fahy, "Cryoprotectant toxicity neutralization," [*Cryobiology* 60 (2010):
+  S45–S53](https://pubmed.ncbi.nlm.nih.gov/19501081/) — "Cryoprotectant toxicity is a
+  fundamental limiting factor for the successful cryopreservation of living systems."
+  Written by the field's leading vitrification researcher and a co-author of the ASC
+  paper, which makes it an admission against interest.
+- **The actual state of the art.** Fahy, Wowk, Pagotan et al., ["Physical and biological
+  aspects of renal vitrification"](https://pmc.ncbi.nlm.nih.gov/articles/PMC2781097/),
+  *Organogenesis* 5 (2009). One rabbit kidney, vitrified and autotransplanted, "proves
+  that organ cryopreservation by vitrification can result in life-supporting function" —
+  but one of two, surviving 48 days, with creatinine peaking at 14.6 mg/dl and stabilising
+  at 6.0–6.4 against a normal 0.6–1.2. That is "kept the animal alive with a badly damaged
+  organ," not "restored to health," and it remains the high-water mark: no whole mammal
+  and no mammalian brain has been cryopreserved and revived. The work is now seventeen
+  years old.
+- Ralph C. Merkle, ["information-theoretic
+  death"](https://www.ralphmerkle.com/definitions/infodeath.html), from "The technical
+  feasibility of cryonics," *Medical Hypotheses* 39 (1992). The citable definition: "A
+  person is dead according to the information-theoretic criterion if the structures that
+  encode memory and personality have been so disrupted that it is no longer possible in
+  principle to recover them." Two things to keep in view: *Medical Hypotheses* was
+  editorially selected rather than peer-reviewed at the time, and this is a stipulative
+  criterion advanced by a cryonics advocate that no medical or legal body uses.
+
+**Cost**
+
+- [Cryonics Institute](https://cryonics.org/membership/): $28,000 for lifetime members,
+  $35,000 for annual members; lifetime membership $1,250. Alcor: ~$220,000 whole-body,
+  $80,000–90,000 neuro (confirmed via independent April 2026 reporting, since alcor.org
+  blocks automated retrieval). Both are provider figures and both are **minimum funding,
+  not total cost** — CI separately lists standby at $30,000, field cryoprotectant at
+  $18,000, and local help from nothing in Michigan to $3,000 on the west coast "and more
+  overseas." Quoting the headline number as the price of cryonics understates it
+  substantially for anyone not dying conveniently close to the facility.
+- A claim I could *not* verify and have therefore kept out of the note: that standby fails
+  in over half of cases, leaving hours of warm ischemia. It traces to cryonics-community
+  sources and I found no peer-reviewed support.
+
+**The decision-theoretic frame**
+
+- Nick Bostrom, ["Pascal's Mugging"](https://nickbostrom.com/papers/pascal.pdf),
+  *Analysis* 69 (2009): 443–445. Three pages of dialogue; the mugger offers "an extra
+  1,000 quadrillion happy days of life" against a credence of "one in 10 quadrillion,"
+  and Pascal, seeing "no flaw in your mathematics," hands over the wallet. Two things I
+  had wrong: the mugger's powers are "strictly finite" by explicit design — the point is a
+  finite analogue that blocks the usual escape through the mathematics of infinity — and
+  Bostrom offers no resolution at all. It poses a problem for unbounded expected-utility
+  reasoning; it settles nothing.
+- Thomas Nagel, ["Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf),
+  *Noûs* 4 (1970): 73–80. Beyond the deprivation account, Nagel addresses suspension
+  directly: what "from outside appeared as a dormant interval of three hundred years could
+  be experienced by the subject as nothing more than a sharp discontinuity in the
+  character of his experiences," and the losses "would not obliterate the basic advantage
+  of continued, though discontinuous, existence." A primary-source treatment of this
+  exact bet, written before there was an industry with an interest in the answer.

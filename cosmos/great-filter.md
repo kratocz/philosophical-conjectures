@@ -134,3 +134,59 @@ attribution belongs here in the text rather than buried in a reading list.
   note is just selection effects I'm failing to correct for?
 - Tie back to [[fermi-paradox]]: these two notes are rival explanations of one silence, and
   neither is finished until I can say how much weight each can bear against the other.
+
+## Sources
+
+Checked against the sources rather than cited from memory. This note lost a premise in
+the process — see the first refutation — which is the most useful thing an audit can do.
+
+**The framing**
+
+- Robin Hanson, ["The Great Filter — Are We Almost Past
+  It?"](https://mason.gmu.edu/~rhanson/greatfilter.html), written 1996, last revised 15
+  September 1998. A self-published essay on a faculty page, not a peer-reviewed paper —
+  cite it as what it is. The core move: combining the standard accounts of biologists,
+  astronomers, physicists and social scientists "would lead us to expect a much smaller
+  filter than we observe," so one of those accounts must be wrong.
+- Nick Bostrom, *Anthropic Bias: Observation Selection Effects in Science and Philosophy*
+  (Routledge, 2002) — for the sample-of-one problem, which is the objection that
+  eventually eats most of this note's confidence.
+- Nick Bostrom, ["Where Are They? Why I Hope the Search for Extraterrestrial Life Finds
+  Nothing"](https://www.technologyreview.com/2008/04/22/220999/where-are-they/), *MIT
+  Technology Review*, May/June 2008. The "finding microbes would be bad news" argument,
+  which I had been presenting as my own reasoning. A magazine essay, so cite it as
+  Bostrom's argument rather than as a result.
+
+**The claim I withdrew**
+
+- Jason T. Wright, Shubham Kanodia & Emily Lubar, ["How Much SETI Has Been Done? Finding
+  Needles in the n-Dimensional Cosmic Haystack"](https://arxiv.org/abs/1809.07252),
+  *Astronomical Journal* 156 (2018). Total haystack 6.4 × 10¹¹⁶ m⁵ Hz² s W⁻¹; all radio
+  SETI to date covers **6.0 × 10⁻¹⁸** of it, which the authors render as roughly 8,000
+  litres against the 1.335 × 10²¹ litres of Earth's oceans — "somewhere between the
+  volumes of a large hot tub and a small swimming pool." Do not use the 3.8 × 10⁻¹⁹
+  figure as the total; that is Breakthrough Listen's L-band campaign alone, and secondary
+  coverage often confuses the two. This is what killed "the empty sky is decent
+  evidence."
+
+**Where the Filter might sit**
+
+- Peter D. Ward & Donald Brownlee, [*Rare Earth: Why Complex Life Is Uncommon in the
+  Universe*](https://link.springer.com/book/10.1007/b97646) (Copernicus/Springer, 2000).
+  Note the asymmetry, which is the whole point: microbial life possibly widespread,
+  complex life vanishingly rare. That places the Filter at the complexity transition, and
+  is why it pairs with Bostrom's argument above rather than competing with it.
+- **Eukaryogenesis, and the split I needed.** Nick Lane & William Martin, ["The energetics
+  of genome complexity"](https://www.nature.com/articles/nature09486), *Nature* 467
+  (2010) — the eukaryotic cell arose "just once in four billion years," with mitochondrial
+  endosymbiosis permitting a ~200,000-fold expansion in energy per gene. The dissent is
+  substantial and ongoing: Michael Lynch & Georgi K. Marinov, ["The bioenergetic costs of
+  a gene"](https://www.pnas.org/doi/10.1073/pnas.1514974112), *PNAS* 112 (2015), find the
+  energetic burden per gene no greater in larger cells and conclude this "eliminate[s] the
+  need to invoke an energetics barrier"; Chiyomaru & Takemoto, [*Royal Society Open
+  Science* 7 (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062059/), reach results
+  "inconsistent with the Lane–Martin hypothesis" on a larger phylogenetically-controlled
+  dataset; Lane & Martin replied in *PNAS* 113 (2016). So: *that* it happened once is well
+  supported and not seriously disputed — eukaryotes are monophyletic with a single LECA.
+  *Why* is contested. Citing the once-ness as proof of near-impossibility is the
+  sample-of-one error wearing a lab coat.

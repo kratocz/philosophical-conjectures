@@ -150,3 +150,66 @@ What would change my mind:
   turned around and pointed at us.
 - Connect to [[great-filter]] once it exists — the two notes constrain each other, and I
   can't finish either alone.
+
+## Sources
+
+Checked against the sources rather than cited from memory. Unlike the [[bible-veracity]]
+audit, what this one mostly turned up wasn't false claims but *stale* ones — this note
+was leaning on 1970s numbers and a 1980s inference that the field has since revised.
+
+**The settlement argument**
+
+- Michael H. Hart, "An Explanation for the Absence of Extraterrestrials on Earth,"
+  [*QJRAS* 16 (1975):
+  128–135](https://ui.adsabs.harvard.edu/abs/1975QJRAS..16..128H/abstract); Frank J.
+  Tipler, "Extraterrestrial Intelligent Beings Do Not Exist," [*QJRAS* 21 (1980):
+  267–281](https://ui.adsabs.harvard.edu/abs/1980QJRAS..21..267T/abstract). The source of
+  "Fact A" and of the von Neumann probe version. Keep straight that Hart's observation is
+  the absence of *artifacts here*, not radio silence.
+- **The correction that matters most.** Jonathan Carroll-Nellenback, Adam Frank, Jason
+  Wright & Caleb Scharf, ["The Fermi Paradox and the Aurora Effect: Exo-civilization
+  Settlement, Expansion, and Steady States"](https://arxiv.org/abs/1902.04450),
+  *Astronomical Journal* 158 (2019). Galactic crossing "never exceeds 300 Myr" once
+  stellar drift is included; fill-in of order ≲1 Gyr even for slow probes. But the
+  paper's punch is the inference, not the number: the authors write that their results
+  "break the link between Hart's famous 'Fact A' … and the conclusion that humans must,
+  therefore, be the only technological civilization in the galaxy," and that their
+  solutions "admit situations where our current circumstances are consistent with an
+  otherwise settled, steady-state galaxy." They also note Newman & Sagan (1981) found
+  settlement times that could approach the galaxy's own age under low growth assumptions.
+
+**The candidate explanations**
+
+- John A. Ball, "The Zoo Hypothesis," [*Icarus* 19
+  (1973)](https://ui.adsabs.harvard.edu/abs/1973Icar...19..347B/abstract): extraterrestrial
+  life may be near-ubiquitous and has "set us aside as part of a wilderness area or zoo."
+  Carroll-Nellenback et al. call this the most extravagant way to contradict Hart's
+  settleability assumption, and point out their own argument reaches the same place
+  without needing it — which is a stronger move than the one this note makes.
+- **Dark forest priority.** David Brin, "The 'Great Silence': The Controversy Concerning
+  Extraterrestrial Intelligent Life," [*QJRAS* 24 (1983):
+  283–309](https://www.davidbrin.com/nonfiction/greatsilence.pdf) — "deadly probes,"
+  traced to Saberhagen's *Berserker* novels, a decade before Liu Cixin, *The Dark Forest*
+  (2008; English trans. 2015). Brin owns the conclusion, Liu the game-theoretic
+  derivation.
+- Nikolai S. Kardashev, "Transmission of Information by Extraterrestrial Civilizations,"
+  *Soviet Astronomy* 8 (1964): 217–221 — and note the paper is actually about information
+  transmission; the energy scale is a device inside it, not its subject.
+- ["Statement Regarding Messaging To Extraterrestrial Intelligence / Active
+  SETI"](https://setiathome.berkeley.edu/meti_statement_0.html), February 2015, 28
+  signatories including Brin and Musk. It asks for worldwide discussion before any
+  transmission; it does *not* declare transmitting dangerous. There is no consensus here
+  in either direction — Hawking urged laying low, Zaitsev transmitted anyway, Shostak
+  argues concealment is already futile.
+
+**Where the evidence is thinner than it looks**
+
+- Jason T. Wright, Shubham Kanodia & Emily Lubar, ["How Much SETI Has Been Done? Finding
+  Needles in the n-Dimensional Cosmic Haystack"](https://arxiv.org/abs/1809.07252),
+  *Astronomical Journal* 156 (2018). All radio SETI ever conducted covers 6.0 × 10⁻¹⁸ of
+  the haystack — a large hot tub against Earth's oceans. (Use that figure, not the 3.8 ×
+  10⁻¹⁹ that covers Breakthrough Listen alone and is often misquoted as the total.) The
+  argument lives in [[great-filter]]; it constrains this note too, since "it is so quiet"
+  is doing work in my opening paragraph.
+- Robert Freitas (1985) argued the Fermi paradox "is not a formal paradox at all" — a
+  cheap hedge I have not yet earned the right to use, since I haven't read it.

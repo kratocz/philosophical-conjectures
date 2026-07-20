@@ -169,3 +169,68 @@ What would change my mind:
   face of Conjecture A.
 - Connects to [[cryonics]] (same additive-value question, applied to a bet) and
   [[personal-identity]] (whether the long-lived self is still the self).
+
+## Sources
+
+Checked against the sources rather than cited from memory. This note was already the
+best-cited of the four outside `religion/`, and the audit mostly did something subtler
+than catch errors: it caught me *recruiting* philosophers to positions they don't hold.
+
+**The primary texts, read in full**
+
+- Bernard Williams, ["The Makropulos Case: Reflections on the Tedium of
+  Immortality"](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf),
+  in *Problems of the Self* (Cambridge University Press, 1973). The 342 is verbatim — "At
+  the time of the action she is aged 342" — as is the thesis: "Immortality, or a state
+  without death, would be meaningless, I shall suggest; so, in a sense, death gives the
+  meaning to life." Two precisions I needed. Williams insists the point isn't peculiar to
+  EM: "it was not a peculiarity of EM's that an endless life was meaningless." And he
+  explicitly declines the pro-mortality conclusion people put in his mouth — "That does not
+  mean that we should not fear death," holding death still reasonably regarded as an evil.
+- Thomas Nagel, ["Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf),
+  *Noûs* 4 (1970): 73–80. "If death is an evil at all, it cannot be because of its
+  positive features, but only because of what it deprives us of." (He also discusses
+  suspended animation directly — see [[cryonics]].)
+
+**The people I misused**
+
+- Samuel Scheffler, *Death and the Afterlife* (Oxford University Press, 2013), esp.
+  pp. 94–95, cf. p. 107. His point is accurate as I stated it: "Williams's complaint about
+  the exhaustion of categorical desires has nothing to do with immortality per se. Rather,
+  it has to do with all abnormally long life spans." What I missed is that **he agrees with
+  Williams's verdict** — per the [NDPR
+  review](https://ndpr.nd.edu/reviews/death-and-the-afterlife/), Scheffler "agrees with
+  Bernard Williams's celebrated contention … that personal immortality would not be
+  something to be desired." He narrows the argument while keeping the conclusion. Verified
+  through the review and a secondary exposition, not Scheffler's own pages.
+- Martha Nussbaum — **NOT VERIFIED**. The likely source, "Mortal Immortals: Lucretius on
+  Death and the Voice of Nature," *Philosophy and Phenomenological Research* 50 (1989),
+  exists ([Chicago Unbound](https://chicagounbound.uchicago.edu/journal_articles/3131/))
+  but hosts only the citation, with a page-range discrepancy across indexes (303–328 vs
+  303–351). I could not confirm she makes the claim I attributed to her, so the note no
+  longer asserts it.
+- Heidegger, *Sein und Zeit* (1927), SZ 250, via [SEP:
+  Heidegger](https://plato.stanford.edu/entries/heidegger/). Death as "the possibility of
+  the absolute impossibility of Dasein." The two traps I walked into: Heidegger sharply
+  distinguishes death from *Ableben*, biological demise — and demise is precisely what a
+  life-extension argument concerns — and his analysis is ontological, describing a
+  structure of Dasein's being, not axiological. "Death gives life meaning" is Williams'
+  claim, not his.
+
+**The rest**
+
+- Nick Bostrom, ["The Fable of the
+  Dragon-Tyrant"](https://nickbostrom.com/papers/the-fable-of-the-dragon-tyrant/),
+  *Journal of Medical Ethics* 31 (2005): 273–277. A fable, not an argued paper — cite it
+  as an expression of the anti-deathist position, which has rhetorical rather than
+  probative force.
+- Martien A. M. Pijnenburg & Carlo Leget, ["Who wants to live forever? Three arguments
+  against extending the human
+  lifespan"](https://pmc.ncbi.nlm.nih.gov/articles/PMC2652797/), *Journal of Medical
+  Ethics* 33 (2007): 585–587. Justice, community, meaning — the three-part structure
+  behind Conjecture D, and the authors rate justice strongest and meaning most
+  contestable. Label it honestly: this is advocacy, arguing life-extension research is
+  "both undesirable and morally unacceptable," not neutral background.
+- Steven Luper, ["Death"](https://plato.stanford.edu/entries/death/), *Stanford
+  Encyclopedia of Philosophy* (2002, rev. 2021) — §7 "Never Dying" is the relevant part.
+  A tertiary source: use it for orientation, cite Williams and Nagel from the primaries.
