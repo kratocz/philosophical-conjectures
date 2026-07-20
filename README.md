@@ -29,3 +29,9 @@ Every entry follows the same rough shape (see `TEMPLATE.md`):
 ## A note on tone
 
 These are thinking-in-progress, not conclusions. If something here sounds confident, read it as "this is my best current guess," not "this is true." The point is the refutations.
+
+## License
+
+The prose in this repository is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) — © Petr Kratochvíl. Copy it, translate it, quote it, fork it and write better refutations; keep the attribution, and release your version under the same terms. Should any code ever land here (a linter config, a build script), that would be MIT — but there is none today.
+
+One request the license can't make: several notes carry tables and scored rankings that only mean what they say alongside the caveats around them. If you reuse one, please bring its context with it.
