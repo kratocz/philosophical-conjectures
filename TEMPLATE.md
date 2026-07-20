@@ -1,6 +1,6 @@
 # [Question or conjecture — a single sentence]
 
-*Status: open · last touched YYYY-MM-DD*
+*Status: open · last touched YYYY-MM-DD · sources checked YYYY-MM-DD*
 
 ## The question
 
@@ -24,3 +24,20 @@ My current best view — explicitly provisional. And the key question: *what wou
 ## Threads to pull
 
 Open sub-questions, tangents for next time, things to read.
+
+## Sources
+
+Only for notes that lean on checkable facts — a purely conceptual argument doesn't need a
+bibliography. Group by argument, and annotate each entry with what it actually supports
+rather than just naming it.
+
+Two things this section exists to record, both of which are easy to lose:
+
+- **Sources cited against your own draft.** If a source corrected you or refused the use
+  you wanted, say so here. That is the most valuable line in the section.
+- **Claims withdrawn or left unverified.** Record them rather than quietly deleting them,
+  with the reason. A note that shows only its wins is advertising.
+
+Mark perishable claims — prices, "no one has yet done X," state-of-the-art, survey data —
+with an inline `(as of YYYY-MM)`. Those go stale without ever becoming false, which is the
+harder failure to notice.

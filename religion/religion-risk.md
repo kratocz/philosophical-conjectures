@@ -1,6 +1,6 @@
 # What makes a religion dangerous — its text, its structure, or the power it holds?
 
-*Status: open · last touched 2026-07-20*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 

@@ -1,6 +1,6 @@
 # Cryonics — a rational bet, or paying to feel less helpless?
 
-*Status: open · last touched 2026-07-07*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 
@@ -29,7 +29,7 @@ resolve it.)
   burial have a success rate of exactly zero. Cryonics only has to beat that. And the
   cost, funded through life insurance, is survivable: the cheaper provider quotes
   twenty-eight thousand dollars for preservation, the expensive one two hundred and
-  twenty thousand for whole-body or eighty for neuro. (Those are minimum *funding* levels
+  twenty thousand for whole-body or eighty for neuro (as of 2026-07). (Those are minimum *funding* levels
   rather than the bill — standby, local help and field cryoprotectant come on top, and
   can add tens of thousands depending on where you have the poor timing to die.)
 
@@ -63,7 +63,7 @@ resolve it.)
   standards" and makes biological revival "exceedingly impractical"; the largest cryonics
   provider calls it a research dead end and does not use it. What patients actually
   receive is fixation-free vitrification — and for *that*, connectome preservation is
-  simply not demonstrated. The provider's own explanation of why is the part that stopped
+  simply not demonstrated (as of 2026-07). The provider's own explanation of why is the part that stopped
   me: vitrifying without fixation dehydrates the tissue, degrading contrast enough that
   electron microscopy struggles to show whether the connectome survived at all. So the
   honest position is worse than "unknown": for the thing actually being sold, pattern
@@ -80,7 +80,8 @@ resolve it.)
   mammalian organ is still a single rabbit kidney from work published in 2009, which kept
   its animal alive for forty-eight days with function so impaired that creatinine never
   came within five times normal. No whole mammal has ever been cryopreserved and revived,
-  and no mammalian brain.
+  and no mammalian brain (as of 2026-07 — this is exactly the kind of claim that expires
+  without ever becoming false, so check it before repeating it).
 
 - **Against B — the mugging analogy may not fit.** A Pascal's mugging relies on a claim
   with *no* mechanism behind it. Cryonics has at least a physical story (structure

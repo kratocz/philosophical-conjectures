@@ -1,6 +1,6 @@
 # The Great Filter — is the hard step behind us, or still ahead?
 
-*Status: open · last touched 2026-07-07*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 
@@ -44,7 +44,9 @@ on the answer, and I don't get to pick which is true.
 - **My evidence that there is a Filter at all is far thinner than I claimed.** I wrote
   that the empty sky is "decent evidence" for one. It isn't, and someone has done the
   arithmetic. Summed across every radio SETI search ever run, the fraction of the
-  plausible search space actually examined is about six parts in a billion billion — the
+  plausible search space actually examined is about six parts in a billion billion (the
+  survey is from 2018 and searching continues, though not by anything like enough to
+  change the order of magnitude) — the
   authors' own comparison is a large hot tub, or a small swimming pool, set against every
   drop of water in Earth's oceans. A null result over *that* fraction carries essentially
   no evidential weight; a follow-up paper puts it as searching a pool's worth of seawater

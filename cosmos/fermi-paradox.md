@@ -1,6 +1,6 @@
 # If others are out there, is the silence an absence — or a choice?
 
-*Status: open · last touched 2026-07-07*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 

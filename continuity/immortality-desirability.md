@@ -1,6 +1,6 @@
 # Would I even want it? The desirability of a much longer life
 
-*Status: open · last touched 2026-07-07*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 

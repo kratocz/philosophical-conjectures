@@ -1,6 +1,6 @@
 # Fairy tale, oracle, or something else — what is the Bible's record against checkable reality?
 
-*Status: open · last touched 2026-07-20*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 
