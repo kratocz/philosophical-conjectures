@@ -139,7 +139,14 @@ What would change my mind:
   rather than manageable side-effects, the collective answer settles toward "no."
 - Progress on [[personal-identity]] — if the "me" that persists across centuries isn't
   really me, then A's payoff shrinks and B's "you get hollowed out" worry sharpens; the
-  desirability question can't fully separate from the identity question.
+  desirability question can't fully separate from the identity question. That note now
+  exists, and it sharpens B rather than dissolving it: if staying interested across
+  centuries requires being continually remade, the psychological connectedness between
+  me-now and me-at-500 may be *weaker* than between me and a contemporary stranger. So
+  the tedium worry and the identity worry turn out to be one worry seen from two sides —
+  and my "the pool of categorical desires might refill" reply above, which I liked, buys
+  its answer to B at the cost of making the identity problem worse. A self that refills
+  its desires indefinitely is a self being replaced by instalments.
 
 ## Threads to pull
 

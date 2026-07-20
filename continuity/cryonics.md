@@ -16,9 +16,11 @@ defend or ridicule. The question isn't "will it work?" (nobody knows). It's: **g
 I can't know, is signing up the rational move, or am I buying a feeling?**
 
 (There's a deeper worry lurking — whether a revived me would even *be* me, or just a
-stranger wearing my memories. That's the identity problem, and it deserves its own note
-[[personal-identity]]. Here I'll fold it in only as one of the unknowns in the bet, not
-resolve it.)
+stranger wearing my memories. That's the identity problem, and it now has its own note:
+[[personal-identity]]. What that note sends back is worse than I expected when I wrote
+this one. I had planned to fold identity in as *one* of the unknowns in the bet. It is
+not one unknown, it is a second and independent one, and the two multiply — see the
+revised "where it stands" below.)
 
 ## Conjectures
 
@@ -137,7 +139,13 @@ What would change my mind:
   anyone from checking.
 - **Progress on the identity question** ([[personal-identity]]) — if I came to believe that
   pattern-continuity is *not* survival, the payoff side of the bet shrinks to "a stranger
-  gets to live," which changes the whole calculation.
+  gets to live," which changes the whole calculation. Having now written that note, I have
+  to record what it does to this one: the bet carries **two independent discounts, and
+  they multiply**. First the empirical one — does the preservation actually retain the
+  pattern? (Undemonstrated, for the procedure patients receive.) Then the philosophical
+  one — *granting perfect preservation*, is pattern-continuity survival at all? Conjecture
+  A above argues the first and quietly assumes the second. It needs to win both, and it
+  only competes in one.
 - **Honest introspection I can't yet do** — some way to weigh how much of my own interest is
   reason and how much is fear. Until I can, I hold the bet as open and treat my own
   motives as one more thing I don't get to observe cleanly.
