@@ -89,7 +89,7 @@ existentially opposite — behind-us is reassurance, ahead-of-us is a quiet alar
 evidence I actually have (one biosphere, one empty sky) cannot adjudicate between them. Any
 confident answer I could give would be temperament dressed as inference.
 
-So instead of a verdict, what I hold is a map of **what would move the needle** — and the
+So instead of a verdict, what I hold is a map of **what would change my mind** — and the
 striking thing is that some "good" discoveries would be terrible news:
 
 - **Finding independent microbial life nearby (Mars, Europa, an exoplanet biosignature)**

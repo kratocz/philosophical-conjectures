@@ -6,6 +6,12 @@ The name is a nod to Karl Popper's *Conjectures and Refutations*: the idea that 
 
 Most of these are worked out in dialogue — often with an AI assistant — which is why they read more like a conversation with myself than like finished essays.
 
+> ### Think something here is wrong? Good — that's the product.
+>
+> Every claim in this repository is open to dispute, and corrections are the most valuable thing anyone can send. **[How to refute something here](CONTRIBUTING.md)** is a map of where these notes are weakest — the "What would change my mind" lists, the claims marked unverified, the ones that may have quietly gone stale — so you don't have to hunt for the soft spots. Aim there.
+>
+> You don't need to soften it, and you don't need to be right.
+
 ## How it's organized
 
 - **`continuity/`** — Death, and what (if anything) survives it. Personal identity over time, cryonics, digital preservation of a self.
@@ -39,7 +45,7 @@ Worth stating plainly, because it bears on how much the refutations are actually
 
 That is a real limit, and it doesn't dissolve by being noticed. I can only argue against myself with the objections I have thought of, and I am not a neutral judge of which ones land — the counterarguments I find devastating tend to be the ones I have already made my peace with, and the ones I find weak deserve more suspicion than I am able to give them. Where a note takes a position on a living tradition, a contested field, or anything that reasonable people organise their lives around, assume the strongest version of the other side is stronger than the version you will find here.
 
-So corrections are wanted, and most of all from people who think a note is wrong. Open an issue or a pull request.
+So corrections are wanted, and most of all from people who think a note is wrong — see **[How to refute something here](CONTRIBUTING.md)** for where to aim.
 
 As notes get read by people who disagree with them, I will record that **in the note** rather than quietly deleting this section. A list of who has pushed back, and where, is more informative than the absence of an admission.
 
