@@ -13,8 +13,9 @@ The chain has many links — the right planet, the origin of life, the leap to c
 (eukaryotic) cells, multicellularity, intelligence, technology, and then *survival* long
 enough to matter. The Filter is wherever the numbers collapse.
 
-The question that actually keeps me up isn't "does the Filter exist" — the empty sky is
-decent evidence that it does. It's **where** it sits relative to us. Behind us, and we're
+The question that actually keeps me up isn't "does the Filter exist" — though my grounds
+for assuming it are far weaker than I first wrote, and I come back to that below. It's
+**where** it sits relative to us. Behind us, and we're
 a fluke that already beat the odds. Ahead of us, and our silence is a warning we don't yet
 know how to read. The same fact — a quiet galaxy — points in opposite directions depending
 on the answer, and I don't get to pick which is true.
@@ -39,6 +40,20 @@ on the answer, and I don't get to pick which is true.
   thing to check to learn our fate, and some of those factors are still in front of us.
 
 ## Refutations & tensions
+
+- **My evidence that there is a Filter at all is far thinner than I claimed.** I wrote
+  that the empty sky is "decent evidence" for one. It isn't, and someone has done the
+  arithmetic. Summed across every radio SETI search ever run, the fraction of the
+  plausible search space actually examined is about six parts in a billion billion — the
+  authors' own comparison is a large hot tub, or a small swimming pool, set against every
+  drop of water in Earth's oceans. A null result over *that* fraction carries essentially
+  no evidential weight; a follow-up paper puts it as searching a pool's worth of seawater
+  for dolphins and pronouncing the ocean dolphin-free. Two things I should also stop
+  running together: the absence of *artifacts in this solar system* is a different and
+  much better-constrained observation than the absence of *radio signals*, and the
+  swimming-pool figure applies only to the second. So the Filter is not something the
+  data hands me. It is a hypothesis I find compelling on other grounds, which is a
+  different and humbler status than I gave it.
 
 - **We are a sample of one.** Every conjecture is built on a single data point — Earth —
   and you cannot estimate the rarity of a step from one success. We can't even tell whether
@@ -88,16 +103,33 @@ striking thing is that some "good" discoveries would be terrible news:
 
 The uncomfortable summary: the more life we find, the worse our odds probably are. I'd
 rather the universe stayed empty around us — which is a strange thing to hope for, and
-worth noticing that I hope it.
+worth noticing that I hope it. The argument isn't mine: Bostrom published it under the
+title "Why I Hope the Search for Extraterrestrial Life Finds Nothing," and that
+attribution belongs here in the text rather than buried in a reading list.
 
 ## Threads to pull
 
-- **Hanson's original formulation** of the Great Filter — read it straight, as the source
-  of the "behind vs. ahead" framing.
-- The **Rare Earth hypothesis** (Ward & Brownlee) as the strongest case for Conjecture A —
-  which of its many required coincidences actually hold up?
+- **Hanson's original formulation** of the Great Filter (1996, revised 1998) — read it
+  straight, as the source of the "behind vs. ahead" framing. Worth knowing what it is: a
+  self-published essay on a university faculty page, not a peer-reviewed paper. It has
+  been enormously influential regardless, but that is a fact about the idea's reach, not
+  about its vetting.
+- The **Rare Earth hypothesis** (Ward & Brownlee, 2000) as the strongest case for
+  Conjecture A — and note the shape I had flattened: the thesis is deliberately
+  *asymmetric*, holding that microbial life may be widespread while complex life is
+  vanishingly rare. That puts the Filter at the complexity transition rather than at
+  abiogenesis, which is exactly why it pairs with the "finding microbes would be bad
+  news" argument above. Which of its many required coincidences actually hold up?
 - **Eukaryogenesis as the candidate bottleneck** — the argument that the mitochondrial
-  merger happened *once* in four billion years. How firm is "once"?
+  merger happened *once* in four billion years. I now have a partial answer, and it
+  splits in a way that matters. The *once* is firm: eukaryotes are monophyletic, tracing
+  to a single last common ancestor, and recent phylogenomics finds no sign of a second
+  symbiotic contribution. But the *therefore it was near-impossible* is contested — the
+  bioenergetic-barrier explanation has been under sustained attack since 2015, with
+  critics arguing the energy cost per gene is no higher in large prokaryotes, which
+  dissolves the proposed barrier. So the singularity is an observation and the
+  improbability is an inference, and a single event in a sample of one cannot establish a
+  low probability. Which is precisely the trap this note complains about two sections up.
 - The **observation-selection / anthropic** machinery (Bostrom) — how much of this entire
   note is just selection effects I'm failing to correct for?
 - Tie back to [[fermi-paradox]]: these two notes are rival explanations of one silence, and

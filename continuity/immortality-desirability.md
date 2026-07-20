@@ -35,14 +35,24 @@ life, centuries or open-ended, with the *option* to stop.
   left is either endless boredom (you, but hollowed out) or endless reinvention (not really
   you anymore). Either way the thing you wanted to preserve doesn't survive the length of
   the life. So the immortal Elina Makropulos, at 342, finally refuses the elixir — not from
-  despair but from having *finished*.
+  despair but from having *finished*. (Williams is more careful than the slogan version of
+  him. He explicitly holds that death is still, other things equal, reasonably regarded as
+  an evil, and that his conclusion does not mean we shouldn't fear it. Enlisting him as
+  straightforwardly pro-mortality misreads him — a temptation worth naming, because I feel
+  it every time I summarize him.)
 
 - **Conjecture C — Finitude is the condition of meaning, not its enemy.** A stronger claim
   than B: it's not that long life risks boredom, it's that *a limit is what makes anything
   matter*. Scarcity of time forces prioritization and intensifies commitment; a project you
-  can always defer forever loses its weight. A life needs an ending the way a story does, to
-  have a shape at all (an echo of Heidegger's being-toward-death, and of Nussbaum's claim
-  that our characteristic values are *built out of* our mortality).
+  can always defer forever loses its weight. A life needs an ending the way a story does,
+  to have a shape at all. (I originally reached for Heidegger and Nussbaum in this
+  parenthesis. Both need more care than a parenthesis affords. Heidegger's
+  being-toward-death is an *ontological* claim about the structure of Dasein, not an
+  axiological one that mortality is good — and he sharply separates death from mere
+  biological demise, which is precisely what a cryonics argument is about, so borrowing
+  him against life extension equivocates between two senses of the word. And I have not
+  verified that Nussbaum makes the claim I attributed to her. The one thinker I can quote
+  verbatim for this position is Williams: "death gives the meaning to life.")
 
 - **Conjecture D — The real risks are social, not personal.** Even bracketing meaning
   entirely: a world where people stop dying is a world of compounding problems.
@@ -53,13 +63,20 @@ life, centuries or open-ended, with the *option* to stop.
 
 ## Refutations & tensions
 
-- **Against B — boredom is contingent, not necessary (Scheffler's move).** Samuel Scheffler
-  points out that Williams' complaint is really about *any* abnormally long life, not
-  infinity as such: if your pool of categorical desires is finite it empties in a finite
-  time regardless. But that cuts both ways — maybe the pool *isn't* fixed. New people, new
-  arts, new problems generate new categorical desires; there's no proof the well runs dry
-  rather than being continuously refilled. Williams assumes a static self; a growing one
-  might never finish.
+- **Against B — boredom is contingent, not necessary (Scheffler's move, and a correction
+  to how I used it).** Samuel Scheffler points out that Williams' complaint is really
+  about *any* abnormally long life, not infinity as such: if your pool of categorical
+  desires is finite it empties in finite time regardless, so the argument cannot
+  discriminate between an immortal life and a merely very long one. Here is what I had
+  missed, and it matters — **Scheffler is not on my side.** He attacks the *scope* of
+  Williams' argument while agreeing with its *verdict*: he too holds that personal
+  immortality would not be something to desire. So this is an internal repair of the
+  tedium case, not a refutation of it, and I was recruiting him as a counterweight he
+  declines to be. What survives as actually mine is the step after: maybe the pool *isn't*
+  fixed. New people, new arts, new problems generate new categorical desires; there's no
+  proof the well runs dry rather than being continuously refilled. Williams assumes a
+  static self; a growing one might never finish. That argument now has to stand on its
+  own, without Scheffler's shoulder to lean on.
 
 - **Against B and C together — the "always an out" defense.** If continued life is
   *optional* — if I can stop whenever the desires genuinely run out, as Makropulos herself
@@ -127,18 +144,27 @@ What would change my mind:
 ## Threads to pull
 
 - **Bernard Williams, "The Makropulos Case: Reflections on the Tedium of Immortality"** — the
-  canonical statement of B. Read it against the Janáček opera it's named for. [PDF](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf)
-- **Samuel Scheffler, *Death and the Afterlife*** — the "abnormally long life, not infinity"
-  reframing of Williams, and the categorical-desires-are-finite fork.
+  canonical statement of B. Read it against its source — Karel Čapek's play *Věc
+  Makropulos*, which Janáček then made into the opera; the order matters and I had it
+  collapsed. [PDF](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf)
+- **Samuel Scheffler, *Death and the Afterlife*** (2013) — the "abnormally long life, not
+  infinity" reframing of Williams, and the categorical-desires-are-finite fork. Read him
+  as repairing Williams rather than opposing him; he shares the verdict. I have this from
+  the reviews and a secondary exposition, not from Scheffler's own pages — worth checking
+  against a copy before I lean on him again.
 - **Nick Bostrom, "The Fable of the Dragon-Tyrant"** — the sharpest pro-longevity allegory;
   read as the counterweight to C. [Wikipedia overview](https://en.wikipedia.org/wiki/The_Fable_of_the_Dragon-Tyrant) · the deprivation view it leans on: **Thomas Nagel, "Death" (1970)** [PDF](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)
-- **Martha Nussbaum** on mortality as constitutive of our values — the strongest version of
-  C (see the Makropulos-debate literature).
+- **Martha Nussbaum** on mortality as constitutive of our values — potentially the
+  strongest version of C, but flagged as *unverified*: the likely source is "Mortal
+  Immortals: Lucretius on Death and the Voice of Nature" (1989), whose existence I have
+  confirmed and whose contents I have not. Until I read it, C's strongest statement is
+  Williams', not hers.
 - **Pijnenburg & Leget, "Who wants to live forever? Three arguments against extending the
   human lifespan"** (2007) — justice, community, meaning; the backbone of D. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2652797/)
 - **The Epicurus / Lucretius symmetry argument** — the flip side: maybe death isn't bad *at
   all*, so the whole desirability question is confused. Worth taking seriously enough to
-  refute. [SEP: Death](https://plato.stanford.edu/entries/death/)
+  refute. [SEP: Death](https://plato.stanford.edu/entries/death/) (Steven Luper) — §7,
+  "Never Dying," is the section that bears directly on this note.
 - **Aubrey de Grey / SENS** — the "aging is an engineering problem" position; the practical
   face of Conjecture A.
 - Connects to [[cryonics]] (same additive-value question, applied to a bet) and
