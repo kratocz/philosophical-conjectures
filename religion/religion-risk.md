@@ -73,21 +73,77 @@ work. Too little: C can't say why *this* uniform recurs so reliably. The honest
 synthesis: structure loads the gun, power pulls the trigger — B for the loading, C for
 the firing.
 
-**Scoring today's majors against the six factors** — my provisional read, held loosely;
-every cell hides a fight:
+**A quantified scorecard.** Can the risk be scored? With three disclaimers, yes — and
+the disclaimers are half the finding. The numbers are ordinal guesses by one author
+(±1 per cell is entirely possible); the additive total ignores interactions (canonical
+ammunition × freelance interpretation is really multiplicative — Buddhism's 2 on R4
+with no ammunition behind it is nearly harmless); and only the six starred axes were
+stated in advance in Conjecture B — the rest are post-hoc additions and deserve
+proportionally less trust. Each cell scores a *configuration*, not an essence: first
+the current lived mainstream, then, after the slash, the most dangerous live strain of
+that tradition (named below). 0 = low risk, 2 = high.
 
-| Factor | Christianity | Islam | Judaism | Hinduism | Buddhism |
+| Risk axis (0–2) | Christianity | Islam | Judaism | Hinduism | Buddhism |
 |---|---|---|---|---|---|
-| Exclusive salvation | yes (most strains) | yes | no (no mission) | no | no |
-| Literalism mainstream | minority | strong (text as dictation) | minority | minority | minority |
-| Central interpretive authority | partial (Rome; none for Protestants) | none (Sunni), partial (Shia) | strong tradition | none | none |
-| Martyrdom payoff | historical | live in radical strains | marginal | marginal | marginal |
-| Apocalypticism | live in evangelical strains | live in Mahdist strains | muted | cyclical, distant | cyclical, distant |
-| State ambition | fringe nationalisms | live (sharia as state law) | live locally (religious settler right) | live (Hindutva) | local (Myanmar, Sri Lanka) |
+| R1 Canonical ammunition (violent commands) | 2 / 2 | 2 / 2 | 2 / 2 | 1 / 1 | 0 / 1 |
+| R2* Exclusive truth & salvation | 1 / 2 | 2 / 2 | 0 / 1 | 0 / 1 | 0 / 1 |
+| R3* Text literalism as mainstream doctrine | 1 / 2 | 2 / 2 | 1 / 2 | 0 / 1 | 0 / 1 |
+| R4* Freelance interpretation rights | 1 / 2 | 2 / 2 | 1 / 2 | 2 / 2 | 2 / 2 |
+| R5* Martyrdom payoff | 0 / 1 | 1 / 2 | 0 / 1 | 0 / 1 | 0 / 1 |
+| R6* Apocalypticism | 1 / 2 | 1 / 2 | 0 / 2 | 0 / 0 | 0 / 0 |
+| R7* State ambition | 1 / 2 | 2 / 2 | 1 / 2 | 1 / 2 | 1 / 2 |
+| R8 Anti-epistemics (against science/schooling) | 1 / 2 | 1 / 2 | 0 / 1 | 0 / 2 | 0 / 1 |
+| R9 Exit costs (apostasy, shunning) | 0 / 1 | 2 / 2 | 1 / 2 | 0 / 1 | 0 / 1 |
+| R10 Individual-rights burden (women, minorities, castes) | 1 / 2 | 2 / 2 | 1 / 2 | 2 / 2 | 1 / 1 |
+| R11 Out-group dehumanization | 1 / 2 | 1 / 2 | 1 / 2 | 1 / 2 | 0 / 2 |
+| **Risk total (of 22)** | **10 / 20** | **18 / 22** | **8 / 19** | **7 / 15** | **4 / 13** |
 
-Read down the columns and today's risk ranking writes itself. Read across history and it
-reshuffles completely — sixteenth-century Christianity would have swept the board. The
-table measures configurations, not essences.
+Worst strains scored: dominionist Christian nationalism; Salafi-jihadism; Kahanist
+messianism; militant Hindutva; ethno-nationalist Buddhism (Ma Ba Tha / BBS style).
+Starred axes are Conjecture B's pre-registered six.
+
+Contested cells, admitted. Islam's mainstream column carries the model's biggest
+*internal* variance — it averages Senegal with Saudi Arabia; survey support for
+sharia-as-state-law justifies the 2s while whole liberal populations contradict them.
+Christianity's R1=2 scores the canon's content, not its use — the Old Testament rides
+along deactivated, and the deactivation shows up elsewhere (Rome lowering R4, allegory
+lowering R3). Picking Kahanism rather than the Haredi world as Judaism's worst strain
+raises R7 and lowers R8–R9; the choice of "worst" is itself a modeling decision.
+
+The ledger has a credit side too (mainstream only, 0–2 each):
+
+| Credit axis | Christianity | Islam | Judaism | Hinduism | Buddhism |
+|---|---|---|---|---|---|
+| C1 Charity & community output | 2 | 2 | 2 | 1 | 1 |
+| C2 Compatibility with secular pluralism | 2 | 1 | 2 | 2 | 2 |
+| C3 Institution-building record (schools, hospitals, scholarship) | 2 | 2 | 2 | 1 | 1 |
+| **Credit total (of 6)** | **6** | **5** | **6** | **4** | **4** |
+| Reach (adherents, trend) | ~2.4 B, growing | ~2.0 B, fastest growth | ~15 M, flat | ~1.2 B, flat | ~0.5 B, stagnant |
+
+What the numbers say that the prose didn't:
+
+- **The extremes converge.** Mainstream totals span 4–18; worst-strain totals crowd
+  into 13–22. Radicalization pulls every tradition toward the same attractor
+  configuration regardless of starting canon — which is Conjecture B wearing numbers.
+  If text were destiny, the extremes would inherit their mainstreams' spacing.
+- **Islam's gap is the smallest (18 → 22).** Two readings, probably both true: the
+  mainstream cell averages away enormous internal variance, and the structural distance
+  from lived conservative Islam to jihadism is genuinely short — literalism and state
+  ambition are already in place, so the radical only adds martyrdom, apocalypse, and
+  dehumanization. Christianity and Judaism show the opposite pattern: gaps of 10–11
+  points, taming layers doing visible work.
+- **Credit doesn't differentiate (4–6 of 6).** Every organized religion runs charity
+  and builds institutions; it is the harm side where configurations diverge. That
+  asymmetry is why the argument is always about risk.
+- **Impact ≠ score.** Civilizational exposure multiplies score by reach and leverage:
+  Christianity and Islam hold 4.4 billion people between them; Hindutva steers a
+  nuclear state of 1.4 billion; Kahanism is numerically tiny but sits inside another
+  nuclear state at a geopolitical flashpoint. Buddhism is lowest on both score and
+  leverage.
+
+Read down the columns and today's risk ranking writes itself. Read across history and
+it reshuffles completely — sixteenth-century Christianity's mainstream column would
+have looked like the jihadist one. The table measures configurations, not essences.
 
 **The rigid-vs-vague question dissolves on inspection — it's the wrong axis.** Vagueness
 is bidirectional: it lets Quakers and liberation theology out, and it lets anyone
@@ -111,7 +167,8 @@ the story is ending stops investing in the sequel.
 
 **Tensions I can't fully discharge.** My six factors were stated in advance, but *I*
 chose them, knowing roughly how the scoring would come out — a whiff of the
-unfalsifiability that haunts all structural explanations. And the moral ledger is not
+unfalsifiability that haunts all structural explanations — and the scorecard's five
+added axes are more post-hoc still. And the moral ledger is not
 one-sided: abolition was driven substantially by Quakers and evangelicals, hospitals and
 universities have religious foundations, the charity data are real. A full accounting
 would weigh the credit column against the body count; this note hasn't done that
@@ -122,9 +179,10 @@ arithmetic — it has only asked where the danger lives.
 **B, with C as the amplifier.** Text is ammunition, structure is the gun, power is the
 trigger. Moral assessment of "a religion" in the abstract is close to meaningless; what
 can be assessed is a configuration at a time and place. On my declared metric, today's
-configurations rank fundamentalist Islamism as the highest current risk — it alone
-scores all six factors with real state programs behind it, while Islam as a whole spans
-everything from that to Sufi quietism. Politicized Christian nationalism plus
+configurations rank fundamentalist Islamism as the highest current risk — its jihadist
+wing is the only configuration that maxes the scorecard, and it launches from the
+highest mainstream base — while Islam as a whole spans everything from that to Sufi
+quietism. Politicized Christian nationalism plus
 creationist anti-epistemology comes second: mild on violence, corrosive on
 truth-seeking, and positioned inside powerful states. Hindutva third and rising.
 Judaism's and Buddhism's risks are real but local. Held loosely — the whole point is
@@ -157,6 +215,11 @@ What would change my mind:
   caliphate ended in 1924) or something structural?
 - Quantify the credit column: charity, literacy, hospitals, abolition — against wars,
   inquisitions, witch hunts. Has anyone done this arithmetic honestly?
+- Blind scoring: hand the axes to raters who can't see the totals coming — several
+  independent people, or several independent models — and check inter-rater agreement.
+  My cells know what I believe.
+- Replace the additive total with an interaction model (ammunition × interpretation
+  rights × state access) and see whether the ranking survives the change of arithmetic.
 - Memetics as the frame over both notes: religions as evolving memeplexes whose fitness
   is orthogonal to both truth ([[bible-veracity]]) and benevolence. That would predict
   exactly the pattern found here: whatever survives, survives.
