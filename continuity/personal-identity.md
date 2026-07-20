@@ -1,6 +1,6 @@
 # What makes a future person me — and is that even the question that matters?
 
-*Status: open · last touched 2026-07-20 · sources checked pending*
+*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
 
 ## The question
 
@@ -70,8 +70,13 @@ nothing depends on is doing no work, and I don't think it exists.
 **Against B — the transplant intuition.** Move my brain into another body. Nearly everyone
 says I went with it: I wake up looking in an unfamiliar mirror. Animalism appears to say
 the opposite — the organism stayed behind, so I stayed behind, and what woke up elsewhere
-was a different animal with my memories. Some animalists accept this and argue the
-intuition is confused. But it is a very hard bullet to bite, and it gets harder in the
+was a different animal with my memories. Animalists have a better answer here than "so
+much the worse for the intuition": they offer an error theory. In every actual case,
+psychological continuity and same-body travel together, so we generalise from a
+correlation that the thought experiment is designed precisely to break. That is a real
+reply. Parfit's counter is that criteria only become informative in the cases where they
+*conflict*, which is the one place the correlation can't do the work. But it is a very
+hard bullet to bite, and it gets harder in the
 other direction: a body kept breathing after brain death is still the same organism, and
 almost nobody thinks I am still there.
 
@@ -84,8 +89,11 @@ but *continuity* through intermediate links. That works, and it is why C is stat
 in terms of a rope rather than a thread. But it concedes something: identity now depends
 on a chain that can be strong or weak, and chains admit degrees while identity does not.
 
-**Against C — branching, and the "only x and y" problem.** This is the argument I find
-hardest to escape. Suppose the teleporter scans me on Earth and builds a perfect copy on
+**Against C — branching, and whether identity can depend on a third party.** This is the
+argument I find hardest to escape. (I had labelled this "the only x and y problem" from
+memory. The *content* is a real and named principle — that identity is intrinsic, holding
+between two person-stages in virtue of the relation between them alone — but I could not
+verify that label, so it's gone. The principle belongs to Noonan and Wiggins.) Suppose the teleporter scans me on Earth and builds a perfect copy on
 Mars, but this time the original isn't destroyed. Now two people have equal claim.
 Identity is one-to-one, so at most one is me — but they are symmetrical, so neither is,
 so I did not survive. Yet nothing bad happened to the Mars person that wouldn't equally
@@ -117,13 +125,30 @@ are wrong and my theory is right" is exactly what someone would say who had reas
 themselves into a corner.
 
 **The evidence that the intuitions are not tracking anything stable.** The sharpest thing
-I know here is that the *same* scenario, described two ways, flips people's judgments.
-Told as "your psychology will be transferred into that body," we say: I go with the
-psychology. Told as "tomorrow you will be tortured, and beforehand your memories will be
-erased and replaced," we recoil — the fear stays with the body. Same facts, opposite
-verdicts, and no obvious way to say which framing is the misleading one. That is either a
-devastating result about our concept or a devastating result about the method of
-consulting intuitions, and I am not sure which.
+I know here is that the *same* scenario, described two ways, flips the verdict. Described
+from outside — two people will have their psychologies swapped, now decide which body
+gets the money and which gets the pain — we identify with the psychology and say the swap
+is real. Described from inside as a graduated series, each step seeming to add nothing
+that should matter — you will be tortured tomorrow; also your memories will be erased
+first; also you will be given someone else's memories — the fear stays put, with the
+body, all the way to the end.
+
+**And here is the part I had backwards**, which is stranger than the flip itself: it is
+the *third-personal* description that yields the psychological answer, and the
+*first-personal* one that yields the bodily answer. Williams flags this explicitly as
+running counter to what is vaguely supposed — you would expect the first-person
+perspective to be where the psychological view feels most obvious, and it is exactly the
+opposite. I had assumed the mapping ran the other way and would have written it that way
+unchecked.
+
+Worth recording how far from a resolution Williams himself stops, since he is routinely
+cited as having settled something. He says he is "not in the least clear which option it
+would be wise to take if one were presented with them before the experiment," adds "I
+find that rather disturbing," and introduces his closing lean toward the bodily criterion
+as "one rather shaky way" of approaching a resolution — then hedges it three more times
+in the last few sentences. So: either a devastating result about our concept, or about
+the method of consulting intuitions at all. His answer is that he doesn't know, and I am
+not going to claim more than he did.
 
 ## Where it stands
 
@@ -184,17 +209,26 @@ writing it:**
 
 ## Threads to pull
 
-- **The no-self tradition got here roughly twenty-four centuries early.** Buddhist
-  *anattā* denies a persisting self and treats the person as a bundle of processes, which
-  is close to reductionism arrived at by an entirely different route and for entirely
-  different purposes. Parfit himself is said to have noticed the convergence. Worth
-  reading carefully rather than as a slogan — and worth resisting the temptation to
-  flatten two traditions into one because they agree on a negation.
-- **Split-brain patients as the real-world fission case** — but check the current
-  literature rather than the famous version. The textbook story of two independent
-  conscious agents in one skull has been challenged, and I should not build on a picture
-  that may be a generation out of date. (Precisely the *stale, not false* failure mode
-  this repo now has a convention for.)
+- **The no-self tradition got here roughly twenty-four centuries early** — and the
+  convergence is more contested than the slogan suggests. Parfit gave an appendix of
+  *Reasons and Persons* the title "Buddha's View," so he certainly saw a resemblance. But
+  two strands of scholarship pull it apart. Some readers hold the Buddha never
+  categorically denies a self transcending the five aggregates, so "Buddhism = no-self"
+  is already an interpretation rather than a datum. And at least one recent reading takes
+  classical Abhidharma to be *eliminativism* about persons — persons do not exist — which
+  is precisely what Parfit denies: on his view persons do exist, in the way that nations
+  exist. Two positions agreeing on a negation is not the same as two positions agreeing.
+  I had the instinct right in the first draft and now have the specifics.
+- **Split-brain patients as the real-world fission case** — and a caution against trading
+  one confident story for another. The textbook picture of two independent conscious
+  agents in one skull has genuinely been challenged: a 2017 study found that severing the
+  connections "splits visual perception, but does not create two independent conscious
+  perceivers within one brain." But that was contested in print almost at once, and the
+  2020 collective review — written by researchers from both camps together — concludes
+  the evidence is *insufficient to answer the question* and that the answer may not be a
+  simple yes or no. So the honest line is that the empirical question is open, not that it
+  has been settled the other way. (Precisely the *stale, not false* failure mode this repo
+  now has a convention for — and I came close to committing the updated version of it.)
 - **Nozick's closest-continuer theory** — the attempt to keep identity while handling
   branching, by making it depend on who the nearest surviving candidate is. Does it dodge
   the "only x and y" objection or just relocate it?
@@ -211,3 +245,125 @@ writing it:**
   waiting on this. And forward to whatever eventually lands in `mind/` — the persistence
   question and the consciousness question constrain each other, and I have written
   neither half honestly yet.
+
+## Sources
+
+Checked against the sources rather than cited from memory — and this note is the reason
+that rule is in `AGENTS.md`. Written first, verified second, and the verification caught
+one claim I had **backwards**, one label I had invented, and several attributions that
+belonged to someone other than the person I gave them to. Two items below are marked
+unverified because I could not get at the primary text; they stay marked rather than
+quietly dropped.
+
+**The classical positions**
+
+- John Locke, *An Essay Concerning Human Understanding*, Bk II ch. xxvii, "Of Identity
+  and Diversity" — added to the second edition in 1694. Verbatim: "in this alone consists
+  personal identity, i.e. the sameness of a rational being: and as far as this
+  consciousness can be extended backwards to any past action or thought, so far reaches
+  the identity of that person," and explicitly "not in the identity of substance, but…
+  in the identity of consciousness." **Careful:** calling this a *memory* criterion is
+  Reid's gloss, not Locke's word — Locke says consciousness, and whether the two are
+  synonymous for him is live scholarly dispute. See Jessica Gordon-Roth, ["Locke on
+  Personal Identity"](https://plato.stanford.edu/entries/locke-personal-identity/), SEP.
+  Section numbering differs between editions; cite from Nidditch.
+- Thomas Reid, *Essays on the Intellectual Powers of Man* (1785), Essay III ch. 6. The
+  brave officer verbatim: a boy "flogged when a boy at school for robbing an orchard,"
+  who "took a standard from the enemy in his first campaign," and was "made a general in
+  advanced life" — conclusion, "the general is, and at the same time is not, the same
+  person with him who was flogged at school."
+
+**Parfit**
+
+- Derek Parfit, "Personal Identity," *Philosophical Review* 80 (1971): 3–27, and *Reasons
+  and Persons* (Clarendon/OUP, 1984). Chapter 12 is titled, by Parfit, "Why Our Identity
+  Is not What Matters"; chapter 13 is "What Does Matter." From the 1971 paper: "Identity
+  is a one-one relation. Wiggins' case serves to show that what matters in survival need
+  not be one-one."
+- **Attribution to fix:** the fission case is *Wiggins' case* in Parfit's own text — he
+  credits David Wiggins throughout. "Parfit's fission case" is convenient shorthand that
+  Parfit does not claim.
+- **Not verified:** Parfit's definitional sentence for Relation R. *Reasons and Persons*
+  is lending-restricted where I looked. One caution I did get: "psychological
+  connectedness and continuity **with any cause**" is Parfit's *conclusion*, argued for —
+  his official formulation is "with the right kind of cause." Do not state the conclusion
+  as the definition.
+- Parfit, "We Are Not Human Beings," *Philosophy* 87 (2012): 5–28
+  ([OA](https://doi.org/10.1017/S0031819111000520)) — the source of the teletransportation
+  and Branch-Line descriptions quoted above, in Parfit's own later words.
+- The intrinsicness principle behind the branching objection — that identity holds
+  between two person-stages in virtue of their relation alone — is attributed by the
+  [IEP](https://iep.utm.edu/person-i/) to Noonan (1989) and Wiggins (2001). The label
+  "only x and y principle," which I had used, I could not verify anywhere; it is now out
+  of the note.
+
+**Animalism and its critics**
+
+- Eric Olson, *The Human Animal: Personal Identity Without Psychology* (Oxford University
+  Press, 1997); Stephan Blatti, ["Animalism"](https://plato.stanford.edu/entries/animalism/),
+  SEP. Survival consists in the continuation of "purely animal functions—metabolism, the
+  capacity to breathe and circulate one's blood." **Attribution to fix:** the
+  thinking-animal argument is not Olson's invention — SEP credits Snowdon, Carter,
+  McDowell and Ayers, with Olson sharpening and popularising it.
+- The transplant intuition, and Olson's error-theoretic reply, are both stated in Parfit
+  (2012): "In all actual cases, when some present person is psychologically continuous
+  with some past person, that is strong evidence that these people have the same body,"
+  hence the overgeneralisation — with Parfit rejecting the reply because criteria must be
+  compared "in cases in which these criteria would conflict."
+
+**Williams — where I was wrong**
+
+- Bernard Williams, "The Self and the Future," *Philosophical Review* 79 (1970): 161–180.
+  Three corrections came out of reading this rather than remembering it. (1) The mapping
+  is **reversed** from what I assumed: Williams says outright that "the first argument,
+  which led to the 'mentalistic' conclusion… was an argument entirely conducted in
+  third-personal terms. The second argument, which suggested the bodily continuity
+  identification, concerned itself with the first-personal issue," and notes this "runs
+  counter to something which is… often rather vaguely supposed." (2) The first-personal
+  case is a **graduated series** of six steps, not a single description — the force comes
+  from each step seeming to add nothing that should change the verdict. (3) He does not
+  conclude: "I am not in the least clear which option it would be wise to take… I find
+  that rather disturbing," and his bodily lean is offered as "one rather shaky way" toward
+  a resolution. Anyone citing this paper as settling the matter stopped reading early.
+
+**The rest**
+
+- Marya Schechtman, *The Constitution of Selves* (Cornell University Press, 1996) — the
+  characterization/reidentification distinction (1996: 1, 24). It is not merely a
+  taxonomy: she uses it to argue that psychological-continuity theory is *incoherent*,
+  because the goal of giving a reidentification criterion is at odds with defining
+  identity by psychological continuity.
+- Robert Nozick, *Philosophical Explanations* (Harvard University Press, 1981), ch. 1 —
+  closest-continuer theory, which handles branching by making identity **extrinsic**, and
+  so buys its solution at the cost of the principle above. Parfit replies in Appendix E,
+  "The Closest Continuer Schema."
+- Sydney Shoemaker, "Personal Identity: A Materialist's Account," in Shoemaker &
+  Swinburne, *Personal Identity* (Blackwell, 1984), 89ff. and 108–111 — psychological
+  continuity via causal dependence, and the brain-state-transfer case. Verified through
+  SEP's page citations, not Shoemaker's text directly.
+- Split brain: Pinto et al., ["Split brain: divided perception but undivided
+  consciousness"](https://pubmed.ncbi.nlm.nih.gov/28122878/), *Brain* 140 (2017), against
+  de Haan et al., ["Split-Brain: What We Know Now"](https://pubmed.ncbi.nlm.nih.gov/32399946/),
+  *Neuropsychology Review* 30 (2020) — the latter co-authored across both camps and
+  concluding "the body of evidence is insufficient to answer this question." Pinto was
+  contested in *Brain* by Volz & Gazzaniga within months. Classic philosophical treatment:
+  Thomas Nagel, "Brain Bisection and the Unity of Consciousness," *Synthese* 22 (1971).
+- **Not verified:** the contents of Parfit's Appendix J, "Buddha's View." The title is
+  confirmed through the publisher's chapter records; what it actually quotes is not, and
+  I have not asserted it. On the disputed convergence see Mark Siderits,
+  ["Buddha"](https://plato.stanford.edu/entries/buddha/) and Monima Chadha, ["Personhood
+  in Classical Indian Philosophy"](https://plato.stanford.edu/entries/personhood-india/),
+  SEP — the latter recording Chadha's (2021) reading of Vasubandhu as *eliminativist*,
+  which breaks the parallel with Parfit's reductionism.
+- Eric T. Olson, ["Personal Identity"](https://plato.stanford.edu/entries/identity-personal/),
+  SEP (2002, rev. 2023) — indispensable, but note it is written by an animalist and party
+  to the dispute, so its framing of psychological-continuity views is not neutral ground.
+  A separate entry, Annette Dufner's "Personal Identity and Ethics," appeared in 2025.
+
+**A note on method, since it bears on everything above.** During this verification an
+automated summarizer misreported the Williams paper as having appeared in *Philosophy of
+Science* and produced a plausible, well-formed, entirely **fabricated** closing quotation
+for it. The error was caught only because someone opened the scanned pages. That is the
+argument for the rule in `AGENTS.md`, made better than I could have made it in the
+abstract: fluent citations are cheap, and the failure mode is not gibberish but something
+that reads exactly right.
