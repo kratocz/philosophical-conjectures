@@ -42,11 +42,14 @@ has to be allowed to differ by shelf.
 
 **Against A — spades keep hitting things the text mentions.**
 
-- The Tel Dan stele (~840 BCE) mentions the "House of David" — a dynasty founder, not a
-  fairy-tale king. Sennacherib's own prisms describe his 701 BCE siege of Jerusalem in
-  parallel with 2 Kings 18–19, and the two accounts even agree on the awkward part: the
-  city did not fall. Hezekiah's tunnel exists, with its builders' inscription still on
-  the wall.
+- The Tel Dan stele (~840 BCE) carries the earliest widely accepted extra-biblical
+  mention of the "House of David" — a dynasty founder, not a fairy-tale king.
+  Sennacherib's own prisms narrate his 701 BCE campaign in parallel with 2 Kings 18–19:
+  they boast of tribute and of shutting Hezekiah in Jerusalem "like a bird in a cage,"
+  and then — conspicuously, for a victory monument — never claim he took the city.
+  Hezekiah's tunnel exists, radiometrically dated to around 700 BCE, and the inscription
+  its diggers left (long since cut out of the wall and carried off to Istanbul) tells
+  how the two crews met in the middle.
 - Belshazzar (Daniel 5) was dismissed for a century as an invention — no such king in the
   Babylonian lists — until the Nabonidus cylinders confirmed him as crown prince ruling
   in his father's absence. Note the shape of that datum: the name is right, the title
@@ -101,9 +104,9 @@ fulfilment problem.
 
 **Against B — the world it describes.** A solid dome with waters above it (Genesis 1;
 the flood opens heaven's "windows"), the hare chewing cud, the bat listed among birds,
-flying insects "that walk on all fours" (Leviticus 11), the mustard seed as "the
-smallest of all seeds on earth," Jacob breeding striped flocks by showing them striped
-sticks (Genesis 30). A talking snake; a talking donkey. Larger narratives collapse under
+flying insects "that walk on all fours" (Leviticus 11), Jacob breeding striped flocks by
+showing them striped sticks at the watering troughs (Genesis 30 — heredity by maternal
+impression, the standard prescientific theory). A talking snake; a talking donkey. Larger narratives collapse under
 their own logistics: a global flood that geology, genetics, and the uninterrupted
 records of Egypt somehow never noticed; an Exodus of two million people that left no
 trace across forty years in the Sinai — marching toward a Canaan that was an Egyptian
@@ -112,9 +115,14 @@ leaving no walled city there in any plausible Joshua window.
 
 **Contradictions, briefly.** Two creation orders (Genesis 1 vs 2), two deaths of Judas
 (Matthew 27 vs Acts 1), two incompatible genealogies of Jesus (Matthew 1 vs Luke 3),
-John moving the crucifixion a day off the Synoptics, 40,000 stalls that are 4,000 by the
-Chronicler's count. Any one is trivial; jointly they are decisive against *inerrancy*,
-which is a claim about every joint at once.
+John moving the crucifixion a day off the Synoptics. Any one is trivial; jointly they
+are decisive against *inerrancy*, which is a claim about every joint at once. Two items
+I have withdrawn from this list on inspection, and the reasons are worth recording: the
+40,000 stalls of 1 Kings 4:26 against the Chronicler's 4,000 is best read as a slip of
+the pen over a numeral, and since inerrancy is claimed for the lost autographs rather
+than the copies, the scribal defense is legitimate there. Likewise the mustard seed as
+"smallest of all seeds": commentators read it as proverbial hyperbole about smallness,
+which is how the phrase would have been heard, and I think they are right.
 
 **Tensions in C — where the comfortable middle has to do real work.**
 
@@ -124,11 +132,12 @@ which is a claim about every joint at once.
   a science paper would be *my* genre error, not the text's. But the defenses are ad hoc
   in aggregate: each is invented after its problem, and no reading of "never rebuilt" or
   "some standing here will not taste death" survives without special pleading.
-- C must explain the transmission paradox: the Great Isaiah Scroll matches the Masoretic
-  text across a thousand years almost letter for letter, and John's gospel survives in a
-  fragment from within decades of composition. Answer: that is fidelity of *copying*,
-  not fidelity to fact — a faithfully copied error is still an error. But the care is
-  real, and "fairy tales" never earns it.
+- C must explain the transmission paradox: the Great Isaiah Scroll (~125 BCE) agrees
+  with the medieval Masoretic text across a thousand years to something like ninety-five
+  percent, and where it diverges the divergences are mostly spelling and scribal slips
+  rather than substance. Answer: that is fidelity of *copying*, not fidelity to fact — a
+  faithfully copied error is still an error. But the care is real, and "fairy tales"
+  never earns it.
 - Inerrancy is younger than it looks: Origen and Augustine were already reading Genesis
   non-literally in antiquity, and the modern doctrine hardened only in reaction to
   modern criticism (Chicago Statement, 1978). B is less "the traditional view" than a
