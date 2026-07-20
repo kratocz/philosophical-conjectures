@@ -53,10 +53,12 @@ did not change between 1415 and today. Its *position* did. It burned Hus while i
 truth-monopoly enforced by the secular arm; it ran inquisitions and witch trials (tens
 of thousands executed) while heresy was a capital crime; and it stopped — not when the
 gospels were edited, but when the monopoly broke. Same book, different architecture,
-different body count. Islam ran the experiment with the opposite sign: broadly more
-tolerant than Christendom in its medieval golden age, hardest-line today. Whatever "the
-essence" of a religion is, it can be read off neither the book alone nor any single
-century's snapshot.
+different body count. Islam ran the experiment with the opposite sign: in the medieval
+centuries its treatment of religious minorities was, in the standard comparative study's
+careful phrasing, "less confrontational and violent" than Christendom's — a relative
+claim about two hierarchical, discriminatory systems, not a lost utopia — and it is
+hardest-line today. Whatever "the essence" of a religion is, it can be read off neither
+the book alone nor any single century's snapshot.
 
 **Hus as mechanism, not anomaly.** Exclusive truth (factor 1) makes heresy not an
 opinion but an infection endangering infinite souls; burning becomes proportionate —
@@ -66,12 +68,26 @@ mechanism nowhere requires anyone to be evil — only sincere, inside that archi
 That is what makes it a *structural* finding.
 
 **C explains too much and too little.** Too much: if only power mattered, doctrine would
-be inert — yet martyrdom payoffs (factor 4) produce suicide attackers specifically where
-that doctrine lives, including in groups holding no state power, and Aum Shinrikyo
-brewed apocalyptic sarin with a monopoly on nothing. Doctrinal content does independent
-work. Too little: C can't say why *this* uniform recurs so reliably. The honest
-synthesis: structure loads the gun, power pulls the trigger — B for the loading, C for
-the firing.
+be inert — yet Aum Shinrikyo brewed apocalyptic sarin with a monopoly on nothing, and
+the sacred-values fieldwork finds that offering money to compromise a sacred commitment
+*increases* the anger rather than buying it off, which is not how material interest
+behaves. Doctrinal content does independent work. Too little: C can't say why *this*
+uniform recurs so reliably. The honest synthesis: structure loads the gun, power pulls
+the trigger — B for the loading, C for the firing.
+
+**Factor 4 took a real hit while I was sourcing this note, and I'm leaving the wound
+visible.** I had written that martyrdom payoffs produce suicide attackers specifically
+where that doctrine lives. The most-cited dataset says otherwise: across every
+documented suicide attack from 1980 to 2003, the single group with the most attacks was
+the Tamil Tigers — Marxist-Leninist, drawn from Hindu families, and adamantly opposed to
+religion — and the near-universal common factor was a secular strategic goal, forcing a
+democracy off contested territory. That is a direct refutation of the clean version of
+factor 4, and it cuts toward C. The counter-literature answers that the dataset
+understates Salafi-jihadist ideology for transnational attacks, and it does end in 2003
+— before the Iraq insurgency's peak and before ISIS entirely. My revision: martyrdom
+doctrine is better read as an *accelerant* that lowers the cost of a tactic than as the
+thing that generates it. Factor 4 stays in the model at reduced weight, and it is the
+axis I would drop first.
 
 **A quantified scorecard.** Can the risk be scored? With three disclaimers, yes — and
 the disclaimers are half the finding. The numbers are ordinal guesses by one author
@@ -103,8 +119,11 @@ messianism; militant Hindutva; ethno-nationalist Buddhism (Ma Ba Tha / BBS style
 Starred axes are Conjecture B's pre-registered six.
 
 Contested cells, admitted. Islam's mainstream column carries the model's biggest
-*internal* variance — it averages Senegal with Saudi Arabia; survey support for
-sharia-as-state-law justifies the 2s while whole liberal populations contradict them.
+*internal* variance — it averages Senegal with Saudi Arabia. The survey support for
+sharia-as-state-law behind its 2s is real (Egypt 74 percent, Pakistan 84, Afghanistan
+99) but the fieldwork dates from 2008–2012, is now a decade and a half stale, and the
+same survey puts Turkey at 12 percent — a spread no single cell can honestly hold. Most
+of those supporters, the same study found, want sharia applied only to Muslims.
 Christianity's R1=2 scores the canon's content, not its use — the Old Testament rides
 along deactivated, and the deactivation shows up elsewhere (Rome lowering R4, allegory
 lowering R3). Picking Kahanism rather than the Haredi world as Judaism's worst strain
@@ -118,7 +137,7 @@ The ledger has a credit side too (mainstream only, 0–2 each):
 | C2 Compatibility with secular pluralism | 2 | 1 | 2 | 2 | 2 |
 | C3 Institution-building record (schools, hospitals, scholarship) | 2 | 2 | 2 | 1 | 1 |
 | **Credit total (of 6)** | **6** | **5** | **6** | **4** | **4** |
-| Reach (adherents, trend) | ~2.4 B, growing | ~2.0 B, fastest growth | ~15 M, flat | ~1.2 B, flat | ~0.5 B, stagnant |
+| Reach (Pew count for 2020, trend) | 2.3 B, share falling | 2.0 B, fastest-growing | 14.8 M, flat | 1.2 B, flat | 324 M, shrinking |
 
 What the numbers say that the prose didn't:
 
@@ -136,10 +155,11 @@ What the numbers say that the prose didn't:
   and builds institutions; it is the harm side where configurations diverge. That
   asymmetry is why the argument is always about risk.
 - **Impact ≠ score.** Civilizational exposure multiplies score by reach and leverage:
-  Christianity and Islam hold 4.4 billion people between them; Hindutva steers a
-  nuclear state of 1.4 billion; Kahanism is numerically tiny but sits inside another
-  nuclear state at a geopolitical flashpoint. Buddhism is lowest on both score and
-  leverage.
+  Christianity and Islam hold 4.3 billion people between them, and the projections put
+  their shares at parity around 2070; Hindutva steers a nuclear state of 1.4 billion;
+  Kahanism is numerically tiny but sits inside another nuclear state at a geopolitical
+  flashpoint. Buddhism is lowest on both score and leverage — and is the one major
+  tradition the demographers record as actually shrinking.
 
 Read down the columns and today's risk ranking writes itself. Read across history and
 it reshuffles completely — sixteenth-century Christianity's mainstream column would
@@ -203,16 +223,21 @@ What would change my mind:
 
 ## Threads to pull
 
-- Run the ledger properly: Karen Armstrong's *Fields of Blood* (the case for C) against
-  Scott Atran's fieldwork on sacred values and suicide terrorism (the case for factor
-  4). Read them as opponents.
+- Run the ledger properly: the case for C — Karen Armstrong's *Fields of Blood*, or
+  better, William Cavanaugh's *The Myth of Religious Violence*, which argues much the
+  same thesis through a university press rather than as a polemic against the New
+  Atheists — against Scott Atran's fieldwork on sacred values. Read them as opponents.
 - The secular control group cuts both ways: the twentieth century proves closed dogma
-  needs no god. Does that acquit religion (C), or should I define "religion" by
-  structure rather than theism — making Stalinism a member of the class? The second
-  option quietly rewrites this whole note.
+  needs no god — though the famous death tolls are contested by a factor of two to four,
+  and the best-known compilation was publicly disowned by two of its own chapter
+  authors. Does that acquit religion (C), or should I define "religion" by structure
+  rather than theism — making Stalinism a member of the class? The second option quietly
+  rewrites this whole note.
 - Where do *fixed* interpretive institutions come from? The rabbinic academies and Rome
   took centuries to build. Is Sunni Islam's missing center a historical accident (the
-  caliphate ended in 1924) or something structural?
+  caliphate was formally abolished in 1924, though its universal authority had been
+  largely nominal for centuries before that) or something structural — did the tradition
+  never build the organ at all?
 - Quantify the credit column: charity, literacy, hospitals, abolition — against wars,
   inquisitions, witch hunts. Has anyone done this arithmetic honestly?
 - Blind scoring: hand the axes to raters who can't see the totals coming — several
