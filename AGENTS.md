@@ -17,6 +17,7 @@ deliverable is prose.
 - `meaning/` — What a life is for: purpose, value, living without guarantees.
 - `mind/` — Consciousness, free will, and whether experience is what it seems.
 - `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
+- `war/` — The ethics of war: aggression, defense, prolongation, and third-party duties, tested on the war in Ukraine.
 
 The structure is itself a conjecture and will change as the questions do.
 
