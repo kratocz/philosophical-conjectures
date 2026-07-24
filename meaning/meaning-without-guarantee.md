@@ -41,7 +41,45 @@ an answer.
 
 ## Conjectures
 
-*(to be written)*
+Each of these answers both questions at once — a diagnosis of the demand and a way to
+live with the diagnosis. That is what makes them rivals rather than complements.
+
+- **Conjecture A — Restore the guarantee.** The demand is coherent and something meets
+  it: God, a cosmic purpose, the arc of history. In its strongest form this is not a
+  comfort but an argument — if nothing outside all human valuing underwrites value, then
+  every "this is worth it" floats free, borrowed against nothing. Only a transcendent
+  anchor stops the regress. (Whether the leading candidate for that anchor survives
+  contact with checkable reality is examined elsewhere in this repository:
+  [[bible-veracity]], [[religion-risk]].)
+
+- **Conjecture B — Meaning is made, not found.** Nothing guarantees meaning, and nothing
+  needed to: meaning is conferred, not discovered. A life means something because someone
+  chooses, cares, commits — Sartre's existence preceding essence [VERIFY], Taylor's
+  claim that a meaningful life is one lived in accordance with one's own deep interests
+  [VERIFY]. The mourning for a lost guarantee is nostalgia — for childhood, for someone
+  else's plan we could be a part of.
+
+- **Conjecture C — Revolt.** Camus: the absurd is neither in the world nor in us but in
+  the confrontation — the human demand for meaning meeting "the unreasonable silence of
+  the world" [VERIFY]. The demand is coherent, unsatisfiable, and not to be surrendered:
+  neither the leap of faith (philosophical suicide) nor resignation, but living "without
+  appeal" [VERIFY] — revolt, freedom, passion as the three consequences [VERIFY].
+  Dignity lies in keeping the contradiction alive, not in pretending it closed.
+
+- **Conjecture D — Engagement in what is objectively worthwhile.** Meaning arises "when
+  subjective attraction meets objective attractiveness" [VERIFY] — Wolf's Fitting
+  Fulfillment view [VERIFY]. Not anything cared about will do: a life spent absorbed in
+  something has to be absorbed in something *worth it*. No cosmic guarantee is needed,
+  but a modest objectivity about worth is — some projects really are better candidates
+  for a life than others.
+
+- **Conjecture E — Deflate the demand, keep the engagement.** My position, stated as
+  boldly as I can state it: the demand for an outside guarantee is confused — meaning
+  is not the kind of thing that could be conferred from outside at all, so its
+  non-conferral takes nothing away. Dissolve the demand, and what remains standing is D
+  — engagement in what is genuinely worth it — carried in C's posture, without appeal
+  and without self-pity. Not pure deflation: the dissolving leaves a residue, and the
+  note has to be honest about what the residue is.
 
 ## Refutations & tensions
 
