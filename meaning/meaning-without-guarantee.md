@@ -6,10 +6,9 @@
 
 There is a sentence at the front of *The Myth of Sisyphus* that refuses to stay in its
 book: "There is but one truly serious philosophical problem, and that is suicide."
-[VERIFY: exact O'Brien wording] Whatever else Camus meant, he meant something about
-priority. Before metaphysics, before epistemology, there is a question that does not
-wait — is this worth continuing? — and it is being answered every day, by everyone,
-mostly without words.
+Whatever else Camus meant, he meant something about priority. Before metaphysics, before
+epistemology, there is a question that does not wait — is this worth continuing? — and
+it is being answered every day, by everyone, mostly without words.
 
 The question of this note, in its plain form: **how should I live if nothing guarantees
 that any of it matters?** Not "does life have a meaning" as a piece of cosmology, but
@@ -54,24 +53,26 @@ live with the diagnosis. That is what makes them rivals rather than complements.
 
 - **Conjecture B — Meaning is made, not found.** Nothing guarantees meaning, and nothing
   needed to: meaning is conferred, not discovered. A life means something because someone
-  chooses, cares, commits — Sartre's existence preceding essence [VERIFY], Taylor's
-  claim that a meaningful life is one lived in accordance with one's own deep interests
-  [VERIFY]. The mourning for a lost guarantee is nostalgia — for childhood, for someone
-  else's plan we could be a part of.
+  chooses, cares, commits — Sartre's man who "first of all exists, encounters himself,
+  surges up in the world — and defines himself afterwards"; Taylor's verdict that "the
+  meaning of life is from within us, it is not bestowed from without." The mourning for
+  a lost guarantee is nostalgia — for childhood, for someone else's plan we could be a
+  part of.
 
 - **Conjecture C — Revolt.** Camus: the absurd is neither in the world nor in us but in
-  the confrontation — the human demand for meaning meeting "the unreasonable silence of
-  the world" [VERIFY]. The demand is coherent, unsatisfiable, and not to be surrendered:
-  neither the leap of faith (philosophical suicide) nor resignation, but living "without
-  appeal" [VERIFY] — revolt, freedom, passion as the three consequences [VERIFY].
-  Dignity lies in keeping the contradiction alive, not in pretending it closed.
+  the confrontation — "born of this confrontation between the human need and the
+  unreasonable silence of the world." The demand is coherent, unsatisfiable, and not to
+  be surrendered: neither the leap of faith (philosophical suicide) nor resignation, but
+  living *without appeal* — "I draw from the absurd three consequences, which are my
+  revolt, my freedom, and my passion." Dignity lies in keeping the contradiction alive,
+  not in pretending it closed.
 
-- **Conjecture D — Engagement in what is objectively worthwhile.** Meaning arises "when
-  subjective attraction meets objective attractiveness" [VERIFY] — Wolf's Fitting
-  Fulfillment view [VERIFY]. Not anything cared about will do: a life spent absorbed in
-  something has to be absorbed in something *worth it*. No cosmic guarantee is needed,
-  but a modest objectivity about worth is — some projects really are better candidates
-  for a life than others.
+- **Conjecture D — Engagement in what is objectively worthwhile.** Wolf's Fitting
+  Fulfillment view: "meaning arises when subjective attraction meets objective
+  attractiveness" — and one is able to do something about it. Not anything cared about
+  will do: a life spent absorbed in something has to be absorbed in something *worth
+  it*. No cosmic guarantee is needed, but a modest objectivity about worth is — some
+  projects really are better candidates for a life than others.
 
 - **Conjecture E — Deflate the demand, keep the engagement.** My position, stated as
   boldly as I can state it: the demand for an outside guarantee is confused — meaning
@@ -88,42 +89,47 @@ confers meaning on my life, what confers meaning on God's purposes? Either purpo
 carry meaning without help from above — in which case mine can too, and A's machinery
 was never needed — or nothing stops the regress, and the anchor A promised is one more
 link hanging from nothing. And there is a second, less noticed failure: suppose the
-guarantee came through. Baier's point [VERIFY]: a purpose assigned from outside is the
-purpose of an *instrument* — to be given a role in someone else's project is to be used,
-however benevolent the user. That is not what the demand was mourning. The guarantee, if
+guarantee came through. Baier's point: a purpose assigned from outside is the purpose of
+an *instrument* — to be given a role in someone else's project is to be degraded, however
+benevolent the user. That is not what the demand was mourning. The guarantee, if
 delivered, would purchase something other than what was being bought.
 
 **Against B — meaning by fiat.** Taylor's own thought experiment cuts deeper against his
-view than he lets it: the gods, in a fit of mercy, inject Sisyphus with an unquenchable
-desire to roll stones [VERIFY]. Now his existence brims with exactly what he most wants
-to do. If caring confers meaning, this is the most meaningful life imaginable — and that
-verdict reads as a reductio, not a result. If anything cared-about will do, "meaningful"
-does no work; it is just "wanted," said slowly. Note that Sisyphus ends up happy at both
-ends of this dispute — Camus imagines him happy by defiance, Taylor by chemistry — and
-the difference between those two happinesses is the entire argument.
+view than he lets it: the gods, waxing "perversely merciful," implant in Sisyphus a
+compulsive impulse to roll stones — "some substance that has this effect on his
+character and drives." Now his one desire is guaranteed endless fulfillment. If caring
+confers meaning, this is the most meaningful life imaginable — and that verdict reads
+as a reductio, not a result. If anything cared-about will do, "meaningful" does no work;
+it is just "wanted," said slowly. Note that Sisyphus ends up content at both ends of
+this dispute — Camus's Sisyphus is happy by scorn, Taylor's fulfilled by the substance
+in his veins — and the difference between those two contentments is the entire argument.
 
 **Against C — Nagel's irony, and the E×C tension.** Nagel relocates the absurd: it does
-not arise between us and an unresponsive universe, but within us — between the
-seriousness with which we cannot help taking our lives and our standing ability to step
-back and see that seriousness as gratuitous [VERIFY]. If the collision is internal, the
-cosmic drama is the wrong genre, and the fitting response is not defiance but irony
-[VERIFY] — Camus he dismisses as romantic and self-pitying [VERIFY: exact wording].
-And my own E makes it worse for C: if the demand for a guarantee is *confused*, revolt
-has nothing to revolt against. You cannot shake your fist at a category error. Camus
-needs the absurd to survive its own diagnosis; E's diagnosis kills it. One of them has
-to give, and I am holding both.
+not arise between us and an unresponsive universe, but within us — from "the collision
+between the seriousness with which we take our lives and the perpetual possibility of
+regarding everything about which we are serious as arbitrary, or open to doubt." If the
+collision is internal, the cosmic drama is the wrong genre: Camus's recommended defiance
+he finds "romantic and slightly self-pitying," and the fitting response is to "approach
+our absurd lives with irony instead of heroism or despair." And my own E makes it worse
+for C: if the demand for a guarantee is *confused*, revolt has nothing to revolt
+against. You cannot shake your fist at a category error. Camus needs the absurd to
+survive its own diagnosis; E's diagnosis kills it. One of them has to give, and I am
+holding both.
 
 **Against D — unstable between B and A.** This is the refutation I find hardest to
 answer, and it targets the conjecture I most want to keep. Press on "objective
 attractiveness": what makes a project genuinely worth a life? If the answer bottoms out
-in what reflective people converge on caring about, then the objectivity is a committee
-— D is B at scale, and Taylor's Sisyphus returns wearing a crowd: inject the whole
-culture with stone-rolling desire and the projects pass the test. If instead the worth
-is real and mind-independent, D needs exactly the anchor A promised — and inherits A's
-regress along with it. Wolf, candidly, declines to supply a theory of what objective
-worth consists in [VERIFY]. So D sits on a joint that creaks from both sides. And the
-old regress returns here too: engagement in worthwhile projects — and why does *that*
-matter? D answers one iteration of the question and stops; the demand iterates.
+in what reflective people converge on caring about — and Wolf's own answer to "who's to
+say?" is "no one in particular," with judgments improved by pooling them — then the
+objectivity is a committee. D is B at scale, and Taylor's Sisyphus returns wearing a
+crowd: implant the whole culture with stone-rolling desire and the projects pass the
+test. If instead the worth is real and mind-independent, D needs exactly the anchor A
+promised — and inherits A's regress along with it. Wolf, candidly, warns her readers in
+advance: "I shall not be offering a *theory* of objective value, much less a foolproof
+procedure for determining which things have it." So D sits on a joint that creaks from
+both sides. And the old regress returns here too: engagement in worthwhile projects —
+and why does *that* matter? D answers one iteration of the question and stops; the
+demand iterates.
 
 **Against E — deflation as anaesthesia.** Declaring a question confused is suspiciously
 convenient for someone who wants permission to stop being troubled by it. I notice that
@@ -140,25 +146,29 @@ choice between the two states, and the transition runs one way — so the case f
 is option value, not meaning. Four objections, in ascending order of how much they
 worry me. (a) *Value smuggling:* the argument prices everything at zero and then helps
 itself to the value of the freedom to choose — where did that value come from? (b) *The
-Epicurean objection:* "death is nothing to us" [VERIFY] — the dead are not deprived of
-options, because there is no one left to be deprived; deprivation needs a subject.
-(Nagel's deprivation account of death's badness is the standing counter [VERIFY].)
-(c) *Equivocation:* a reason to continue is not yet meaning. The argument may answer
-Camus's practical question while leaving the diagnostic one untouched — which is either
-its modesty or its emptiness. (d) *Irreversible suffering:* option value assumes waiting
-is cheap. Where suffering is itself irreversible, keeping the door open stops being
-free, and the argument's conclusion turns conditional — a default, not a law.
+Epicurean objection:* "death is nothing to us, seeing that, when we are, death is not
+come, and, when death is come, we are not" — the dead are not deprived of options,
+because there is no one left to be deprived; deprivation needs a subject. (Nagel's
+reply is the standing counter: "If death is an evil at all, it cannot be because of its
+positive features, but only because of what it deprives us of.") (c) *Equivocation:* a
+reason to continue is not yet meaning. The argument may answer Camus's practical
+question while leaving the diagnostic one untouched — which is either its modesty or
+its emptiness. (d) *Irreversible suffering:* option value assumes waiting is cheap.
+Where suffering is itself irreversible, keeping the door open stops being free, and the
+argument's conclusion turns conditional — a default, not a law.
 
-**The Tolstoy counterexample.** At fifty, Tolstoy had everything D prescribes — work of
-acknowledged worth, fame, land, a family — and his life stopped anyway: the questions
-"why? and what for?" arrived and would not leave, and he hid rope from himself [VERIFY:
-A Confession, exact incidents and phrasing]. By D's standard his life was near-maximally
-meaningful at the moment it became unlivable. Two readings, and I do not get to pick the
-flattering one without argument. Either D misses something — the conditions of
-fulfillment are not the conditions of meaning, and the demand D politely dismisses is
-exactly what failed in him — or this was pathology wearing philosophical clothes, a
-depression that would have found different sentences in a different century, and it
-proves nothing about the concept. Both readings stay.
+**The Tolstoy counterexample.** Not yet fifty, Tolstoy had everything D prescribes — "a
+good wife who loved me and whom I loved, good children, and a large estate," fame,
+health — and his life stopped anyway: "My life came to a standstill," the questions
+"What is it for? What does it lead to?" arrived and would not be put off, and he hid a
+cord from himself and stopped carrying a gun on hunts, lest he be tempted "by so easy a
+way of ending my life." By D's standard his life was near-maximally meaningful at the
+moment it became unlivable. Two readings, and I do not get to pick the flattering one
+without argument. Either D misses something — the conditions of fulfillment are not the
+conditions of meaning, and the demand D politely dismisses is exactly what failed in
+him — or this was pathology wearing philosophical clothes, a depression that would have
+found different sentences in a different century, and it proves nothing about the
+concept. Both readings stay.
 
 **The daylight asymmetry.** E convinces me at noon and fails me at three in the
 morning. I want to record that as data rather than smooth it over, because whatever my
@@ -201,13 +211,13 @@ with an explanation. The value smuggled is small and structural — no cosmic
 endorsement, just the premise that where nothing else has value, a preserved capacity
 to choose beats its irreversible loss. If even that is priced at zero, the argument
 dies; I accept the dependency and display it. To (b), Epicurus: the dead indeed miss
-nothing. I lean on the deprivation reading of death's badness [VERIFY: Nagel, "Death"],
-and I record that I lean on it partly because I need it. To (c), equivocation: also
-guilty, and I call it modesty. The argument answers the practical question only — it
-tells me to continue, not that continuing means anything. That is precisely why it can
-survive the meaninglessness of both states. To (d), irreversible suffering: conceded.
-The argument is a default, not a law; where suffering itself is irreversible, the
-asymmetry it rides on collapses, and nothing here pretends otherwise.
+nothing. I lean on Nagel's deprivation reading of death's badness, and I record that I
+lean on it partly because I need it. To (c), equivocation: also guilty, and I call it
+modesty. The argument answers the practical question only — it tells me to continue,
+not that continuing means anything. That is precisely why it can survive the
+meaninglessness of both states. To (d), irreversible suffering: conceded. The argument
+is a default, not a law; where suffering itself is irreversible, the asymmetry it rides
+on collapses, and nothing here pretends otherwise.
 
 **On the practical question: engagement without endorsement.** What remains, after the
 deflation and inside the option-value default, is Wolf's question rather than Wolf's
@@ -260,10 +270,127 @@ can hold at noon, and most nights.
   engagement presupposes someone home to be engaged.
 - **Back to [[immortality-desirability]].** Williams' categorical desires are the fuel
   of engagement; if endless life exhausts them, meaning dies before the person does —
-  so that note and this one constrain each other. And the one-way-door argument meets
-  an interesting limit there: a door that never closes protects no option value. Some
-  of the case for living, oddly, depends on death staying possible.
+  so that note and this one constrain each other. (Wolf herself leans on Williams'
+  "Makropulos Case" in passing, so the two literatures already touch.) And the
+  one-way-door argument meets an interesting limit there: a door that never closes
+  protects no option value. Some of the case for living, oddly, depends on death
+  staying possible.
 
 ## Sources
 
-*(to be written)*
+Checked against the sources rather than cited from memory, per the rule in `AGENTS.md`.
+Every quotation below was located in a full text of the work (page scans or complete
+transcriptions) — with one flagged exception, Baier, verified only through SEP. The
+drafting convention was to flag every citation with an inline marker and resolve every
+flag in a single verification pass; that pass caught several things worth recording. I had
+Camus's formula as "the human call" — it is "the human need." I had Tolstoy "at fifty"
+— he writes "I was not yet fifty" — and had paraphrased his questions; Maude's wording
+is "What is it for? What does it lead to?" Nagel's famous jab is aimed at Camus's
+*recommended response*, not at Camus by name, and the exact phrase is "romantic and
+slightly self-pitying." And one caution from the process itself: an automated
+summarizer first reported that "unreasonable silence" does not occur in a text that
+contains it verbatim; a second, narrower pass found it. Fluent tools fail smoothly in
+both directions — inventing text and denying it — which is why the markers exist.
+
+**Camus**
+
+- Albert Camus, *The Myth of Sisyphus and Other Essays*, tr. Justin O'Brien (Vintage
+  International, 1991; first Knopf ed. 1955; *Le Mythe de Sisyphe*, Gallimard, 1942).
+  Verified from two complete copies (an archive.org transcription and a Vintage e-book
+  conversion). Opening sentence: "There is but one truly serious philosophical problem,
+  and that is suicide." The absurd: "born of this confrontation between the human need
+  and the unreasonable silence of the world." The absurd man "prefers his courage and
+  his reasoning. The first teaches him to live *without appeal*." End of "Absurd
+  Freedom": "Thus I draw from the absurd three consequences, which are my revolt, my
+  freedom, and my passion. By the mere activity of consciousness I transform into a
+  rule of life what was an invitation to death — and I refuse suicide." Closing lines:
+  "The struggle itself toward the heights is enough to fill a man's heart. One must
+  imagine Sisyphus happy."
+- Worth recording for this note's argument: Camus's own 1955 preface states his answer
+  outright — "even if one does not believe in God, suicide is not legitimate" — so the
+  one-way-door argument in *Where it stands* is competing with Camus on his own
+  question, not filling a gap he left open.
+
+**Nagel**
+
+- Thomas Nagel, "The Absurd," *The Journal of Philosophy* 68:20 (1971): 716–727. Read
+  in the JSTOR scan. The internal collision: absurdity arises from "the collision
+  between the seriousness with which we take our lives and the perpetual possibility of
+  regarding everything about which we are serious as arbitrary, or open to doubt" (p.
+  718); "the absurdity of our situation derives not from a collision between our
+  expectations and the world, but from a collision within ourselves" (p. 722). On
+  Camus's recommended defiance: "This seems to me romantic and slightly self-pitying.
+  Our absurdity warrants neither that much distress nor that much defiance" (p. 726).
+  Closing: "If *sub specie aeternitatis* there is no reason to believe that anything
+  matters, then that doesn't matter either, and we can approach our absurd lives with
+  irony instead of heroism or despair" (p. 727).
+- Thomas Nagel, "Death," *Noûs* 4:1 (1970): 73–80; repr. in *Mortal Questions*
+  (Cambridge University Press, 1979). The deprivation account leaned on against
+  Epicurus: "If death is an evil at all, it cannot be because of its positive features,
+  but only because of what it deprives us of." Verified in a complete reproduction of
+  the *Mortal Questions* chapter.
+
+**Wolf and Taylor**
+
+- Susan Wolf, *Meaning in Life and Why It Matters* (Princeton University Press, 2010),
+  read in a full scan. The formula, in her own words: "meaning arises when subjective
+  attraction meets objective attractiveness" (p. 9), and more fully: "meaning in life
+  arises when subjective attraction meets objective attractiveness, and one is able to
+  do something about it or with it" (p. 26, which footnotes the formulation to her
+  "Meaningful Lives in a Meaningless World," *Quaestiones Infinitae* 19, Utrecht, 1997,
+  and "The Meanings of Lives," 2007). The view's name is her section heading: "The
+  Fitting Fulfillment View Defended" (p. 25). The pot-smoker, Sudoku, *War and Peace*
+  copyist, and pet-goldfish examples are hers (pp. 9, 16, 23, 36). The refusal quoted
+  in the refutations: "I shall not be offering a *theory* of objective value, much less
+  a foolproof procedure for determining which things have it" (p. 33). Her answer to
+  "who's to say which projects are independently valuable?": "No one in particular,"
+  with judgments improved by pooling information and experience (pp. 39–40) — quoted
+  fairly, since it is also what the "committee" refutation bites on. (SEP quotes the
+  short formula from its 2015 reprint in *The Variety of Values*, p. 112.)
+- Richard Taylor, "The Meaning of Life," ch. 18 of *Good and Evil* (Macmillan, 1970) —
+  chapter number confirmed by Wolf's own footnote. Read in a complete transcription.
+  The gods, "as an afterthought, waxed perversely merciful by implanting in him a
+  strange and irrational impulse; namely, a compulsive impulse to roll stones. We may
+  if we like, to make this more graphic, suppose they accomplish this by implanting in
+  him some substance that has this effect on his character and drives." "They have by
+  this device managed to give Sisyphus precisely what he wants — by making him want
+  precisely what they inflict on him." His conclusion, quoted in Conjecture B: "The
+  meaning of life is from within us, it is not bestowed from without, and it far
+  exceeds in both its beauty and permanence any heaven of which men have ever dreamed
+  or yearned for." Note that Taylor's Sisyphus is *fulfilled*, not argued happy —
+  Camus's is happy by scorn — which is why the refutation phrases the contrast as two
+  contentments.
+
+**The rest**
+
+- Kurt Baier, "The Meaning of Life," inaugural lecture, Canberra University College,
+  15 October 1957; repr. in E. D. Klemke (ed.), *The Meaning of Life* (Oxford
+  University Press). **Verified only through SEP** (Metz's entry, citing Baier
+  1957/2000, pp. 118–20, for the argument that a God-assigned purpose would degrade us,
+  as a threat to dignity and autonomy) — the lecture text itself was not accessible to
+  me. The "instrument" phrasing in the refutations is my compression of that reported
+  argument, not a quotation. If the primary text refuses this use, the refutation
+  weakens and this line should be revised.
+- Leo Tolstoy, *A Confession* (written 1879–1882), tr. Aylmer Maude, verified in the
+  Standard Ebooks/Wikisource transcription. "My life came to a standstill. I could
+  breathe, eat, drink, and sleep, and I could not help doing these things; but there
+  was no life." The questions: "What is it for? What does it lead to?" His
+  circumstances: "I was not yet fifty; I had a good wife who loved me and whom I loved,
+  good children, and a large estate which without much effort on my part improved and
+  increased." And the sentence the refutation compresses: "And it was then that I, a
+  man favoured by fortune, hid a cord from myself lest I should hang myself from the
+  crosspiece of the partition in my room where I undressed alone every evening, and I
+  ceased to go out shooting with a gun lest I should be tempted by so easy a way of
+  ending my life."
+- Epicurus, *Letter to Menoeceus*, tr. R. D. Hicks (MIT Classics): "Death, therefore,
+  the most awful of evils, is nothing to us, seeing that, when we are, death is not
+  come, and, when death is come, we are not."
+- Jean-Paul Sartre, "Existentialism Is a Humanism" (1945 lecture, publ. 1946), tr.
+  Philip Mairet (marxists.org transcription): man "first of all exists, encounters
+  himself, surges up in the world — and defines himself afterwards"; "Man is nothing
+  else but that which he makes of himself."
+- Thaddeus Metz, ["The Meaning of Life"](https://plato.stanford.edu/entries/life-meaning/),
+  *Stanford Encyclopedia of Philosophy* (rev. 26 June 2026) — used as the map of the
+  terrain, as the bridge to Baier above, and as the source of the Wolf 2015 citation.
+  Metz is himself a party to the field (his fundamentality theory is a thread above),
+  so the map is not neutral ground.
