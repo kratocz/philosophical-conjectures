@@ -171,7 +171,66 @@ holds at only one of those hours fails the test the note set itself at the start
 
 ## Where it stands
 
-*(to be written)*
+**On the diagnostic question: the demand fails, but not all of it.** My provisional
+verdict is that the demand for an outside guarantee is confused in its usual form. The
+Euthyphro regress and Baier's instrument point cut together: conferral-from-outside
+could not have done the job *even if the conferrer existed*, because an assigned purpose
+is the wrong kind of thing to be what the demand was mourning. But the deflation does
+not dissolve everything, and pretending it did would be the anaesthesia the refutations
+warn against. Two things survive it. The question *what is worth engaging in* — D's
+question — is real and still standing. And a residue survives: the felt gap between the
+depth of the demand and everything any answer has to offer. Whether to carry that
+residue with Camus's defiance or Nagel's irony I have not decided. Saying so is a
+deliberate weakening of E as stated above — the conjecture claimed the revolt posture
+more confidently than I can defend after the refutations, and the conjecture being
+bolder than the verdict is the shape this repository is built on.
+
+**The one-way-door argument.** This is my answer to Camus's opening sentence, and the
+part of this note I am most confident survives its own refutations. Death and life are,
+so far as I can tell, both meaningless — on this the nihilist gets everything he asked
+for. But the two states are not symmetrical, because the transition between them runs
+one way. While I live, I hold the choice between both states; the dead hold nothing. To
+give up life is not to choose one meaningless state over another — it is to give up the
+*choosing itself*, and throwing away the instrument of choice is the one move that
+cannot be justified by anything the choice might still have weighed. So, ironically,
+life outweighs death by exactly the width of that freedom: **the case for living is not
+that life means something. It is option value at a one-way door.**
+
+The objections above, answered as honestly as I can. To (a), value smuggling: guilty,
+with an explanation. The value smuggled is small and structural — no cosmic
+endorsement, just the premise that where nothing else has value, a preserved capacity
+to choose beats its irreversible loss. If even that is priced at zero, the argument
+dies; I accept the dependency and display it. To (b), Epicurus: the dead indeed miss
+nothing. I lean on the deprivation reading of death's badness [VERIFY: Nagel, "Death"],
+and I record that I lean on it partly because I need it. To (c), equivocation: also
+guilty, and I call it modesty. The argument answers the practical question only — it
+tells me to continue, not that continuing means anything. That is precisely why it can
+survive the meaninglessness of both states. To (d), irreversible suffering: conceded.
+The argument is a default, not a law; where suffering itself is irreversible, the
+asymmetry it rides on collapses, and nothing here pretends otherwise.
+
+**On the practical question: engagement without endorsement.** What remains, after the
+deflation and inside the option-value default, is Wolf's question rather than Wolf's
+answer: which engagements would be worth a life even with nothing and no one to
+co-sign them? I live toward the ones that seem so — knowing that "seem" has a committee
+problem, and that the regress is not closed. That is not a solution. It is a posture I
+can hold at noon, and most nights.
+
+**What would change my mind:**
+
+- A defensible theory of objective value with no theism in it. D stabilizes, the
+  strongest refutation above loses its force, and E's deflation becomes redundant
+  rather than load-bearing.
+- An argument that the deflation itself is the confusion — that the cosmic question is
+  coherent, open, and unanswered. Then the absurd returns at full strength, C stops
+  being a posture and becomes the accurate description, and A earns a second hearing.
+- A showing that the one-way-door's option value collapses more often than conceded —
+  that the cases where waiting is not cheap are the rule, not the exception. The case
+  for living would turn conditional everywhere, and the argument would stop being a
+  floor.
+- Evidence that the daylight asymmetry is an artifact of mood rather than data about
+  the concept — or evidence that it is the reverse. Either would break the current tie
+  between defiance and irony.
 
 ## Threads to pull
 
