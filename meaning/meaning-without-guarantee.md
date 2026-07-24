@@ -234,7 +234,35 @@ can hold at noon, and most nights.
 
 ## Threads to pull
 
-*(to be written)*
+- **Metz's fundamentality theory.** Thaddeus Metz's *Meaning in Life* (2013) is, by
+  reputation, the most worked-out attempt at a third way between B and D — meaning as
+  orienting one's rational nature toward fundamental conditions of human existence. I
+  know it so far only through the SEP map, not the book, and this note should keep
+  saying so until that changes. If his account of worth dodges the committee-versus-
+  anchor dilemma above, the strongest refutation here weakens.
+- **Meaning *in* life versus meaning *of* life.** How much of E rests on this
+  distinction — deflate the cosmic "of," keep the local "in"? Where does the
+  distinction actually come from, who sharpened it, and does it hold under pressure —
+  or is it the original confusion, renamed and made respectable?
+- **Nozick's regress.** The chain "and why does *that* matter?" must stop somewhere or
+  nowhere. Nozick worked on where a regress of meaning may legitimately end and what
+  "intrinsic" would have to do there. If the regress can end honestly, D gets its
+  floor; if it cannot, E's residue is the honest name for the bottom.
+- **Frankl as the practical counterpoint.** *Man's Search for Meaning* comes at the
+  question from the other end: not what meaning is, but what its absence does to
+  people, and responsibility as where it gets found. I am deliberately keeping
+  logotherapy's empirical claims out of this note; the conceptual question worth
+  pulling is whether "meaning as responsibility" is a fourth position or D in work
+  clothes.
+- **Forward to `mind/`.** Can anything matter without consciousness — does worth need
+  a witness? [[personal-identity]] already promised that the persistence question and
+  the consciousness question constrain each other; this note adds the value half:
+  engagement presupposes someone home to be engaged.
+- **Back to [[immortality-desirability]].** Williams' categorical desires are the fuel
+  of engagement; if endless life exhausts them, meaning dies before the person does —
+  so that note and this one constrain each other. And the one-way-door argument meets
+  an interesting limit there: a door that never closes protects no option value. Some
+  of the case for living, oddly, depends on death staying possible.
 
 ## Sources
 
