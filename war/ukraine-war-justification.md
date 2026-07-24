@@ -90,7 +90,69 @@ is me trying to state mine.
 
 ## Conjectures
 
-*(to be written)*
+Five verdicts compete. Each is stated at full strength — the hedging is the next
+section's job. A, B and C would each dissolve my question or answer it against me; D
+concedes most of my premises and still ends somewhere else; E is mine.
+
+- **Conjecture A — The Russian case for war.** The prolongation is justified because
+  the war itself is: NATO's eastward expansion was an existential threat gathering at
+  Russia's border — a promise of membership stood on the record since Bucharest 2008
+  [VERIFY] — and no nuclear power waits for the noose to close; the Russian-speaking
+  population of the Donbas needed protection from a state that had been shelling it
+  since 2014; the West itself wrote the permission slip for redrawing borders in
+  Kosovo [VERIFY]; and the recognized republics of Donetsk and Luhansk invited the
+  intervention [VERIFY]. As for 2026: the annexed oblasts are now constitutionally
+  Russian territory [VERIFY], Western security guarantees have proven worthless to
+  those who trusted them, and a ceasefire that leaves the "root causes" unresolved is
+  not peace but an armistice before a worse war. On this view, continuing is the
+  responsible course: only a settlement that fixes the causes — neutrality,
+  demilitarization, recognition — ends the war rather than postponing it.
+
+- **Conjecture B — Nobody's war is just.** War as a method is beyond justification —
+  the deliberate organization of killing cannot be redeemed by the justice of anyone's
+  cause. Every day of this war is a moral failure of all parties: Russia's for waging
+  it, Ukraine's for feeding its people into it, the West's for fueling it with weapons
+  and calling that solidarity. A proxy contest between blocs is being fought with
+  Ukrainian bodies. The only demand that survives moral scrutiny is: stop shooting —
+  everyone, now, unconditionally. Whoever keeps arguing about who may shoot whom has
+  already changed the subject from the only thing that matters.
+
+- **Conjecture C — The realist dissolution.** The question of this note is malformed.
+  There is no world government; above states stands nothing that could give
+  "justified" a purchase. Great powers respond to shifts in the balance of power as
+  weather systems respond to pressure gradients — moralizing about it obscures rather
+  than explains. The West expanded its sphere into what Russia had declared vital;
+  Russia reacted the way great powers predictably react [VERIFY: Mearsheimer];
+  Ukraine's tragedy is geography. The real questions are prudential ones — what
+  escalates, what deters, what a stable equilibrium looks like — and dressing them in
+  the vocabulary of justice is how wars get longer, not shorter.
+
+- **Conjecture D — A just defense meets its limit.** The invasion was unjust and the
+  defense was just — and justification is not a title held once but a balance run
+  continually. Proportionality binds the defender too (jus ex bello [VERIFY:
+  Moellendorf]): at some point the goods still recoverable by fighting no longer
+  outweigh what the fighting costs — the dead, the maimed, a generation abroad, a
+  demography broken, a nuclear tail-risk that no territorial claim can price. There
+  was, on this view, at least one moment when a better peace was available — Istanbul,
+  spring 2022 [VERIFY] — and every month since has bought less at higher cost. Past
+  that point the duty flips: the defender's duty is to negotiate seriously, and the
+  third parties' duty flips from arming the defense to pressing both sides toward the
+  exit. Support that merely sustains a lost equilibrium is not solidarity; it is
+  cruelty with good intentions.
+
+- **Conjecture E — Two asymmetries and a burden.** Mine. Who the aggressor is, is not
+  a judgment but a fact: Russian soldiers crossed the border — the entry asymmetry —
+  and suspicion licenses nothing, for states as for men in the street. Who keeps the
+  war alive is equally a fact: Russia could end it any morning by going home; Ukraine
+  could only end its own existence — the exit asymmetry. Together they fix where the
+  burden of justification lies, and nothing in A survives scrutiny to meet it — so
+  the prolongation is unjust twice over, legally and morally. From the same two
+  facts, the defense needs no external permission and answers to no outside
+  proportionality committee: the price of freedom is weighed by those paying it — the
+  standing argument. And support is not charity but obligation, under-delivered: the
+  states that took Ukraine's nuclear weapons in exchange for assurances signed more
+  than sentiment — Budapest, 1994 [VERIFY] — and my country knows from 1938 what it
+  costs when third parties price another nation's borders for it.
 
 ## Refutations & tensions
 
