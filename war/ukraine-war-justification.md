@@ -420,8 +420,8 @@ Ukrainians to keep paying for. But standing cuts both ways, and as of 2026 that
 edge is live: about two-thirds of Ukrainians prefer a negotiated end as soon as
 possible, while the same public rejects Russia's actual terms by wide margins (as
 of 2026 — Gallup and KIIS; the numbers are in the refutations). So the defense's
-limit exists, and it
-is exactly one: Ukraine's own settled choice. If that choice becomes settlement, E
+limit exists, and it is exactly one: Ukraine's own settled choice. If that choice
+becomes settlement, E
 endorses it — and outside hawks lose their standing to object with the same
 certainty the outside doves lost theirs. What I continue to deny is that third
 parties may *manufacture* that choice: by conditioning aid, by leaking peace
@@ -432,7 +432,7 @@ been on the receiving end of that procedure, and its name is not diplomacy.
 "insufficient" holds, with one honest caveat.** The obligation has two specific
 hooks: the assurances taken in exchange for Ukraine's arsenal in 1994, and the
 incentive structure every bystander state either funds or starves — a world where
-aggression pays invoices everyone later. The affordability is arithmetic: Kiel
+aggression pays sends everyone the bill later. The affordability is arithmetic: Kiel
 prices full replacement of the departed American contribution at about 0.12% of
 European GDP (as of 2026-02); the distance between that number and Europe's
 performance is choice, not capacity, and I call the choice under-delivery. The
