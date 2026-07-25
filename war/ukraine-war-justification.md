@@ -156,7 +156,80 @@ concedes most of my premises and still ends somewhere else; E is mine.
 
 ## Refutations & tensions
 
-*(to be written)*
+**Against A — the chronology problem, and protection that multiplies harm.** The
+security story has a date problem it cannot survive. Russia seized Crimea in February
+2014 — before any of the developments named as the 2022 casus belli, and at a time
+when Ukraine's NATO membership stood nowhere on any calendar: Kyiv had been refused a
+Membership Action Plan in 2008 and was never granted one [VERIFY]. Whatever
+Bucharest's "will become members" promise was worth, fourteen years of it producing
+nothing is thin material for an existential noose. (What NATO representatives did or
+did not promise Moscow about enlargement in 1990 is a genuine historiographical
+dispute — Kramer reads the record as a myth of a pledge, Sarotte with more sympathy
+for the Russian grievance [VERIFY] — and this note must not pretend it is cleaner
+than it is. But a broken diplomatic assurance, if there was one, licenses a protest,
+not an invasion.) The protection story has an arithmetic problem. In 2021, the last
+year before the invasion, OHCHR recorded 110 civilian casualties in the Donbas
+conflict — 25 killed — the lowest annual toll of the entire conflict, and falling for
+years. Since the "protective" invasion, OHCHR has verified 16,431 civilian deaths and
+calls its own count an undercount (as of 2026-06). A protection that multiplies the
+harm it invokes by three orders of magnitude is not protection under any description
+— and the genocide claim wheeled in to dramatize it was put before the International
+Court of Justice and has produced no finding of genocide [VERIFY: procedural status].
+The legal scaffolding fails on its own terms. Article 2(4) of the UN Charter
+prohibits force against the territorial integrity of any state [VERIFY: exact
+wording]; the "invitation" came from entities Russia had fomented, armed, and
+diplomatically recognized three days before the invasion [VERIFY: Girkin's
+admission], and Nicaragua stands for the rule that a state cannot manufacture its own
+inviter [VERIFY: holding]. The General Assembly did the counting: 141 states to 5
+demanded withdrawal in March 2022; 143 to 5 condemned the annexations that October.
+And Kosovo, whatever one thinks of it, is a disanalogy [VERIFY: facts as used]: it
+followed documented mass atrocities and an exhausted UN track — and if it was
+nonetheless wrong, a second wrong licenses nothing. Finally, the continuation case
+fails on its trajectory. Russia's demands have grown with its battlefield fortunes,
+which is what security demands do not do: from neutrality talk at Istanbul in spring
+2022 [VERIFY], to annexing four oblasts that September — including territory it did
+not and does not control — to the June 2024 conditions: Ukrainian withdrawal from
+parts of its own country that Russia has never held, recognition of the annexations,
+permanent neutrality, sanctions relief; the Kremlin confirms these terms unchanged
+(as of 2026-06). A demand curve that rises with opportunity measures appetite, not
+fear. And the "Western guarantees are worthless" argument proves too much: the
+fullest inventory of broken assurances around Ukraine — Budapest, Minsk [VERIFY] —
+carries Russia's signature, and a party's own record of breaking agreements cannot
+serve as its reason for refusing to make one.
+
+**Against B — "stop shooting" is not one demand but two.** The pacifist's imperative
+sounds symmetric and is not. Addressed to the aggressor, "stop shooting" ends the
+war; addressed to the defender, it ends the defender — the exit asymmetry, read back
+to B as an objection. One sentence is carrying two demands with opposite moral
+content, and B's force depends on nobody noticing. An unconditional ceasefire-now has
+a second, forward-facing cost: it freezes the front where conquest drew it,
+converting aggression into acquisition — and every armed observer learns that borders
+are redrawable at a bearable price. The next wars are being priced today; "stop the
+killing now" and "minimize the killing" are different policies, and B keeps taking
+credit for the second while arguing only for the first. And the honest cost of
+principled pacifism should be said aloud rather than around: if defense is
+impermissible, then rights exist exactly as long as no one is willing to violate
+them. The pacifist does not abolish violence; he abolishes the answer to it. (Orwell
+pressed something close to this against the pacifists of 1942 [VERIFY: exact words,
+else the paraphrase stays mine].)
+
+**Against C — the slide from is to ought.** Realism is strongest as description and
+weakest at the moment it becomes advice, and C needs it to be advice. From "great
+powers do lash out when encroached upon" nothing follows about what anyone may do —
+reading a norm off a regularity is the oldest slide in the book, and "the strong do
+what they can" was a warning in Thucydides, not a licence. Three specific failures.
+The performative one: Russia itself does not treat justification as decoration — it
+argues, manufactures pretexts, litigates history at essay length; states that
+believed moral vocabulary idle would not spend so heavily on propaganda. The agency
+one: "buffer state" analysis treats Ukraine as terrain — some forty million people as
+a pressure gradient — which is precisely the erasure the standing argument
+(Conjecture E) exposes; whatever geopolitics says about spheres, it is not Ukraine's
+mouth it says it with. And the evidential one: the specific realist story about this
+war stands on claims that need checking rather than deference — what Mearsheimer
+actually asserted and predicted, and how it fared [VERIFY] — and on a 2022 trigger
+that the 2014 chronology above already embarrasses. What survives of C is a
+constraint, not a verdict: prudence about escalation is real, and E must absorb it —
+the nuclear paragraphs below — rather than wave it away.
 
 ## Where it stands
 
