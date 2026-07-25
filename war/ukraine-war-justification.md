@@ -377,7 +377,76 @@ nation's history would prefer the argument to bend.
 
 ## Where it stands
 
-*(to be written)*
+**On the war and its prolongation: unjust, and I do not expect to change this
+verdict.** The entry asymmetry fixes the aggressor; the legal record (Article 2(4),
+141 to 5, 143 to 5) and the moral standard (no attack on suspicion — for states as
+for men) converge on the same answer; and every branch of A failed above — on
+chronology, on arithmetic, on law, on trajectory. The exit asymmetry then fixes the
+burden of every further day, and the debt from the mirror block gets paid here: by
+"end the war" I mean, minimally, that the shooting stops and Russian forces leave
+what they have taken since 24 February 2022. That much falsifies "the war has no
+available end" — it is an end Russia could begin executing tomorrow morning. What
+justice demands is more — the 1991 borders, Crimea included, and accountability —
+but that is a claim about what a settlement should contain, not about whether
+Russia could stop the war. Fact and claim, kept apart, as promised. Putin's refusal
+of even the minimal exit, on grounds that survived nothing above, is this note's
+central verdict: the prolongation is unjustified — legally, morally, and daily.
+
+**On the defense and its limits: justified, with no outside duty to concede — and
+the standing argument binds me too.** No external committee — allied, expert, or
+well-meaning — may rule that Ukrainian freedom has become too expensive for
+Ukrainians to keep paying for. But standing cuts both ways, and as of 2026 that
+edge is live: about two-thirds of Ukrainians prefer a negotiated end as soon as
+possible, while majorities still reject peace on Russia's terms (as of 2026,
+Gallup; KIIS nuances pending verification). So the defense's limit exists, and it
+is exactly one: Ukraine's own settled choice. If that choice becomes settlement, E
+endorses it — and outside hawks lose their standing to object with the same
+certainty the outside doves lost theirs. What I continue to deny is that third
+parties may *manufacture* that choice: by conditioning aid, by leaking peace
+plans, by pricing another nation's borders in foreign capitals. My country has
+been on the receiving end of that procedure, and its name is not diplomacy.
+
+**On support: justified; probably obligatory; demonstrably affordable — and
+"insufficient" holds, with one honest caveat.** The obligation has two specific
+hooks: the assurances taken in exchange for Ukraine's arsenal in 1994, and the
+incentive structure every bystander state either funds or starves — a world where
+aggression pays invoices everyone later. The affordability is arithmetic: Kiel
+prices full replacement of the departed American contribution at about 0.12% of
+European GDP (as of 2026-02); the distance between that number and Europe's
+performance is choice, not capacity, and I call the choice under-delivery. The
+caveat from the numbers block stands: sufficiency means sufficient *for the
+defense to hold* — that more aid buys back the map is a judgment under uncertainty
+I do not assert. And the nuclear tail stays absorbed as a constraint on *how*,
+never on *whether*: the alternative is a world in which warheads are the only
+sovereignty worth having — the proliferation lesson Budapest already teaches once.
+
+**Tensions I am keeping, not resolving.** The door cuts both ways: the aggregate
+argument for preserving the nation's options spends the options of particular
+people, so it grounds a strong default, not an absolute — this note's verdicts are
+all defaults in that sense. And the admission stands: my anti-appeasement prior is
+older than my arguments. I have tried to make the evidence do the work; at the
+Munich-shaped joints, the reader should assume I am the least reliable narrator
+available.
+
+**What would change my mind:**
+
+- Evidence that Ukrainians durably prefer concession and are being overridden from
+  outside — the standing argument then turns against E's support verdict as
+  formulated, and I would have to follow it where it points.
+- A verifiable change in Russia's compliance record — a monitored withdrawal
+  actually executed, an agreement actually kept at cost. The refusal-of-exit
+  verdict rests partly on that record; a changed record weakens it.
+- A serious quantification showing the nuclear tail dominates — that
+  probability-times-catastrophe genuinely outweighs the defended goods. That bends
+  the support verdict toward D's conclusion, whatever I think of D's reasoning.
+- Historiography establishing that an enforceable Istanbul-type settlement was
+  actually available in 2022 — not terms on paper but guarantees that would have
+  held. That would promote D's exhibit from unfalsifiable might-have-been to
+  evidence, and my "no better peace was on offer" would need rewriting.
+- The criteria failing their consistency tests: if the entry and exit asymmetries
+  cannot be applied with a straight face to Iraq, Gaza, or Karabakh, they are
+  sympathies in criterion costume, and the note's machinery — not just its verdict
+  — is broken.
 
 ## Threads to pull
 
