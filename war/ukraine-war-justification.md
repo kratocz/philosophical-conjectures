@@ -1,6 +1,6 @@
 # Who could end the war in Ukraine tomorrow — and what justifies not doing it?
 
-*Status: open · last touched 2026-07-24 · sources checked 2026-07-24*
+*Status: open · last touched 2026-07-25 · sources checked 2026-07-24*
 
 ## The question
 
@@ -230,6 +230,150 @@ actually asserted and predicted, and how it fared [VERIFY] — and on a 2022 tri
 that the 2014 chronology above already embarrasses. What survives of C is a
 constraint, not a verdict: prudence about escalation is real, and E must absorb it —
 the nuclear paragraphs below — rather than wave it away.
+
+**Against D — the case at full strength.** D deserves the strongest telling I can
+give it, because it is the position most thoughtful people I disagree with actually
+hold. The bill so far, in the ranges the sources allow: military casualties of
+roughly 1.2–1.4 million on the Russian side and 500–600 thousand on the Ukrainian —
+approaching two million human beings killed, maimed, or missing (CSIS estimates, as
+of 2026-06); 16,431 civilians verified dead by an office that calls its own count an
+undercount (OHCHR, as of 2026-06); 5.9 million refugees and 3.7 million displaced
+(UNHCR, as of 2025-12); a birth cohort collapsing and a generation schooled abroad.
+Against that, the front's motion: some 31 square kilometres in a month (as of
+2026-06) — village-sized gains at army-sized cost, in both directions. If Istanbul in
+spring 2022 really held neutrality-for-withdrawal terms [VERIFY: Charap &
+Radchenko], every month since has bought back less at a higher price, and D's
+proportionality alarm has been ringing for four years. Add the tail: any nonzero
+probability of nuclear use multiplies a finite territorial stake by a near-infinite
+harm, and expected-value arithmetic starts to favor almost any peace. Two of E's
+replies get their own blocks below (standing; the door). Two belong here. On the
+nuclear tail: E absorbs it as a constraint on *how* — which capabilities, which
+targets, what pace — never on *whether*; because if nuclear threats can defeat a
+defense outright, nuclear blackmail becomes a master key that opens any neighbor,
+and the lesson every state on a nuclear border learns is: get warheads. That is the
+universalization test failing a second time, and it is Budapest's lesson inverted —
+Ukraine is being punished for having traded its arsenal for assurances [VERIFY:
+Budapest terms]. On Istanbul: the exhibit is weaker than its reputation — the
+sticking point was precisely the security guarantee Ukraine would receive in
+exchange for neutrality [VERIFY: Charap & Radchenko], and Russia's record with prior
+undertakings (Budapest, Minsk — Against A above) makes "the better peace was there
+for the taking" an unfalsifiable might-have-been. But D at full strength does not
+need Istanbul. It needs only the casualty integrals and the observation that they
+grow monotonically while the map barely moves. That argument does not embarrass
+easily, and I will not pretend it does.
+
+**The reply from standing — and its double edge.** The weighing D demands is real;
+the open question is who may perform it. The price of continued defense is paid in
+Ukrainian lives and futures, so the ledger belongs to Ukrainians: when an outsider
+announces that the costs now exceed what Ukrainian freedom is worth, he is pricing
+someone else's freedom — the standing argument, and the reason E refuses every
+outside proportionality committee, including a well-meaning one. But the argument
+cuts twice, and in 2026 the second edge is no hypothetical. Gallup finds 66% of
+Ukrainians now prefer a negotiated end as soon as possible, against 24% for fighting
+until victory — a near-complete reversal of 2022, when 73% wanted to fight on (as of
+2026); with the crucial rider that majorities simultaneously reject peace on
+Russia's terms [VERIFY: KIIS numbers and question wording]. Standing silences the
+outside hawk as surely as the outside dove. If Kyiv chooses settlement, E endorses
+the settlement — E was never "fight forever"; it is "the choice belongs to the
+paying." What stays contested between E and D shrinks to one live question: may
+third parties *pressure* the defender toward the table — condition aid on
+negotiating? E answers no: conditionality is the outside committee returning
+through the service entrance. And E accepts the symmetrical consequence: if
+Ukraine's settled democratic choice is to stop, support-as-obligation follows the
+choice and becomes support for the peace.
+
+**The door cuts both ways.** [[meaning-without-guarantee]] argued that where values
+run out, structure can still decide: prefer the state that keeps the choosing open.
+I reached for the same move here: capitulation is quasi-irreversible — occupied land
+and the people on it lose their exit, and history rarely runs annexations backward —
+while a defended country keeps its options, including the option to settle later.
+But the dead of a continued war hold no options either, and they did not vote to
+spend theirs. The honest version: the asymmetry holds in aggregate and
+probabilistically — continued defense preserves the *nation's* choosing by spending
+the choosing of particular persons — and no aggregate justification quite reaches
+the specific eighteen-year-old. So the door argument establishes a strong default,
+not an absolute; the same concession the meaning note ended up making ("a default,
+not a law"), load-bearing here too.
+
+**Against E — the Kursk objection.** For roughly eight months the entry asymmetry's
+plain reading was false: from 6 August 2024, Ukrainian troops held Russian territory
+— about a thousand square kilometres at peak, by Kyiv's count — until the retreat of
+March 2025. If "whose soldiers stand on whose soil" fixes the aggressor, did Ukraine
+become one that August? The repair: the criterion tracks the *initiation* of force
+across a border absent an evidenced imminent attack; jus ad bellum attaches to the
+war, not to every operation inside it, and a defender's cross-border operation
+within a war it did not start is continuation, not new aggression — Ukraine annexed
+nothing and left. But I should say what the repair costs. The criterion loses its
+beautiful crudeness: it now needs "a war already running" and "who started it,"
+which is close to what it was supposed to deliver. The entry asymmetry survives
+Kursk, but it returns less innocent — evidence organizing a judgment, not a
+substitute for one. The individual-scale version needs the same honesty: even
+street law asks not who landed the first blow but who created the necessity — a
+drawn knife counts, a felt suspicion does not. Russia exhibited no drawn knife; its
+own stated case was prevention, which is the concession that sinks it (Against A).
+
+**Against E — the mirror move, and the missing endpoint.** The Kremlin can mimic
+the exit asymmetry: "Ukraine could end the war tomorrow — by accepting reality." If
+both parties hold an exit, no asymmetry, no burden. The reply is that the two exits
+differ in kind, not degree: Russia's exit — withdrawal — restores what law and the
+pre-war line already assigned; Ukraine's "exit" — concession — transfers to the
+aggressor the very thing the aggression was for. One ends the robbery, the other
+completes it, and any standard that cannot tell those apart has given up
+distinguishing robbery from resistance. But the mirror exposes a real debt: "Russia
+could end it tomorrow" stays fuzzy until E says what *ending* is. Withdraw to
+where? This refutation stands until Where it stands pays it — and the payment must
+keep two things apart: a minimal endpoint (the shooting stops; forces leave what
+was taken since 24 February 2022) which suffices to falsify "this war has no
+available end," and the claim of justice (the 1991 borders, Crimea included), which
+is a further demand. Blurring the two would be smuggling; keeping them apart is the
+price of using the asymmetry at all.
+
+**Against E — Munich against Finland.** My country's memory says: pricing a small
+nation's borders to appease a large one buys a year and a worse war after. But an
+analogy is not a law of nature; it is one member of a reference class, and the
+class contains counterexamples. Finland, March 1940: ceded roughly a tenth of its
+territory [VERIFY: share] to the aggressor after fighting hard — and survived,
+free, eventually prosperous, never absorbed. If Munich proves concession fatal,
+Finland proves it survivable. What distinguishes them has to be argued, not
+assumed: Finland conceded *after* imposing brutal costs and kept its army and its
+sovereignty; Czechoslovakia was disarmed by its allies before firing a shot; and
+Hitler's documented program of serial annexation had no clear Finnish counterpart
+in Stalin's aims [VERIFY: historiography]. Which pattern Putin's program resembles
+is an inference from texts and conduct — the 2021 essay denying Ukrainian statehood
+is the exhibit [VERIFY: passages], June 2024's demands growing with opportunity are
+the conduct — not a certainty. Played honestly, the Munich card is probabilistic:
+it raises the prior that concession feeds the next demand; it does not close the
+case. And nuclear weapons cut the appeasement calculus both ways — they make "risk
+the bigger war later" costlier, and "fight now" costlier too.
+
+**Against E — "too little" must survive the numbers.** E claims support is
+under-delivered; the claim has to face the ledger, not the mood. Kiel's tracker (as
+of 2026-04): Europe's military aid roughly €69 billion cumulative, running near €2
+billion a month; the US contribution scaled back sharply into 2026 [VERIFY: NDAA
+specifics]; Ukraine's dependency on US-made systems stood at 86% in rocket
+artillery and 70% in long-range air defence (as of 2025-03). And Kiel's own
+estimate: replacing the *entire* US military contribution would cost Europe about
+0.12% of GDP (as of 2026-02). That number cuts for E and against Europe's
+self-image at once — the gap is not capacity but choice, which is exactly what
+"under-delivered" means. But the numbers do not establish everything E wants: they
+do not show that more aid changes the outcome. "Too little" presupposes "enough
+exists"; the serious version must say enough *for what* — for the defense to hold,
+not necessarily for reconquest — and concede that the outcome-claim is a judgment
+under uncertainty, not arithmetic.
+
+**Against E — consistency, and an admission.** A criterion that spares one's
+friends is not a criterion. The entry asymmetry convicts Iraq 2003 without
+discount: force across a border on suspicion — the "preventive" label changes
+nothing — so the standard used here condemns a war waged by my own civilizational
+camp, and I accept that verdict; accepting it is what having a standard means. The
+independence runs the other way too: nothing in E launders how the defense is
+fought — where UN commissions document Ukrainian violations, the ad bellum verdict
+does not shrink them [VERIFY: COI, pointers only]. And the admission: I am Czech,
+and my anti-appeasement prior predates every argument on this page. Munich sits in
+my reasoning the way the three-a.m. hour sat in the meaning note — a place where
+conviction may be wearing cognition's clothes. I have tried to let the evidence
+carry the weight; the reader should press hardest exactly at the joints where my
+nation's history would prefer the argument to bend.
 
 ## Where it stands
 
