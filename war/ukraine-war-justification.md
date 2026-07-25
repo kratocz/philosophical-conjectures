@@ -450,7 +450,37 @@ available.
 
 ## Threads to pull
 
-*(to be written)*
+- **The ethics of nuclear blackmail.** The war's deepest structural lesson may be
+  about the weapon never fired: if nuclear threats can veto a defense, every
+  non-nuclear border is provisional and every arsenal a license — the coercion
+  universalizes as badly as the preventive strike did. Deserves its own note in
+  `war/`: deterrence, blackmail, and the proliferation incentive Budapest's
+  aftermath teaches (why would the next Ukraine ever disarm?).
+- **When does an analogy license an inference?** Munich against Finland, worked
+  properly: what puts a case in the reference class — the aggressor's documented
+  program? the defender's imposed costs? the guarantor's behavior? The war debate
+  is fought almost entirely in analogies, and I used one; the epistemology that
+  disciplines them is a note I owe.
+- **Jus in bello, separately.** This note fenced conduct off deliberately. The UN
+  Commission of Inquiry's findings — on both sides — deserve their own
+  examination, not a paragraph here [VERIFY: COI reports as the entry point].
+- **Who speaks for "Ukraine's choice"?** The standing argument hands the ledger to
+  "Ukrainians" — but elections are suspended under martial law, polls are not
+  votes, and a president's mandate ages. The argument needs a theory of collective
+  agency it currently borrows on credit. (This is the softest joint in E that no
+  refutation above fully pressed.)
+- **The asymmetry family.** The one-way door in [[meaning-without-guarantee]], the
+  entry and exit asymmetries here: three arguments with one shape — where
+  substantive values are contested, let structure decide. Whether that shape is a
+  discovery or a tic of mine deserves a meta-note.
+- **What do assurance-givers owe?** Budapest 1994 traded the world's third-largest
+  arsenal for "assurances" — a word chosen, at the time, to mean less than
+  "guarantees" [VERIFY: negotiation record]. Whether that wording caps the
+  signatories' duty or shames it is a real question about promising itself.
+- **The consistency file.** Iraq 2003 is convicted above; Gaza and Karabakh 2023
+  are harder tests I have not run. If the criteria bend there, the refutation I
+  feared most — sympathies in criterion costume — lands after all. Standing
+  invitation to any reader: run them.
 
 ## Sources
 
