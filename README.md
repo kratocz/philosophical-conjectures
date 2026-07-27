@@ -1,5 +1,7 @@
 # Philosophical Conjectures
 
+*Česky: [README.cs.md](README.cs.md)*
+
 A personal, slowly-growing set of notes where I think through some of the largest open questions — mortality, meaning, whether we're alone — and try to hold my answers honestly.
 
 The name is a nod to Karl Popper's *Conjectures and Refutations*: the idea that we don't reach truth by proving things, but by making bold guesses and then doing our best to knock them down. Everything here is a conjecture. Nothing is settled. Each note is written to be revised.
