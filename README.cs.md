@@ -32,8 +32,11 @@ je tak označeno, nikoli tvrzeno.
 ## Jak je to uspořádané
 
 U každé složky jsou níže vypsané její poznámky, každá s jednovětným snímkem toho, kde
-právě stojí. Snímky jsou záměrně provizorní a zastarávají jako první — zdrojem pravdy
-je vždy poznámka sama, její sekce „Where it stands" a výhrady kolem ní.
+právě stojí. Každý verdikt je špička argumentu, ne nálada: destiluje úvahu, která je
+v poznámce rozvedena a opřena o skutečně ověřené zdroje — viz níže [Reference jsou
+skutečné](#reference-jsou-skutečné). Snímky jsou záměrně provizorní a zastarávají
+jako první — zdrojem pravdy je vždy poznámka sama, její sekce „Where it stands"
+a výhrady kolem ní.
 
 - **`continuity/`** — Smrt a co (pokud vůbec něco) ji přežívá. Osobní identita v čase, kryonika, digitální uchování já.
   - [Kryonika](continuity/cryonics.md) — *Argument je tenčí, než zastánci přiznávají — sázka musí vyhrát dvakrát, na uchování i na identitě — a část její skutečné přitažlivosti je možnost jednat už teď, pro živé.*

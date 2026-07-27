@@ -36,9 +36,11 @@ oznaczone, a nie twierdzone.
 ## Jak to jest zorganizowane
 
 Przy każdym folderze wypisane są niżej jego notatki, każda z jednozdaniową migawką
-tego, gdzie właśnie stoi. Migawki są z założenia prowizoryczne i starzeją się
-pierwsze — źródłem prawdy jest zawsze sama notatka, jej sekcja „Where it stands"
-i zastrzeżenia wokół niej.
+tego, gdzie właśnie stoi. Każdy werdykt to wierzchołek argumentu, nie nastrój:
+destyluje rozumowanie rozpisane w notatce i oparte na źródłach, które naprawdę
+zostały sprawdzone — zob. niżej [Referencje są prawdziwe](#referencje-są-prawdziwe).
+Migawki są z założenia prowizoryczne i starzeją się pierwsze — źródłem prawdy jest
+zawsze sama notatka, jej sekcja „Where it stands" i zastrzeżenia wokół niej.
 
 - **`continuity/`** — Śmierć i to, co (jeśli cokolwiek) ją przeżywa. Tożsamość osobowa w czasie, krionika, cyfrowe zachowanie samego siebie.
   - [Krionika](continuity/cryonics.md) — *Argument jest cieńszy, niż przyznają zwolennicy — zakład musi wygrać dwa razy, na zachowaniu i na tożsamości — a częścią jego prawdziwej siły przyciągania jest możliwość działania już teraz, dla żywych.*

@@ -17,9 +17,11 @@ Most of these are worked out in dialogue — often with an AI assistant — whic
 ## How it's organized
 
 Each folder below lists its notes, each with a one-sentence snapshot of where that note
-currently lands. The snapshots are provisional by design and go stale first — the note
-itself, its "Where it stands" section and the caveats around it, is always the source
-of truth.
+currently lands. Each verdict is the tip of an argument, not a mood: it distils
+reasoning laid out in the note and grounded in sources that were actually checked —
+see [The references are real](#the-references-are-real) below. The snapshots are
+provisional by design and go stale first — the note itself, its "Where it stands"
+section and the caveats around it, is always the source of truth.
 
 - **`continuity/`** — Death, and what (if anything) survives it. Personal identity over time, cryonics, digital preservation of a self.
   - [Cryonics](continuity/cryonics.md) — *The case is thinner than advocates admit — the bet must win twice, on preservation and on identity — and part of its real draw is present-tense agency, for the living.*
