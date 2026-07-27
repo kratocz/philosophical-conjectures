@@ -6,7 +6,7 @@ A personal, slowly-growing set of notes where I think through some of the larges
 
 The name is a nod to Karl Popper's *Conjectures and Refutations*: the idea that we don't reach truth by proving things, but by making bold guesses and then doing our best to knock them down. Everything here is a conjecture. Nothing is settled. Each note is written to be revised.
 
-Most of these are worked out in dialogue — often with an AI assistant — which is why they read more like a conversation with myself than like finished essays.
+Most of these are worked out in dialogue — often with an AI assistant — which is why they read more like a conversation with myself than like finished essays. The reasoning may be conversational; the references are not. Wherever an argument leans on a checkable fact, it is backed by real sources that were actually opened and verified — nothing is cited from memory, and what couldn't be verified is flagged as such rather than asserted.
 
 > ### Think something here is wrong? Good — that's the product.
 >
@@ -55,6 +55,18 @@ Each note carries two dates — when the prose last changed, and when its factua
 ## A note on tone
 
 These are thinking-in-progress, not conclusions. If something here sounds confident, read it as "this is my best current guess," not "this is true." The point is the refutations.
+
+## The references are real
+
+Conjectures here are cheap by design; references are not. Where a note leans on
+checkable facts it carries a **Sources** section, built under a strict rule: **never
+cite from memory.** Every source was opened and read, and is annotated with what it
+actually supports — a discipline aimed at the characteristic failure of AI-assisted
+writing, the confident citation that doesn't exist. What couldn't be confirmed is
+marked **NOT VERIFIED** rather than quietly asserted, claims that died against their
+sources stay visible as withdrawn (with the reason), and each note's status line
+records when its facts were last checked. If you find a citation that does not say
+what the note claims, that is a first-order bug — [report it](CONTRIBUTING.md).
 
 ## Who wrote the objections
 

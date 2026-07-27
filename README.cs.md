@@ -14,7 +14,10 @@ které se pak ze všech sil snažíme srazit. Všechno tady je konjektura. Nic n
 uzavřené. Každá poznámka je psaná proto, aby byla revidována.
 
 Většina poznámek vzniká v dialogu — často s AI asistentem — proto se čtou spíš jako
-rozhovor se sebou samým než jako hotové eseje.
+rozhovor se sebou samým než jako hotové eseje. Úvahy mohou být konverzační; reference
+nejsou. Kdekoli se argument opírá o ověřitelný fakt, stojí na skutečných zdrojích,
+které byly opravdu otevřeny a ověřeny — nic se necituje z paměti a co ověřit nešlo,
+je tak označeno, nikoli tvrzeno.
 
 > ### Myslíte, že je tu něco špatně? Dobře — přesně o to jde.
 >
@@ -70,6 +73,18 @@ by jediné její slovo přestalo platit, a varuje před tím jen to druhé datum
 
 Tohle je myšlení v průběhu, ne závěry. Pokud něco zní sebejistě, čtěte to jako „tohle
 je můj nejlepší současný odhad", ne „tohle je pravda". Pointa jsou vyvrácení.
+
+## Reference jsou skutečné
+
+Konjektury jsou tu záměrně laciné; reference ne. Kde se poznámka opírá o ověřitelná
+fakta, nese sekci **Sources**, postavenou na přísném pravidle: **nikdy necitovat
+z paměti.** Každý zdroj byl otevřen a přečten a je opatřen poznámkou, co přesně
+podpírá — disciplína mířící na charakteristické selhání psaní s pomocí AI: sebejistou
+citaci, která neexistuje. Co se potvrdit nepodařilo, je označeno **NOT VERIFIED**,
+místo aby se to potichu tvrdilo; tvrzení, která proti svým zdrojům padla, zůstávají
+v poznámce viditelně jako stažená (s důvodem); a statusová řádka každé poznámky
+uvádí, kdy byla fakta naposledy ověřena. Najdete-li citaci, která neříká to, co
+poznámka tvrdí, je to chyba první kategorie — [nahlaste ji](CONTRIBUTING.md).
 
 ## Kdo psal námitky
 
