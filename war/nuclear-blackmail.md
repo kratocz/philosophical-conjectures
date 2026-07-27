@@ -102,7 +102,80 @@ whole subject just fell out. A debt with interest accruing is best paid early.
 
 ## Conjectures
 
-*(to be written)*
+Seven verdicts compete, and — a first for this repository — none of them is mine
+going in. The Ukraine note entered its conjectures with a favorite; this one
+enters them owing money.
+
+- **Conjecture A — Never yield.** Yielding to nuclear compellence is always
+  wrong, everywhere, for everyone. The argument is the incentive cascade: a world
+  in which nuclear threats extract concessions is a world that immediately fills
+  with nuclear threats — each success writes the next demand's business case, and
+  the only stable number of successful nuclear extortions is zero. The base rate
+  backs the norm: compellent nuclear threats have almost never worked, precisely
+  because targets have mostly refused to let them (the record is in The
+  question). At full strength, A goes further: even *entering* the threat into
+  your deliberation is a partial payment — the correct calculus treats the
+  blackmailer's warhead as if it were not on the table, because the moment it
+  purchases attention it has begun to purchase outcomes.
+
+- **Conjecture B — The tail dominates.** Sometimes yielding is right, and this
+  war may be such a time. However small the probability of nuclear use, the harm
+  term is so large that expected-value arithmetic swamps any finite stake — a few
+  oblasts, even a country's full sovereignty, against a nonzero chance of
+  megadeaths. Refusing to run that arithmetic is not integrity; it is innumeracy
+  wearing it. And escalation is not fully controlled by either side — the threat
+  that leaves something to chance [VERIFY: Schelling] means resistance itself
+  rolls dice for millions who never agreed to play. The restraint the West
+  actually practiced was, on B's reading, morally correct — and more of it would
+  have been more correct.
+
+- **Conjecture C — There is no line.** The Ukraine note's sentence assumed risk
+  management ("how") and yielding ("whether") can be kept apart. They cannot.
+  Every "how" restraint of this war delivered part of what the threats demanded:
+  the no-fly zone never came, the deep-strike permissions arrived years late, the
+  troops never arrived at all — each a purchased outcome, paid in the currency
+  the blackmailer named. "Managing risk" and "partially capitulating" are one set
+  of acts under two descriptions, and no principled stopping point separates
+  reasonable caution from de facto veto. If C stands, the audited sentence
+  defaults — there is no line to defend, only a slope with better and worse
+  footing.
+
+- **Conjecture D — Build the counter-structure.** The yield-or-resist dilemma is
+  a symptom of prior failure, and moralizing about it mid-crisis is triage
+  dressed as philosophy. What matters is making nuclear coercion structurally
+  non-viable before it is tried: extended deterrence credible enough to
+  pre-commit the answer, automatic tripwires that remove the coercer's hope of a
+  decision to intimidate, assurances with enforcement — everything the Budapest
+  Memorandum was not. Where a nuclear threat is credible enough to pose this
+  note's question, somebody already failed years earlier — and the moral weight
+  sits there, on the umbrella states between crises, not on the defender inside
+  one.
+
+- **Conjecture E — Better red than dead.** The honest capitulationist. Strip away
+  B's probability apparatus and say it plainly: survival lexically outranks
+  freedom. A subjugated nation can resist later — culturally, demographically,
+  politically; an incinerated one cannot do anything at all. Every value the
+  defense protects presupposes survivors to hold it; when annihilation is
+  genuinely on the table, no quantity of sovereignty buys back the wager. The
+  slogan was meant as an insult; E wears it as arithmetic-free common sense:
+  first remain, then be free.
+
+- **Conjecture F — The taboo is the shield.** What actually protects the world is
+  neither resolve nor arithmetic but an eighty-year-old norm: nuclear weapons are
+  not used, not usable, not weighed [VERIFY: Tannenwald]. The taboo does its work
+  only while the weapons stay outside ordinary calculation — and both sides of
+  this note's dilemma corrode it: B, by pricing the unthinkable into policy; A
+  and D, by building postures that treat use as a countable move. F's counsel:
+  answer nuclear threats with studied refusal to treat them as moves in a game at
+  all — neither pay nor price; starve the category.
+
+- **Conjecture G — Supreme emergency.** The rules hold — until the heavens are
+  genuinely about to fall, and then they bend [VERIFY: Walzer]. G is the voice
+  that licenses exceptions on both sides of the table: a defender may do the
+  otherwise-impermissible when facing extinction, and a community may yield the
+  otherwise-unyieldable when the threat is real, imminent, and existential.
+  Everything turns on keeping "supreme emergency" a narrow gate rather than a
+  rhetorical device — which is exactly what every blackmailer will contest.
 
 ## Refutations & tensions
 
