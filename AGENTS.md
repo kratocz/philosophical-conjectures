@@ -40,3 +40,10 @@ None. Any Markdown editor works; there are no dependencies to install.
 - **Record what the sourcing cost you.** When a source corrects a claim, refuses the use you wanted, or forces a conclusion to weaken, write that into the note rather than silently editing around it. Withdrawn claims stay visible, with the reason. This is the Popperian point of the project made concrete: a note that only shows its wins isn't a conjecture, it's a pitch.
 - Filenames: lowercase kebab-case `.md` (e.g. `fermi-paradox.md`), placed in the topic folder that fits.
 - Commit messages: short, present-tense, describing the change to the notes (e.g. `add fermi-paradox conjecture`, `revise meaning: where-it-stands`).
+- **English is canonical; translations mirror it.** All notes and `README.md` are
+  English. `README.<lang>.md` files (currently `README.cs.md`) are translations of
+  `README.md` — never edit content in them directly. Edit `README.md`, then update
+  every existing translation to match, including the "Překlad odpovídá stavu
+  originálu k YYYY-MM-DD" sync date in its header. When a note's "Where it stands"
+  section changes, update that note's one-sentence verdict in `README.md` (and
+  therefore in every translation).
