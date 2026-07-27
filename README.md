@@ -1,6 +1,6 @@
 # Philosophical Conjectures
 
-*Česky: [README.cs.md](README.cs.md)*
+*Česky: [README.cs.md](README.cs.md) · Polski: [README.pl.md](README.pl.md)*
 
 A personal, slowly-growing set of notes where I think through some of the largest open questions — mortality, meaning, whether we're alone — and try to hold my answers honestly.
 

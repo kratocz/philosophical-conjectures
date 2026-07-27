@@ -42,12 +42,13 @@ None. Any Markdown editor works; there are no dependencies to install.
 - Filenames: lowercase kebab-case `.md` (e.g. `fermi-paradox.md`), placed in the topic folder that fits.
 - Commit messages: short, present-tense, describing the change to the notes (e.g. `add fermi-paradox conjecture`, `revise meaning: where-it-stands`).
 - **English is canonical; translations mirror it.** All notes and `README.md` are
-  English. `README.<lang>.md` files (currently `README.cs.md`) are translations of
-  `README.md` — never edit content in them directly. Edit `README.md`, then update
-  every existing translation to match, including the "Překlad odpovídá stavu
-  originálu k YYYY-MM-DD" sync date in its header. A translation may carry one extra
+  English. `README.<lang>.md` files (currently `README.cs.md` and `README.pl.md`)
+  are translations of `README.md` — never edit content in them directly. Edit
+  `README.md`, then update every existing translation to match, including the
+  translation-state sync date in its header. A translation may carry one extra
   section summarising the untranslated `CONTRIBUTING.md` ("Jak nesouhlasit" in
-  `README.cs.md`); everything else mirrors the original. When a note's "Where it
+  `README.cs.md`, "Jak się nie zgadzać" in `README.pl.md`); everything else mirrors
+  the original. When a note's "Where it
   stands" section changes, update that note's one-sentence verdict in `README.md`
   (and therefore in every translation). Verdict rules: one sentence, distilled from
   "Where it stands" — no new claims, no sharper than the note itself, nothing
