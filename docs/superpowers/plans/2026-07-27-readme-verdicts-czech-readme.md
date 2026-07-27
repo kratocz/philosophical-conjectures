@@ -29,7 +29,7 @@
 - Consumes: sekce „Where it stands" všech 9 poznámek (jen ke kontrole — verdikty jsou už vydestilované níže).
 - Produces: přesná anglická znění 9 verdiktů, která Task 2 překládá do češtiny. Formát pod-odrážky: `  - [Krátký titul](cesta/soubor.md) — *Verdikt.*`
 
-- [ ] **Step 1: Nahradit sekci „How it's organized"**
+- [x] **Step 1: Nahradit sekci „How it's organized"**
 
 V `README.md` nahradit celý blok od řádku `## How it's organized` po řádek `The structure is itself a conjecture, and will change as the questions do.` (včetně) tímto zněním — popisy složek zůstávají doslova stejné, přibývá úvodní odstavec a pod-odrážky poznámek:
 
@@ -62,7 +62,7 @@ The structure is itself a conjecture, and will change as the questions do.
 
 Pořadí pod-odrážek uvnitř složky: abecedně podle názvu souboru. `mind/` nemá poznámky, zůstává bez pod-odrážek.
 
-- [ ] **Step 2: Ověřit odkazy a čistotu verdiktů**
+- [x] **Step 2: Ověřit odkazy a čistotu verdiktů**
 
 Spustit:
 
@@ -73,7 +73,7 @@ grep -E '^  - \[' README.md | grep -cE '[0-9]|as of' || echo "verdicts clean"
 
 Očekáváno: první příkaz vypíše `OK` pro všech 9 cest k poznámkám + `OK CONTRIBUTING.md`, žádný řádek `MISSING`; druhý příkaz vypíše `verdicts clean` (žádná číslice ani „as of" ve verdiktových řádcích).
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add README.md
@@ -98,7 +98,7 @@ EOF
 - Consumes: anglická znění verdiktů a strukturu sekce z Tasku 1 (české verdikty níže jsou jejich schválené překlady).
 - Produces: soubor `README.cs.md`, na jehož název se odkazuje Task 3 (konvence v AGENTS.md) i řádek překladů v `README.md`.
 
-- [ ] **Step 1: Vytvořit README.cs.md**
+- [x] **Step 1: Vytvořit README.cs.md**
 
 Celý obsah souboru (doslova):
 
@@ -224,7 +224,7 @@ pořadí, která znamenají jen to, co říkají, spolu s výhradami kolem nich.
 některé přebíráte, vezměte s sebou i kontext.
 ```
 
-- [ ] **Step 2: Přidat řádek překladů do README.md**
+- [x] **Step 2: Přidat řádek překladů do README.md**
 
 Za řádek `# Philosophical Conjectures` (a prázdný řádek za ním) vložit:
 
@@ -234,7 +234,7 @@ Za řádek `# Philosophical Conjectures` (a prázdný řádek za ním) vložit:
 
 …následovaný prázdným řádkem. (Formát snese další jazyky oddělené ` · `.)
 
-- [ ] **Step 3: Ověřit odkazy obou souborů a diakritiku**
+- [x] **Step 3: Ověřit odkazy obou souborů a diakritiku**
 
 Spustit:
 
@@ -245,7 +245,7 @@ grep -c '[ěščřžýáíéúůďťň]' README.cs.md
 
 Očekáváno: žádný řádek `MISSING` (v `README.md` přibylo `OK README.cs.md`); počet řádků s diakritikou v `README.cs.md` je vysoký (řádově 80+), což potvrzuje, že nedošlo k ASCII degradaci.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add README.md README.cs.md
@@ -269,7 +269,7 @@ EOF
 - Consumes: název souboru `README.cs.md` z Tasku 2.
 - Produces: nic pro další tasky (poslední task).
 
-- [ ] **Step 1: Přidat konvenci**
+- [x] **Step 1: Přidat konvenci**
 
 Na konec sekce `## Conventions` v `AGENTS.md` (za odrážku `- Commit messages: …`) přidat:
 
@@ -283,7 +283,7 @@ Na konec sekce `## Conventions` v `AGENTS.md` (za odrážku `- Commit messages: 
   therefore in every translation).
 ```
 
-- [ ] **Step 2: Ověřit konzistenci**
+- [x] **Step 2: Ověřit konzistenci**
 
 Spustit:
 
@@ -293,7 +293,7 @@ grep -n 'README.cs.md' AGENTS.md README.md && ls README.cs.md
 
 Očekáváno: zásah v obou souborech a existující `README.cs.md`.
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add AGENTS.md
