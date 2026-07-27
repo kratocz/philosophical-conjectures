@@ -18,7 +18,7 @@
 - **Nikdy necitovat z paměti.** Citáty, atribuce, čísla, data → inline `[VERIFY]`. Empirická fakta nesoucí argument (kotevní blok, epizody červených linií) se ověřují **v tasku, který je zavádí**; texty a zbylé atribuce řeší Task 8. Po Tasku 8: `grep -c 'VERIFY' war/nuclear-blackmail.md` = 0.
 - Každé rychle stárnoucí tvrzení nese inline `(as of YYYY-MM)`.
 - Křížové odkazy stylem `[[kebab-name]]`.
-- Pevná jména (všechny tasky beze změn): **the audited sentence / the IOU**; konjektury **A — Never yield**, **B — The tail dominates**, **C — There is no line**, **D — Build the counter-structure**; bloky **the umbrella admission**, **the Jupiter problem**; testy **the salami test**, **the Kavka test**, **the endogeneity ledger**, **the umbrella consistency test**, **the Jupiter test**; výsledky **(i) paid**, **(ii) paid with amendment**, **(iii) defaulted**.
+- Pevná jména (všechny tasky beze změn): **the audited sentence / the IOU**; konjektury **A — Never yield**, **B — The tail dominates**, **C — There is no line**, **D — Build the counter-structure**, **E — Better red than dead**, **F — The taboo is the shield**, **G — Supreme emergency** (E–G přidány v Tasku 2 na přání autora); bloky **the umbrella admission**, **the Jupiter problem**; testy **the salami test**, **the Kavka test**, **the endogeneity ledger**, **the umbrella consistency test**, **the Jupiter test**; výsledky **(i) paid**, **(ii) paid with amendment**, **(iii) defaulted**.
 - Každá obsahová sekce: **schválení autorem před commitem.** Bez schválení se necommituje.
 - Commity: krátké, přítomný čas; každý končí trailery:
   `Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>` a
@@ -208,7 +208,7 @@ Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 ```
 
-### Task 3: Refutations — proti A a B
+### Task 3: Refutations — proti A, B a E
 
 **Files:**
 - Modify: `war/nuclear-blackmail.md` (sekce `## Refutations & tensions`, první část)
@@ -243,11 +243,21 @@ Obsahová specifikace:
    hází kostkou za budoucí cíle precedentu. Empirie: epizody z kotevního bloku
    — linie překračovány bez jaderné odpovědi; P(použití|vzdor) soustavně
    nadhodnocena (odkázat na kotevní blok, čísla znovu neuvádět).
+3. **Against E — surviving is not the same as remaining.** Lexikální priorita
+   přežití dokazuje příliš (vydává všechno komukoli dost ozbrojenému
+   a bezohlednému — práva z milosti největší hrozby); „přežij teď, vzdoruj
+   později" předpokládá, že okupant nějaké později dovolí — rekord okupace
+   z ukrajinské poznámky (deportace dětí, Buča) premisu benigní okupace vyvrací;
+   lexikalita kolabuje na faktu, že lidé racionálně riskují smrt pro svobodu
+   (E musí každou takovou volbu prohlásit za iracionální); a E dokazuje i příliš
+   málo: reálné vydírání téhle války nehrozí anihilací za neposlušnost, ale
+   eskalačním rizikem — E-ova premisa („anihilace skutečně na stole") je vzácný
+   případ, ne tento (DIA 2025 z kotevního bloku).
 
 - [ ] **Step 3: Check bloků**
 
 Run: `grep -c '^\*\*Against' war/nuclear-blackmail.md`
-Expected: `2`
+Expected: `3`
 
 - [ ] **Step 4: Schválení autorem.**
 
@@ -255,13 +265,13 @@ Expected: `2`
 
 ```bash
 git add war/nuclear-blackmail.md
-git commit -m "draft nuclear-blackmail: refutations against A and B
+git commit -m "draft nuclear-blackmail: refutations against A, B, E
 
 Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 ```
 
-### Task 4: Refutations — proti C a D + průřezové bloky
+### Task 4: Refutations — proti C, D, F a G + průřezové bloky
 
 **Files:**
 - Modify: `war/nuclear-blackmail.md` (sekce `## Refutations & tensions`, druhá část)
@@ -288,10 +298,23 @@ Obsahová specifikace:
    s architekturou, kterou jsme nepostavili); automatismy kupují
    blackmail-proofing za riziko nehody (kubánské near-misses `[VERIFY]`);
    rozšířené odstrašení JE podmíněný úmysl krát spojenci — D dědí Kavku.
-3. **The umbrella admission.** Autor žije pod deštníkem NATO; závěr
+3. **Against F — a taboo against use is not a taboo against threats.** Tabu je
+   reálné, ale chrání jinou hranici: 80 let drželo POUŽITÍ, zatímco hrozby vesele
+   žily (celý kotevní blok je katalog hrozeb pod platným tabu) — F zaměňuje dvě
+   úrovně; „odmítni nacenit" je taky politika s cenou (nenaceněný ocásek);
+   a tabu historicky koexistovalo s odstrašením a tichými obchody (Jupitery),
+   ne místo nich. Co z F přežívá: nenormalizovat kalkulaci veřejně — ozvěna
+   A-ova „pozornost je platba".
+4. **Against G — the gate that never stays narrow.** Supreme emergency je
+   výjimka, která žere pravidla: sám Walzer ji omezil na Británii 1940 a schytal
+   kritiku i za to `[VERIFY: Walzer, přesný rozsah]`; scénář každého vyděrače JE
+   výroba zdánlivé krajní nouze; na straně ustoupení G kolabuje do E-ových
+   problémů, na straně hrozby licencuje přesně úmysly, které zpochybňuje Kavka —
+   G paradox zdvojuje, neřeší.
+5. **The umbrella admission.** Autor žije pod deštníkem NATO; závěr
    o nepřípustnosti odstrašení by mu vystavil účet (vystoupit?); závěr
    o přípustnosti dluží argument. Bez schovávání za analýzu.
-4. **The Jupiter problem.** Kuba 1962: veřejný vzdor + tichý ústupek (Jupitery
+6. **The Jupiter problem.** Kuba 1962: veřejný vzdor + tichý ústupek (Jupitery
    z Turecka `[VERIFY: NSA]`) — vlajková loď never-yield obsahuje skrytý
    obchod. Co to dělá s A: fungující pokrytectví jako datový bod o čáře
    (tajnost ústupku = přiznání, že veřejné doručení požadavku učí, soukromé
@@ -300,7 +323,7 @@ Obsahová specifikace:
 - [ ] **Step 3: Check bloků**
 
 Run: `grep -c '^\*\*Against' war/nuclear-blackmail.md`
-Expected: `4`
+Expected: `7`
 
 Run: `grep -n '^\*\*The umbrella admission\|^\*\*The Jupiter problem' war/nuclear-blackmail.md`
 Expected: 2 řádky.
