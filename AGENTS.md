@@ -5,7 +5,8 @@ Guidance for AI coding agents working in this repository (Claude Code, Cursor, A
 ## Project overview
 
 A personal, slowly-growing collection of Markdown notes thinking through large open
-questions — mortality, meaning, consciousness, our place in the cosmos. The name nods to
+questions — mortality, meaning, consciousness, our place in the cosmos. A folder can be
+declared before its first note lands — `mind/` currently awaits its first. The name nods to
 Popper's *Conjectures and Refutations*: everything here is a bold guess written to be
 refuted and revised, not a settled conclusion. There is no code and no build step — the
 deliverable is prose.
@@ -13,7 +14,7 @@ deliverable is prose.
 ## Structure
 
 - `continuity/` — Death and what (if anything) survives it: personal identity, cryonics, digital preservation.
-- `cosmos/` — Our place in the universe: the Fermi paradox and its candidate resolutions.
+- `cosmos/` — Our place in the universe: the Fermi paradox, the Great Filter, and their candidate resolutions.
 - `meaning/` — What a life is for: purpose, value, living without guarantees.
 - `mind/` — Consciousness, free will, and whether experience is what it seems.
 - `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
@@ -44,6 +45,16 @@ None. Any Markdown editor works; there are no dependencies to install.
   English. `README.<lang>.md` files (currently `README.cs.md`) are translations of
   `README.md` — never edit content in them directly. Edit `README.md`, then update
   every existing translation to match, including the "Překlad odpovídá stavu
-  originálu k YYYY-MM-DD" sync date in its header. When a note's "Where it stands"
-  section changes, update that note's one-sentence verdict in `README.md` (and
-  therefore in every translation).
+  originálu k YYYY-MM-DD" sync date in its header. A translation may carry one extra
+  section summarising the untranslated `CONTRIBUTING.md` ("Jak nesouhlasit" in
+  `README.cs.md`); everything else mirrors the original. When a note's "Where it
+  stands" section changes, update that note's one-sentence verdict in `README.md`
+  (and therefore in every translation). Verdict rules: one sentence, distilled from
+  "Where it stands" — no new claims, no sharper than the note itself, nothing
+  perishable (no numbers, no "as of").
+- Working documents under `docs/superpowers/` (specs, plans) are written in Czech —
+  the author's working language. Notes, `README.md` and repo docs are English.
+- Notes are drafted in dialogue with the author. For substantive content decisions
+  (positions, wording, weighing refutations), offer plain-text questions or a full
+  drafted text to react to — the author prefers reacting to prose over filling
+  multi-select forms.

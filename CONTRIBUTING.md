@@ -9,8 +9,8 @@ have to hunt for it.
 
 ## Where to aim
 
-**Start with "What would change my mind."** Every note ends its *Where it stands* section
-with a list of conditions under which I would abandon or revise the position. That list is
+**Start with "What would change my mind."** Every note's *Where it stands* section
+carries a list of conditions under which I would abandon or revise the position. That list is
 not decoration — it is the note telling you exactly where it is load-bearing. If you can
 meet one of those conditions, you have refuted the note by its own stated standard, and
 there is nothing left for me to argue about.

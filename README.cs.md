@@ -39,7 +39,7 @@ je vždy poznámka sama, její sekce „Where it stands" a výhrady kolem ní.
   - [Kryonika](continuity/cryonics.md) — *Argument je tenčí, než zastánci přiznávají — sázka musí vyhrát dvakrát, na uchování i na identitě — a část její skutečné přitažlivosti je možnost jednat už teď, pro živé.*
   - [Žádoucnost nesmrtelnosti](continuity/immortality-desirability.md) — *Osobní argumenty proti dlouhému životu se ukázaly slabší, než znějí, společenské silnější: čas navíc bych chtěl, s možností odchodu — a nejsem si jistý, jestli ho mám přát světu.*
   - [Osobní identita](continuity/personal-identity.md) — *Identita spočívá v kontinuitě a žádný další fakt za ní není; v hraničních případech pojem prostě žádný verdikt nevrací — což může být sama odpověď.*
-- **`cosmos/`** — Naše místo ve vesmíru. Fermiho paradox a kandidátská řešení; na co bychom se ptali jiné inteligence, kdybychom ji potkali.
+- **`cosmos/`** — Naše místo ve vesmíru. Fermiho paradox, Velký filtr a jejich kandidátská řešení; na co bychom se ptali jiné inteligence, kdybychom ji potkali.
   - [Fermiho paradox](cosmos/fermi-paradox.md) — *Temný les poráží zoo úsporností předpokladů, ale celá rodina „ticho je volba" stojí níž než všední vysvětlení: jsou vzácní, jsme tu brzy.*
   - [Velký filtr](cosmos/great-filter.md) — *Záměrně bez verdiktu: důkazy rozhodnout neumějí — a znepokojivá mapa říká, že čím víc života najdeme, tím hůř na tom nejspíš jsme.*
 - **`meaning/`** — K čemu život je. Účel, hodnota a jak žít bez záruky, že cokoli z toho něco znamená.
@@ -129,6 +129,6 @@ vyvrácení; zachovejte atribuci a svou verzi šiřte pod stejnými podmínkami.
 někdy přistál kód (konfigurace linteru, build skript), byl by pod MIT — dnes tu žádný
 není.
 
-Jedna prosba, kterou licence vynutit neumí: několik poznámek nese tabulky a bodovaná
+Jedna prosba, kterou licence vynutit neumí: poznámka může nést tabulky a bodovaná
 pořadí, která znamenají jen to, co říkají, spolu s výhradami kolem nich. Pokud
 některé přebíráte, vezměte s sebou i kontext.

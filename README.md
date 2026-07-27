@@ -25,7 +25,7 @@ of truth.
   - [Cryonics](continuity/cryonics.md) — *The case is thinner than advocates admit — the bet must win twice, on preservation and on identity — and part of its real draw is present-tense agency, for the living.*
   - [Desirability of immortality](continuity/immortality-desirability.md) — *The personal case against long life turned out weaker than it sounds, the social case stronger: I'd want the extra time, with an out — and I'm unsure the world should have it.*
   - [Personal identity](continuity/personal-identity.md) — *Identity consists in continuity with no further fact behind it, and in the hard cases the concept simply returns no verdict — which may itself be the answer.*
-- **`cosmos/`** — Our place in the universe. The Fermi paradox and its candidate resolutions; what we might ask another intelligence if we ever met one.
+- **`cosmos/`** — Our place in the universe. The Fermi paradox, the Great Filter, and their candidate resolutions; what we might ask another intelligence if we ever met one.
   - [The Fermi paradox](cosmos/fermi-paradox.md) — *Dark forest beats zoo on economy of assumptions, but the whole "silence is a choice" family ranks below the mundane resolutions: they're rare, we're early.*
   - [The Great Filter](cosmos/great-filter.md) — *No verdict, on purpose: the evidence can't adjudicate — and the unsettling map says the more life we find, the worse our odds probably are.*
 - **`meaning/`** — What a life is for. Purpose, value, and how to live without a guarantee that any of it means anything.
@@ -82,4 +82,4 @@ As notes get read by people who disagree with them, I will record that **in the 
 
 The prose in this repository is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) — © Petr Kratochvíl. Copy it, translate it, quote it, fork it and write better refutations; keep the attribution, and release your version under the same terms. Should any code ever land here (a linter config, a build script), that would be MIT — but there is none today.
 
-One request the license can't make: several notes carry tables and scored rankings that only mean what they say alongside the caveats around them. If you reuse one, please bring its context with it.
+One request the license can't make: a note may carry tables and scored rankings that only mean what they say alongside the caveats around them. If you reuse one, please bring its context with it.
