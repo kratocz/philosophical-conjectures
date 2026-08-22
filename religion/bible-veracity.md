@@ -1,6 +1,6 @@
 # Fairy tale, oracle, or something else — what is the Bible's record against checkable reality?
 
-*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
+*Status: open · last touched 2026-08-22 · sources checked 2026-07-20 (Tyre re-checked 2026-08-22)*
 
 ## The question
 
@@ -66,17 +66,41 @@ question is never "fiction or fact," it's "which shelf."
 
 **Against B — it fails its own Deuteronomy test, more than once.**
 
-- **Tyre.** Ezekiel 26 names Nebuchadnezzar as the destroyer after whom Tyre "shall
-  never be rebuilt." He besieged the city and failed to take the island. (The famous
-  "thirteen years" comes only from Josephus and is contested — a rival manuscript
-  reading gives three years and ten months, and the site has yielded no siegeworks and
-  no destruction layer.) The failure itself is not in doubt, because Ezekiel 29:17–20
-  *admits it in the text*, awarding Nebuchadnezzar Egypt as compensation for the wages
-  he never got from Tyre. The replacement prophecy failed too: the Egyptian campaign of
-  his thirty-seventh year was a raid, not a conquest, and Egypt was never desolate and
-  uninhabited for forty years. So the canon preserves its own miss, plus the correction,
-  plus the correction's miss. Tyre, meanwhile, is a living Lebanese city carrying a
-  UNESCO listing on its Roman remains.
+- **Tyre.** Ezekiel 26 opens against "many nations" (v. 3), then names Nebuchadnezzar
+  and follows his siege in the singular — *he* will raise the ramp, *he* will breach the
+  walls — before switching at verse 12 to a plural "they" who will cast the city's
+  stones, timber and dust "into the midst of the water." The switch is in the Hebrew, not
+  in an apologist's imagination, and it carries the best case against me: in 332 BCE
+  Alexander levelled mainland Tyre and tipped the rubble into the sea to build his
+  causeway out to the island. That is a striking correspondence, and an earlier draft of
+  this note had no business leaving it out.
+
+  It still does not rescue the oracle. Nebuchadnezzar's part failed, and the book says so
+  itself: Ezekiel 29:17–20, the last dated oracle in the collection (spring 571 BCE),
+  records that he worked his army against Tyre until "every head was made bald and every
+  shoulder rubbed raw," and that neither he nor his army "got anything from Tyre to pay
+  for the labour" — whereupon Egypt is awarded as compensation. The island was never
+  stormed; the siege ended in terms, with Baal II left on the throne as a Babylonian
+  vassal. (The famous "thirteen years" comes only from Josephus and is contested — a
+  rival manuscript reading gives three years and ten months, and the site has yielded no
+  siegeworks and no destruction layer. The popular retelling in which mainlanders flee to
+  found a new island city has the geography backwards: the island *was* Tyre, and had
+  already defied Shalmaneser V and Sennacherib.) The replacement prophecy failed too: the
+  Egyptian campaign of Nebuchadnezzar's thirty-seventh year was a raid, not a conquest,
+  and Egypt was never desolate and uninhabited for forty years.
+
+  And "you shall never be rebuilt" (v. 14), "you will be sought but never found again"
+  (v. 21) fail whoever throws the stones. Alexander repopulated Tyre as soon as he had
+  taken it — Greek settlers, loyal Phoenicians, a Macedonian garrison. Hellenistic Tyre
+  minted its own coinage; Paul unloads cargo there around 57 CE and spends a week with
+  the local disciples (Acts 21:3–7); it became a metropolitan see, then a crusader city,
+  and it is a living Lebanese town today with a UNESCO listing on its Roman remains. So
+  the fulfilment argument needs the text read two incompatible ways at once: literally
+  enough that dust in the water scores, loosely enough that "never rebuilt" does not.
+  Either chapter 26 is a conventional lament over a city — a fair genre reading, but then
+  there is no checkable prediction left to admire — or it is a prediction, and
+  Deuteronomy 18:22 grades it. So the canon preserves its own miss, plus the correction,
+  plus the correction's miss.
 - **Daniel's seam.** Daniel 11 tracks the Ptolemaic–Seleucid wars and Antiochus IV so
   precisely, verse by verse, that the scholarly dating of the book (~165 BCE) hangs on
   it. At verse 40 the text stops describing and starts predicting — and immediately goes
@@ -266,7 +290,13 @@ citation, because it borrows authority it hasn't earned.
   299](https://whc.unesco.org/en/list/299/) for Tyre as a living city. The standard
   commentaries — Zimmerli (Hermeneia), Greenberg (Anchor Bible 22A), Joyce (LHBOTS 482) —
   exist and are correctly cited, but I have not read them on this passage and offer them
-  only as pointers.
+  only as pointers. Ezekiel 26:12 in [Biblehub's morphological
+  text](https://biblehub.com/text/ezekiel/26-12.htm) for the third-person plural verbs,
+  against the singulars of verse 9; [Livius](https://www.livius.org/articles/place/tyre/tyre-2/)
+  (Jona Lendering) for Alexander repopulating the city with Greek settlers, loyal
+  Phoenicians and a Macedonian garrison. That the siege ended in negotiated terms with
+  Baal II left as a Babylonian vassal I have only from encyclopedic summary rather than
+  from the tablets, and it is offered at that weight.
 - **Egypt as compensation** — Dan'el Kahn (University of Haifa), [Nebuchadnezzar Fails to
   Conquer Egypt](https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated).
   Tablet BM 33041 records a campaign in Nebuchadnezzar's thirty-seventh year that cannot
