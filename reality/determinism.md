@@ -25,7 +25,15 @@ Why care? Partly because a cluster of questions I do care about — freedom, res
 
 ## Conjectures
 
-*(to be written)*
+- **Conjecture A — Clockwork restored.** The universe is deterministic and always was. The quantum "collapse" that supposedly killed the clockwork is appearance, not process: there exist formulations of quantum mechanics — Bohm's pilot-wave theory, Everett's many-worlds — whose dynamics are strictly deterministic and which reproduce every quantum prediction ever confirmed. The dice live in our ignorance, not in the world.
+
+- **Conjecture B — The dice are real.** Chance is physically real. Collapse is an actual physical process with genuinely undetermined outcomes, as objective-collapse theories describe; God does play dice, and the future is open in the strongest possible sense. Note what this conjecture is not: it says that chance *is* real, not that quantum mechanics has already *proved* it — B could be true even if the folk inference is a bad argument.
+
+- **Conjecture C — Undecidable from inside.** The deterministic and the chancy readings of quantum mechanics make the same predictions, and no observation performed from inside the universe can tell a world with dice from a world without them. The question is not open the way an unsolved empirical problem is open; it is permanently metaphysical, and physics will never hand us the answer. The spine of this note.
+
+- **Conjecture D — Wrong kind of question.** Determinism is a property of theories — of state spaces and dynamical laws — not of the world. Asking whether "the universe" is deterministic, as opposed to asking whether some particular description of it is, is a category error, and the felt depth of the question is a grammatical illusion.
+
+- **Conjecture E — Nothing hangs on it.** Even a definitive answer would change nothing that matters. Responsibility, freedom, merit — everything we actually care about — survives, or fails, identically in both branches; a life run on gears and a life run on dice are the same life from inside. A full note on free will belongs in `mind/` someday; here this is a coda, not the argument.
 
 ## Refutations & tensions
 
