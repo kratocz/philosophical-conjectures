@@ -35,7 +35,7 @@
 - Consumes: `TEMPLATE.md` (tvar), spec sekce „The question".
 - Produces: soubor se všemi šesti `##` nadpisy a hotovou sekcí The question; H1 a statusová řádka, na které navazují všechny další tasky.
 
-- [ ] **Step 1: Založit soubor se skeletem**
+- [x] **Step 1: Založit soubor se skeletem**
 
 Vytvořit `meaning/meaning-without-guarantee.md`:
 
@@ -71,7 +71,7 @@ Vytvořit `meaning/meaning-without-guarantee.md`:
 
 (Data ve statusové řádce = den, kdy Task 1 skutečně běží; při pozdějších taskách se `last touched` aktualizuje v commitovaný den, `sources checked` až v Tasku 6.)
 
-- [ ] **Step 2: Check skeletu**
+- [x] **Step 2: Check skeletu**
 
 Run: `grep -n '^## ' meaning/meaning-without-guarantee.md`
 Expected (přesně toto pořadí):
@@ -85,7 +85,7 @@ Expected (přesně toto pořadí):
 ## Sources
 ```
 
-- [ ] **Step 3: Draft The question (anglicky, v dialogu s autorem)**
+- [x] **Step 3: Draft The question (anglicky, v dialogu s autorem)**
 
 Obsahová specifikace (závazná, formulace vznikne v dialogu):
 
@@ -102,12 +102,12 @@ Obsahová specifikace (závazná, formulace vznikne v dialogu):
 4. Co by vůbec byla odpověď: ne klasifikace pozic, ale návod držitelný v pondělí ráno
    i ve tři ráno (foreshadowing refutace „asymetrie denního světla").
 
-- [ ] **Step 4: Schválení autorem**
+- [x] **Step 4: Schválení autorem**
 
 Předložit draft sekce autorovi (česky shrnout, anglický text ukázat). Zapracovat úpravy.
 Bez explicitního souhlasu nepokračovat.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -131,7 +131,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   **D — Engagement in what is objectively worthwhile**, **E — Deflate the demand,
   keep the engagement**.
 
-- [ ] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
+- [x] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
 
 Formát po vzoru personal-identity: `- **Conjecture A — Restore the guarantee.** …`
 Obsahová specifikace:
@@ -154,14 +154,14 @@ Obsahová specifikace:
   odvážně.) Požadavek vnější záruky je zmatený — rozpustit; co zbývá, je D nesené
   postojem C. Ne čistá deflace: něco přežívá, a poznámka to musí umět říct.
 
-- [ ] **Step 2: Check značení**
+- [x] **Step 2: Check značení**
 
 Run: `grep -c '\*\*Conjecture [A-E]' meaning/meaning-without-guarantee.md`
 Expected: `5`
 
-- [ ] **Step 3: Schválení autorem** — jako Task 1 Step 4.
+- [x] **Step 3: Schválení autorem** — jako Task 1 Step 4.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -184,7 +184,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   zejména „the instability of D between B and A" a čtyři námitky (a)–(d) proti
   one-way-door argumentu.
 
-- [ ] **Step 1: Draft refutací (v dialogu s autorem)**
+- [x] **Step 1: Draft refutací (v dialogu s autorem)**
 
 Formát: tučné lead-iny po vzoru personal-identity (`**Against A — …**`).
 Obsahová specifikace, v tomto pořadí:
@@ -226,15 +226,15 @@ Obsahová specifikace, v tomto pořadí:
    a selhává ve tři ráno. Přiznat jako data o autorovi, ne o pojmu (vzor:
    „I still *feel* like a further-fact believer").
 
-- [ ] **Step 2: Check úplnosti palby**
+- [x] **Step 2: Check úplnosti palby**
 
 Run: `grep -c '^\*\*\(Against\|The \)' meaning/meaning-without-guarantee.md`
 Expected: `8` (šest Against + Tolstoy + daylight asymmetry)
 
-- [ ] **Step 3: Schválení autorem** — refutace jsou autorovy; výslovně projít bod 6
+- [x] **Step 3: Schválení autorem** — refutace jsou autorovy; výslovně projít bod 6
   (palba na jeho vlastní argument) a bod 8 (osobní přiznání).
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -255,7 +255,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   change my mind", na které odkazuje CONTRIBUTING konvence („start with What would
   change my mind").
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Obsahová specifikace — tři tahy + co by změnilo názor:
 
@@ -291,15 +291,15 @@ Obsahová specifikace — tři tahy + co by změnilo názor:
   strukturální;
 - doklad, že „daylight asymmetry" je artefakt nálady, ne data o pojmu.
 
-- [ ] **Step 2: Check**
+- [x] **Step 2: Check**
 
 Run: `grep -n 'one-way door\|one-way-door' meaning/meaning-without-guarantee.md`
 Expected: výskyt v Refutations (dopředná formulace) i Where it stands (plné znění).
 
-- [ ] **Step 3: Schválení autorem** — u tohoto tasku obzvlášť: je to jeho pozice
+- [x] **Step 3: Schválení autorem** — u tohoto tasku obzvlášť: je to jeho pozice
   a jeho argument; anglické znění mu předložit celé.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -319,7 +319,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 - Produces: šest nitek; odkazy `[[immortality-desirability]]` a dopředná zmínka
   na `mind/`, které kontroluje Task 7.
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Šest odrážek:
 
@@ -338,9 +338,9 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
    one-way-door argument navíc dostává v nesmrtelnosti zajímavou limitu (dveře,
    které se nikdy nezavřou, option value nulují?).
 
-- [ ] **Step 2: Schválení autorem** — jako výše.
+- [x] **Step 2: Schválení autorem** — jako výše.
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -361,33 +361,33 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 - Produces: text bez markerů; Sources sekce po vzoru personal-identity (skupiny,
   anotace, opravy zaznamenané, **NOT VERIFIED** položky přiznané).
 
-- [ ] **Step 1: Sestavit checklist markerů**
+- [x] **Step 1: Sestavit checklist markerů**
 
 Run: `grep -n 'VERIFY' meaning/meaning-without-guarantee.md`
 Expected: seznam řádků — každý dostane řešení v krocích níže.
 
-- [ ] **Step 2: Ověřit Camuse (Myth of Sisyphus, tr. O'Brien)**
+- [x] **Step 2: Ověřit Camuse (Myth of Sisyphus, tr. O'Brien)**
 
 WebSearch/WebFetch: archive.org scan Vintage vydání (1955/1991). Ověřit doslovně:
 úvodní větu o sebevraždě; „living without appeal"; revolt–freedom–passion jako tři
 důsledky; závěrečnou větu o šťastném Sisyfovi. Zapsat přesná znění + stránky/kapitoly.
 Nedostupné → **NOT VERIFIED** s důvodem.
 
-- [ ] **Step 3: Ověřit Nagela („The Absurd" 1971; „Death" 1970)**
+- [x] **Step 3: Ověřit Nagela („The Absurd" 1971; „Death" 1970)**
 
 Cíle: irony-závěr a přesné znění výtky Camusovi; deprivační teorie v „Death".
 Cesty: philpapers → volný PDF; JSTOR; jinak SEP. Pozor na známý fail-mode
 z personal-identity: plausibilní fabrikovaný citát — přijmout jen text viděný
 v primárním zdroji.
 
-- [ ] **Step 4: Ověřit Wolf (2010; „Happiness and Meaning" 1997)**
+- [x] **Step 4: Ověřit Wolf (2010; „Happiness and Meaning" 1997)**
 
 Cíle: formule „subjective attraction … objective attractiveness"; jméno Fitting
 Fulfillment View; její výslovné odmítnutí dodat teorii objektivní hodnoty; které
 příklady jsou skutečně její (Sisyphus? goldfish? pot-smoking?). Google Books /
 publisher preview / recenze v peer-reviewed časopisech jako sekundární potvrzení.
 
-- [ ] **Step 5: Ověřit Taylora, Baiera, Tolstého, Epikúra**
+- [x] **Step 5: Ověřit Taylora, Baiera, Tolstého, Epikúra**
 
 - Taylor, „The Meaning of Life" in *Good and Evil* (1970): substance injektovaná
   bohy, subjektivistická pointa — archive.org.
@@ -398,12 +398,12 @@ publisher preview / recenze v peer-reviewed časopisech jako sekundární potvrz
 - Epikúros, *List Menoikeovi*: „death is nothing to us" — MIT Classics
   (http://classics.mit.edu/Epicurus/menoec.html) nebo Perseus; uvést překladatele.
 
-- [ ] **Step 6: Sekundární mapa**
+- [x] **Step 6: Sekundární mapa**
 
 SEP: Metz, „The Meaning of Life" (https://plato.stanford.edu/entries/life-meaning/)
 — zkontrolovat atribuce (kdo co tvrdí) proti draftu; poznamenat datum revize entry.
 
-- [ ] **Step 7: Zapsat Sources a vyřešit markery**
+- [x] **Step 7: Zapsat Sources a vyřešit markery**
 
 Sources po vzoru personal-identity: skupiny po argumentech, každá položka
 anotovaná tím, co podpírá; předmluva sekce poctivě: co verifikace opravila
@@ -414,9 +414,9 @@ Aktualizovat `sources checked` na skutečné datum verifikace.
 Run: `grep -c 'VERIFY' meaning/meaning-without-guarantee.md`
 Expected: `0`
 
-- [ ] **Step 8: Schválení autorem** — zejména co verifikace změnila.
+- [x] **Step 8: Schválení autorem** — zejména co verifikace změnila.
 
-- [ ] **Step 9: Commit**
+- [x] **Step 9: Commit**
 
 ```bash
 git add meaning/meaning-without-guarantee.md
@@ -435,7 +435,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 - Consumes: hotová poznámka z Tasků 1–6.
 - Produces: finální stav na `main`.
 
-- [ ] **Step 1: Strukturní check**
+- [x] **Step 1: Strukturní check**
 
 Run: `grep -n '^## ' meaning/meaning-without-guarantee.md`
 Expected: šest sekcí v pořadí šablony (viz Task 1 Step 2).
@@ -447,23 +447,23 @@ sources checked = den Tasku 6).
 Run: `grep -c 'to be written' meaning/meaning-without-guarantee.md`
 Expected: `0` (žádný scaffold placeholder z Tasku 1 nepřežil).
 
-- [ ] **Step 2: Check odkazů**
+- [x] **Step 2: Check odkazů**
 
 Run: `ls continuity/immortality-desirability.md religion/bible-veracity.md religion/religion-risk.md`
 Expected: všechny tři existují (cíle `[[…]]` odkazů).
 Dále ručně: každý `[[…]]` v poznámce míří na existující soubor (bez přípony, bez cesty).
 
-- [ ] **Step 3: Čtení celku**
+- [x] **Step 3: Čtení celku**
 
 Přečíst poznámku vcelku: tón (thinking-in-progress), konzistence jmen A–E
 a „one-way-door argument", žádný zbylý placeholder z Tasku 1, žádné rychle
 stárnoucí tvrzení bez `(as of YYYY-MM)`.
 
-- [ ] **Step 4: Finální schválení autorem**
+- [x] **Step 4: Finální schválení autorem**
 
 Poslat autorovi celou poznámku; zapracovat poslední úpravy.
 
-- [ ] **Step 5: Commit (jen pokud Step 1–4 něco změnily)**
+- [x] **Step 5: Commit (jen pokud Step 1–4 něco změnily)**
 
 ```bash
 git add meaning/meaning-without-guarantee.md

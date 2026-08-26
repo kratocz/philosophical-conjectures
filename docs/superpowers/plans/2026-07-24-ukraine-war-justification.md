@@ -42,7 +42,7 @@
 - Consumes: `TEMPLATE.md` (tvar), spec sekce „The question" a „Kontext k datu návrhu".
 - Produces: soubor se všemi šesti `##` nadpisy, hotovou sekcí The question včetně kotevního bloku **„The war as of 2026-07"** (bold lead-in, ne `###` — repo styl), H1 a statusová řádka; řádky složky `war/` v README a AGENTS. Na jména **the entry asymmetry**, **the exit asymmetry**, **the domestic analogy** navazují všechny další tasky.
 
-- [ ] **Step 1: Založit soubor se skeletem**
+- [x] **Step 1: Založit soubor se skeletem**
 
 Vytvořit `war/ukraine-war-justification.md`:
 
@@ -78,7 +78,7 @@ Vytvořit `war/ukraine-war-justification.md`:
 
 (`XX` = den, kdy Task 1 skutečně běží; `last touched` se aktualizuje s každým dalším taskem, `sources checked` finalizuje Task 7.)
 
-- [ ] **Step 2: Check skeletu**
+- [x] **Step 2: Check skeletu**
 
 Run: `grep -n '^## ' war/ukraine-war-justification.md`
 Expected (přesně toto pořadí):
@@ -92,7 +92,7 @@ Expected (přesně toto pořadí):
 ## Sources
 ```
 
-- [ ] **Step 3: Přidat řádky složky do README a AGENTS**
+- [x] **Step 3: Přidat řádky složky do README a AGENTS**
 
 `README.md`, do seznamu „How it's organized" za řádku `religion/`:
 
@@ -106,7 +106,7 @@ Expected (přesně toto pořadí):
 - `war/` — The ethics of war: aggression, defense, prolongation, and third-party duties, tested on the war in Ukraine.
 ```
 
-- [ ] **Step 4: Draft The question (anglicky, v dialogu s autorem)**
+- [x] **Step 4: Draft The question (anglicky, v dialogu s autorem)**
 
 Obsahová specifikace (závazná, formulace vznikne v dialogu):
 
@@ -141,7 +141,7 @@ Obsahová specifikace (závazná, formulace vznikne v dialogu):
    diplomacii). Křížový odkaz zatím žádný; [[meaning-without-guarantee]] přijde až
    ve Where it stands / Threads.
 
-- [ ] **Step 5: Ověřit fakta kotevního bloku (in-task verifikace)**
+- [x] **Step 5: Ověřit fakta kotevního bloku (in-task verifikace)**
 
 WebSearch/WebFetch: ISW/Critical Threats (červenec 2026), Russia Matters report card
 (1. 7. 2026), Economist (30. 6. 2026), Wikipedia jen jako rozcestník k primárům.
@@ -152,12 +152,12 @@ Textové markery mimo kotevní blok (Walzer, Caroline) zůstávají na Task 7.
 Run: `grep -c 'VERIFY' war/ukraine-war-justification.md`
 Expected: jen markery mimo kotevní blok (Walzer, Caroline — tedy `2`).
 
-- [ ] **Step 6: Schválení autorem**
+- [x] **Step 6: Schválení autorem**
 
 Předložit draft sekce autorovi (česky shrnout, anglický text ukázat). Zapracovat
 úpravy. Bez explicitního souhlasu nepokračovat.
 
-- [ ] **Step 7: Commit**
+- [x] **Step 7: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md README.md AGENTS.md
@@ -181,7 +181,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   just**, **C — The realist dissolution**, **D — A just defense meets its limit**,
   **E — Two asymmetries and a burden**.
 
-- [ ] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
+- [x] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
 
 Formát: `- **Conjecture A — The Russian case for war.** …` Každá vyslovena odvážně;
 hedging až v refutacích. Obsahová specifikace:
@@ -215,14 +215,14 @@ hedging až v refutacích. Obsahová specifikace:
   Podpora oprávněná, spíš povinná a fakticky nedostatečná — Mnichov 1938 jako
   epistemická kotva, Budapešťské memorandum `[VERIFY]` jako závazkový háček.
 
-- [ ] **Step 2: Check značení**
+- [x] **Step 2: Check značení**
 
 Run: `grep -c '\*\*Conjecture [A-E]' war/ukraine-war-justification.md`
 Expected: `5`
 
-- [ ] **Step 3: Schválení autorem** — jako Task 1 Step 6.
+- [x] **Step 3: Schválení autorem** — jako Task 1 Step 6.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -243,7 +243,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   `**Against A — …**`, `**Against B — …**`, `**Against C — …**`. Empirická jádra
   (chronologie 2014, OHCHR trend, poměry hlasů) ověřená in-task.
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Obsahová specifikace, v tomto pořadí:
 
@@ -275,7 +275,7 @@ Obsahová specifikace, v tomto pořadí:
    jen ověřené `[VERIFY]`. Zaznamenat, co z C přežívá: opatrnost vůči eskalační
    pýše je reálná constraint, kterou E vstřebává (předjímka Against D).
 
-- [ ] **Step 2: In-task verifikace empirických jader**
+- [x] **Step 2: In-task verifikace empirických jader**
 
 WebSearch/WebFetch: OHCHR (trend civilních obětí Donbas 2018–2021 a kumulativ po
 2022), UN press releases k ES-11/1 a ES-11/4 (poměry hlasů), časová osa anexí
@@ -283,15 +283,15 @@ a posunu ruských požadavků. Markery těchto čísel vyřešit hned; textové 
 (Kramer/Sarotte, Orwell, Mearsheimer, znění čl. 2(4), Nikaragua, Kosovo) nechat
 na Task 7.
 
-- [ ] **Step 3: Check bloků**
+- [x] **Step 3: Check bloků**
 
 Run: `grep -c '^\*\*Against' war/ukraine-war-justification.md`
 Expected: `3`
 
-- [ ] **Step 4: Schválení autorem** — zvlášť projít, že steelman A je vyvracen
+- [x] **Step 4: Schválení autorem** — zvlášť projít, že steelman A je vyvracen
   v nejsilnější formě (ne slaměný panák).
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -315,7 +315,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   `**Against E — Munich against Finland.**`, `**Against E — "too little" must
   survive the numbers.**`, `**Against E — consistency, and an admission.**`
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Obsahová specifikace, v tomto pořadí:
 
@@ -376,14 +376,14 @@ Obsahová specifikace, v tomto pořadí:
    s Mnichovem v krvi — anti-appeasementový prior předchází důkazům, které pro
    něj cituje (tentýž tah jako daylight asymmetry u smyslu).
 
-- [ ] **Step 2: In-task verifikace empirických jader**
+- [x] **Step 2: In-task verifikace empirických jader**
 
 WebSearch/WebFetch: rozptyl odhadů ztrát (Mediazona/BBC jmenné počty vs. západní
 odhady, atribuce), UNHCR kumulativ, KIIS/Gallup trend, časové rozpětí kurské
 operace, Kiel tracker. Markery čísel vyřešit hned; textové (Charap & Radchenko,
 Putinova esej, Finsko 1940, Caroline, COI) nechat na Task 7.
 
-- [ ] **Step 3: Check bloků**
+- [x] **Step 3: Check bloků**
 
 Run: `grep -c '^\*\*Against' war/ukraine-war-justification.md`
 Expected: `9` (3 z Tasku 3 + 6 nových)
@@ -391,10 +391,10 @@ Expected: `9` (3 z Tasku 3 + 6 nových)
 Run: `grep -n '^\*\*The reply from standing\|^\*\*The door cuts both ways' war/ukraine-war-justification.md`
 Expected: 2 řádky.
 
-- [ ] **Step 4: Schválení autorem** — výslovně projít bloky 2, 3 a 8 (palba na
+- [x] **Step 4: Schválení autorem** — výslovně projít bloky 2, 3 a 8 (palba na
   jeho vlastní pozici a osobní přiznání).
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -416,7 +416,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   (dluh z Tasku 4, blok 5); pět odrážek **What would change my mind** (na sekci
   odkazuje CONTRIBUTING konvence).
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Obsahová specifikace — čtyři tahy + co by změnilo názor:
 
@@ -448,15 +448,15 @@ Obsahová specifikace — čtyři tahy + co by změnilo názor:
   stole,
 - kolaps kritérií na konzistenčních testech (Irák, Gaza, Karabach).
 
-- [ ] **Step 2: Check**
+- [x] **Step 2: Check**
 
 Run: `grep -n 'What would change my mind' war/ukraine-war-justification.md`
 Expected: 1 výskyt; pod ním pět odrážek.
 
-- [ ] **Step 3: Schválení autorem** — u tohoto tasku obzvlášť: je to jeho verdikt;
+- [x] **Step 3: Schválení autorem** — u tohoto tasku obzvlášť: je to jeho verdikt;
   anglické znění mu předložit celé.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -476,7 +476,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 - Produces: sedm nitek; odkaz `[[meaning-without-guarantee]]`, který kontroluje
   Task 8.
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Sedm odrážek:
 
@@ -499,9 +499,9 @@ Sedm odrážek:
    (Irák 2003 — kousnuto v refutacích; Gaza; Karabach 2023): drží kritéria tvar,
    nebo se ohýbají podle sympatií?
 
-- [ ] **Step 2: Schválení autorem** — jako výše.
+- [x] **Step 2: Schválení autorem** — jako výše.
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -525,14 +525,14 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
   (skupiny po argumentech, anotace „co položka podpírá", opravy zaznamenané,
   **NOT VERIFIED** položky přiznané, `(as of …)` u perishables).
 
-- [ ] **Step 1: Sestavit checklist markerů**
+- [x] **Step 1: Sestavit checklist markerů**
 
 Run: `grep -n 'VERIFY' war/ukraine-war-justification.md`
 Expected: seznam řádků — každý dostane řešení v krocích níže. K tomu přizvat
 pracovní seznam zdrojů z in-task verifikací (Tasky 1, 3, 4) — i ty patří do
 Sources, ověřené znovu jen pokud mezitím mohly zastarat.
 
-- [ ] **Step 2: Právní blok**
+- [x] **Step 2: Právní blok**
 
 WebFetch primárních dokumentů: Charta OSN čl. 2(4) a 51 (un.org — přesný text);
 rezoluce ES-11/1 (2. 3. 2022) a ES-11/4 (12. 10. 2022) — formulace a poměry hlasů
@@ -541,7 +541,7 @@ a stav řízení k 2026 (icj-cij.org); ICJ Nicaragua v. USA 1986 (relevantní
 paragrafy k intervenci na pozvání); ICC zatykače 17. 3. 2023 — přesný rozsah
 (icc-cpi.int). Nedostupné → **NOT VERIFIED** s důvodem.
 
-- [ ] **Step 3: Datový blok**
+- [x] **Step 3: Datový blok**
 
 OHCHR (civilní oběti: trend Donbas 2018–2021, kumulativ po 2022);
 Mediazona/BBC jmenné počty a západní odhady ztrát (rozptyl + čí odhad);
@@ -549,12 +549,12 @@ UNHCR (vysídlení); Kiel Institute tracker (objemy, % HDP); ISW/Economist (stav
 fronty). Všechna čísla v poznámce: rozptyl, atribuce, `(as of …)`. Kotevní blok
 z Tasku 1 zkontrolovat proti aktuálnímu stavu (mohl zastarat během psaní).
 
-- [ ] **Step 4: Průzkumový blok**
+- [x] **Step 4: Průzkumový blok**
 
 KIIS a Gallup: trend ukrajinské preference jednání 2022→2026; výhrada znění
 otázek do textu poznámky (rozdílná znění → rozdílná čísla).
 
-- [ ] **Step 5: Diplomaticko-historický blok**
+- [x] **Step 5: Diplomaticko-historický blok**
 
 Charap & Radchenko (Foreign Affairs 2024): co Istanbul 2022 obsahoval a proč
 padl; Budapešťské memorandum 1994 (text, síla závazků); Minsk I/II (závazky
@@ -563,7 +563,7 @@ reference); Moskevský mír 1940 (postoupený podíl finského území); Kosovo 
 (fakta pro disanalogii, jen v rozsahu použitém v Against A); kurská operace
 (časové rozpětí, žádná anexe).
 
-- [ ] **Step 6: Filosoficko-textový blok**
+- [x] **Step 6: Filosoficko-textový blok**
 
 Walzer, *Just and Unjust Wars*: domestic analogy, teorie agrese, appeasement —
 přesné pasáže; Moellendorf: jus ex bello — dohledat přesná díla (článek 2008?
@@ -575,7 +575,7 @@ a zdroj, jinak nepoužít; Orwell, „Pacifism and the War" (1942) — přesné 
 jinak nepoužít. Pozor na známý fail-mode: plausibilní fabrikovaný citát —
 přijmout jen text viděný v primárním zdroji.
 
-- [ ] **Step 7: Zapsat Sources a vyřešit markery**
+- [x] **Step 7: Zapsat Sources a vyřešit markery**
 
 Sources po vzoru meaning-without-guarantee: skupiny (Law and UN record / Casualty
 and displacement data / Support and polling / Diplomacy and history / Just war
@@ -588,10 +588,10 @@ checked` na skutečné datum.
 Run: `grep -c 'VERIFY' war/ukraine-war-justification.md`
 Expected: `0`
 
-- [ ] **Step 8: Schválení autorem** — zejména co verifikace změnila (opravy
+- [x] **Step 8: Schválení autorem** — zejména co verifikace změnila (opravy
   zapsané v Sources).
 
-- [ ] **Step 9: Commit**
+- [x] **Step 9: Commit**
 
 ```bash
 git add war/ukraine-war-justification.md
@@ -610,7 +610,7 @@ Claude-Session: https://claude.ai/code/session_01QUpkiWsUA66TN5crGUvFKd"
 - Consumes: hotová poznámka z Tasků 1–7; README/AGENTS řádky z Tasku 1.
 - Produces: finální stav na `main`.
 
-- [ ] **Step 1: Strukturní check**
+- [x] **Step 1: Strukturní check**
 
 Run: `grep -n '^## ' war/ukraine-war-justification.md`
 Expected: šest sekcí v pořadí šablony (viz Task 1 Step 2).
@@ -622,7 +622,7 @@ sources checked = den Tasku 7).
 Run: `grep -c 'to be written' war/ukraine-war-justification.md`
 Expected: `0`
 
-- [ ] **Step 2: Check odkazů a složky**
+- [x] **Step 2: Check odkazů a složky**
 
 Run: `ls meaning/meaning-without-guarantee.md`
 Expected: existuje (cíl `[[…]]` odkazu).
@@ -632,14 +632,14 @@ Expected: po jedné řádce složky v každém souboru (z Tasku 1).
 
 Dále ručně: každý `[[…]]` v poznámce míří na existující soubor.
 
-- [ ] **Step 3: Check stárnutí**
+- [x] **Step 3: Check stárnutí**
 
 Run: `grep -n 'as of 2026' war/ukraine-war-justification.md`
 Expected: každé rychle stárnoucí tvrzení (kotevní blok, čísla, průzkumy, stav
 řízení, objemy podpory) má `(as of 2026-MM)`; žádné nedatované perishable. Ručně
 projít čísla proti Sources.
 
-- [ ] **Step 4: Čtení celku**
+- [x] **Step 4: Čtení celku**
 
 Přečíst poznámku vcelku: tón (thinking-in-progress); konzistence pevných jmen
 (the entry asymmetry, the exit asymmetry, the standing argument, the domestic
@@ -647,11 +647,11 @@ analogy, jména A–E); verdikt se v refutacích zaslouží, nepředpokládá; s
 není slaměný panák; pnutí E (double edge, door cuts both ways, Kursk, mirror,
 Munich/Finland, motivovaná kognice) viditelná; jus in bello neadjudikováno.
 
-- [ ] **Step 5: Finální schválení autorem**
+- [x] **Step 5: Finální schválení autorem**
 
 Poslat autorovi celou poznámku; zapracovat poslední úpravy.
 
-- [ ] **Step 6: Commit (jen pokud Step 1–5 něco změnily)**
+- [x] **Step 6: Commit (jen pokud Step 1–5 něco změnily)**
 
 ```bash
 git add war/ukraine-war-justification.md

@@ -13,7 +13,7 @@ Dva schválené požadavky autora:
 2. **Česká verze vstupu do repa** pro autorovy české přátele, s tím, že návrhy změn
    směřují do anglického originálu (issue/PR nad `main`).
 
-Stav repa: 9 poznámek v pěti složkách (`continuity/` 3, `cosmos/` 2, `meaning/` 1,
+Stav repa (k 2026-07-27): 9 poznámek v pěti složkách (`continuity/` 3, `cosmos/` 2, `meaning/` 1,
 `religion/` 2, `war/` 1), složka `mind/` je zatím bez poznámek. Každá poznámka má sekci
 „Where it stands" — závěry tedy existují; jde o to, kam a jak stručně je zrcadlit.
 
