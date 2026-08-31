@@ -3,7 +3,7 @@
 *To jest polskie tłumaczenie [angielskiego oryginału](README.md). Oryginał jest
 wiążący i tylko on podlega edycji — propozycje zmian (issue, pull request) kierujcie
 proszę do niego; pisać je możecie także po polsku. Tłumaczenie odpowiada stanowi
-oryginału z 2026-07-27.*
+oryginału z 2026-08-31.*
 
 Osobisty, powoli rosnący zbiór notatek, w których rozmyślam nad niektórymi
 z największych otwartych pytań — nad śmiertelnością, sensem, nad tym, czy jesteśmy
@@ -55,6 +55,7 @@ zawsze sama notatka, jej sekcja „Where it stands" i zastrzeżenia wokół niej
 - **`religion/`** — Wiara badana z zewnątrz. Co Pismo trafia, a czego nie, wobec sprawdzalnej rzeczywistości, i czym religia jest niebezpieczna dla cywilizacji, która ją gości.
   - [Biblia wobec sprawdzalnej rzeczywistości](religion/bible-veracity.md) — *Ludzka biblioteka swojej epoki, nie wyrocznia: wiarygodność rośnie, im bardziej tekst zbliża się do własnej teraźniejszości — podpis ludzkiego autorstwa.*
   - [Czym religia jest niebezpieczna](religion/religion-risk.md) — *Tekst to amunicja, struktura to broń, władza to spust — oceniać można nie „religię" w abstrakcji, lecz tylko konkretną konfigurację w czasie i miejscu.*
+  - [Czy nauka to tylko kolejna religia?](religion/science-as-religion.md) — *Metoda nie jest wiarą, choć stosunek laika do niej być nią może — granica nie biegnie przez to, w co ludzie wierzą, lecz przez to, co dzieje się z błędem: czy wolno go opublikować i czy naprawa daje nową przepowiednię, czy tylko pochłania porażkę.*
 - **`war/`** — Etyka wojny, testowana na tej, która właśnie trwa: kto ją zaczął, kto ją podtrzymuje i co my, postronni, jesteśmy winni.
   - [Wojna w Ukrainie](war/ukraine-war-justification.md) — *Inwazja i jej przedłużanie są niesprawiedliwe, obrona i jej wspieranie usprawiedliwione — a jedyną granicą obrony jest własny, ustalony wybór Ukrainy, którego żadna trzecia strona nie może sfabrykować.*
 

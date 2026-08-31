@@ -36,6 +36,7 @@ section and the caveats around it, is always the source of truth.
 - **`religion/`** — Faith examined from outside. What scripture gets right and wrong against checkable reality, and what makes a religion dangerous to the civilization hosting it.
   - [The Bible against checkable reality](religion/bible-veracity.md) — *A human library of its era, not an oracle: reliability rises as the text approaches its own present — the signature of human authorship.*
   - [What makes a religion dangerous](religion/religion-risk.md) — *Text is ammunition, structure is the gun, power is the trigger — what can be assessed is never "a religion" in the abstract, only a configuration at a time and place.*
+  - [Is science just another religion?](religion/science-as-religion.md) — *The method is not a faith, though the lay relationship to it can be — the line runs not through what people believe but through what happens to an error: whether it can be published, and whether the repair yields a new prediction or only absorbs the miss.*
 - **`war/`** — The ethics of war, tested on the one running now: who started it, who keeps it going, and what bystanders owe.
   - [The war in Ukraine](war/ukraine-war-justification.md) — *The invasion and its prolongation are unjust, the defense and its support justified — and the defense's one limit is Ukraine's own settled choice, which no third party may manufacture.*
 
