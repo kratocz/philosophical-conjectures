@@ -33,7 +33,7 @@
 - Consumes: `TEMPLATE.md` (tvar), spec sekce „Titul a The question".
 - Produces: soubor se všemi šesti `##` nadpisy, hotovou sekcí The question, H1 a statusovou řádkou; zavedené jméno **the folk inference**, na které navazují Tasky 2–5. Složka `reality/` vzniká tímto souborem (git složky netrackuje, žádný `.gitkeep`).
 
-- [ ] **Step 1: Založit soubor se skeletem**
+- [x] **Step 1: Založit soubor se skeletem**
 
 Vytvořit `reality/determinism.md`:
 
@@ -69,12 +69,12 @@ Vytvořit `reality/determinism.md`:
 
 (`XX` = den, kdy Task 1 skutečně běží; `last touched` se aktualizuje s každým dalším taskem, `sources checked` finalizuje Task 7.)
 
-- [ ] **Step 2: Check skeletu**
+- [x] **Step 2: Check skeletu**
 
 Run: `grep -n '^## ' reality/determinism.md`
 Expected (přesně toto pořadí): `## The question`, `## Conjectures`, `## Refutations & tensions`, `## Where it stands`, `## Threads to pull`, `## Sources`
 
-- [ ] **Step 3: Draft The question (anglicky, v dialogu s autorem)**
+- [x] **Step 3: Draft The question (anglicky, v dialogu s autorem)**
 
 Obsahová specifikace (závazná, formulace vznikne v dialogu):
 
@@ -84,11 +84,11 @@ Obsahová specifikace (závazná, formulace vznikne v dialogu):
 4. **Rozdvojení otázky, které nese celou poznámku:** (i) je naše nejlepší fyzika deterministická? (ii) i kdybychom finální teorii znali — může pozorování zevnitř vesmíru rozhodnout, jaký svět *je*? Páteř poznámky je (ii).
 5. **the folk inference** pojmenovat hned zde: rozšířené přesvědčení „quantum mechanics settled it — the universe is chancy". Ohlásit, že poznámka ji podrobí tlaku, a že je to i vstupní intuice autora.
 
-- [ ] **Step 4: Schválení autorem**
+- [x] **Step 4: Schválení autorem**
 
 Předložit draft sekce (anglický text + české shrnutí). Zapracovat úpravy. Bez explicitního souhlasu nepokračovat.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add reality/determinism.md
@@ -107,7 +107,7 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: H1, The question, jméno the folk inference (Task 1).
 - Produces: pět konjektur s pevnými jmény (viz Global Constraints), na která se odkazují Tasky 3–5.
 
-- [ ] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
+- [x] **Step 1: Draft pěti konjektur (v dialogu s autorem)**
 
 Formát: `- **Conjecture A — Clockwork restored.** …` Každá vyslovena odvážně, bez hedgingu — hedging patří do refutací. Obsahová specifikace:
 
@@ -117,14 +117,14 @@ Formát: `- **Conjecture A — Clockwork restored.** …` Každá vyslovena odv�
 - **D — Wrong kind of question.** Determinismus je vlastnost teorií (stavových prostorů a dynamik), ne světa; ptát se, zda „vesmír" je deterministický, je kategorická chyba.
 - **E — Nothing hangs on it.** I definitivní odpověď by nezměnila nic, na čem záleží — odpovědnost, svoboda a zásluha přežijí (nebo padnou) v obou větvích stejně. Dovětek; plná poznámka o svobodné vůli patří do `mind/` (dopředná zmínka prózou, ne `[[…]]` odkaz — cílový soubor neexistuje).
 
-- [ ] **Step 2: Check značení**
+- [x] **Step 2: Check značení**
 
 Run: `grep -c '^\- \*\*Conjecture' reality/determinism.md`
 Expected: `5`
 
-- [ ] **Step 3: Schválení autorem** — jako Task 1 Step 4.
+- [x] **Step 3: Schválení autorem** — jako Task 1 Step 4.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add reality/determinism.md
@@ -143,7 +143,7 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: konjektury A–C, the folk inference (Tasky 1–2).
 - Produces: bloky 1–3 refutací s bold lead-iny (repo styl, ne `###`); zavedené jméno **the decidable fringe** (blok 3), na které navazují Task 4 (proti C) a Task 5 (what would change my mind); pracovní seznam ověřených zdrojů pro Task 7.
 
-- [ ] **Step 1: Draft bloků 1–3 (v dialogu s autorem)**
+- [x] **Step 1: Draft bloků 1–3 (v dialogu s autorem)**
 
 Obsahová specifikace:
 
@@ -151,16 +151,16 @@ Obsahová specifikace:
 2. **Against A — the prices.** Deterministické záchrany nejsou zadarmo: Bohm platí nelokalitou a potřebou preferované foliace (napětí s relativitou `[VERIFY]`); Everett platí problémem pravděpodobnosti — odkud Bornovy váhy, když se stane všechno (Deutschovo–Wallaceovo rozhodovací odvození existuje a je kontroverzní `[VERIFY]`); superdeterminismus platí vzdáním se statistické nezávislosti volby měření, což vypadá jako kosmická konspirace a podkopává metodologii experimentu (jen ohlásit, hloubka patří do Threads).
 3. **Against B — the fringe is being squeezed.** Kolapsové modely nejsou „interpretace", ale soupeřící teorie: predikují drobné odchylky od QM (spontánní radiace `[VERIFY]`). Podzemní testy (Donadi et al., Nature Physics ~2020–2021 `[VERIFY — přesná citace]`) signál nenašly a vyloučily část parametrického prostoru (Diósi–Penrose `[VERIFY]`; aktuální stav CSL `[VERIFY]`) — vše `(as of YYYY-MM)`. Zavést jméno **the decidable fringe**: tohle je testovatelný okraj celé otázky. Pozor na přestřel: ořezání ≠ vyvrácení všech kolapsových modelů; blok musí přesně říct, co je vyloučeno a co ne.
 
-- [ ] **Step 2: In-task verifikace empirických jader**
+- [x] **Step 2: In-task verifikace empirických jader**
 
 WebSearch/WebFetch: SEP „Bell's Theorem", SEP „Bohmian Mechanics", SEP „Many-Worlds Interpretation", SEP „Collapse Theories"; Bell 1964 (Physics); Donadi et al. Každý `[VERIFY]` v blocích 1–3 vyřešit hned: potvrdit (marker pryč, zdroj + co přesně nese do pracovního seznamu pro Task 7), opravit, nebo tvrzení vypustit. Výjimka: markery čistě citátové/atribuční (přesné znění Bellova citátu) smějí počkat na Task 7.
 
 Run: `grep -n 'VERIFY' reality/determinism.md`
 Expected: v blocích 1–3 žádný marker kromě citátových/atribučních; každý zbývající umět přiřadit k Tasku 7.
 
-- [ ] **Step 3: Schválení autorem** — výslovně projít blok 1: tady padá jeho vstupní intuice; text musí být tvrdý k intuici a fér k autorovi.
+- [x] **Step 3: Schválení autorem** — výslovně projít blok 1: tady padá jeho vstupní intuice; text musí být tvrdý k intuici a fér k autorovi.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add reality/determinism.md
@@ -179,7 +179,7 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: konjektury C–E, the decidable fringe (Task 3), the schoolbook picture (Global Constraints).
 - Produces: bloky 4–6; kompletní sekce Refutations & tensions.
 
-- [ ] **Step 1: Draft bloků 4–6 (v dialogu s autorem)**
+- [x] **Step 1: Draft bloků 4–6 (v dialogu s autorem)**
 
 Obsahová specifikace:
 
@@ -187,21 +187,21 @@ Obsahová specifikace:
 5. **Against D — realism bites back.** Pro vědeckého realistu teorie svět reprezentují: má-li naše nejlepší (natož finální) teorie deterministickou dynamiku, je to evidence o světě, ne jen o modelu. D v silné verzi hrozí být verifikacionismus v převleku. Skromné jádro D ale přežívá: determinismus je dobře definovaný jen vůči popisu stavového prostoru — což je přesně důvod, proč Earman postupuje teorie po teorii.
 6. **Against E — some things do hang on it.** Libertariánská svoboda indeterminismus *potřebuje* (Kane `[VERIFY]`) — pro celý jeden tábor na odpovědi visí všechno. Jestli ale kvantová náhoda nepercoluje do měřítka neuronů (dekoherence v teplém, mokrém mozku `[VERIFY — kandidát Tegmark 2000; pokud se neověří snadno, jen Threads]`), hádají se oba tábory o irelevantní fyzice. Pereboom: odpovědnost prohrává v *obou* větvích — determinismus i loterie ji berou stejně (hard incompatibilism `[VERIFY]`) — takže na odpovědi nezáleží, ale z hlubšího důvodu, než E tvrdí. Strawson: reaktivní postoje na fyziku nečekají a čekat nemohou `[VERIFY — „Freedom and Resentment" 1962]`. Blok končí: E je napadnutelné z obou stran, a to, co na fyzice nevisí, nevisí z hlubších důvodů, než E udává.
 
-- [ ] **Step 2: In-task verifikace empirických jader**
+- [x] **Step 2: In-task verifikace empirických jader**
 
 WebSearch/WebFetch: Norton (kupole), Xia/Saari. Markery filosofických atribucí (Kane, Pereboom, Strawson, Earman, Tegmark) smějí počkat na Task 7 — jsou textové, ne empirické.
 
 Run: `grep -n 'VERIFY' reality/determinism.md`
 Expected: v blocích 4–6 zbývají jen atribuční markery pro Task 7.
 
-- [ ] **Step 3: Check bloků**
+- [x] **Step 3: Check bloků**
 
 Run: `grep -c '^\- \*\*Against' reality/determinism.md` (příp. podle zvoleného lead-in formátu)
 Expected: `6`
 
-- [ ] **Step 4: Schválení autorem** — zvlášť projít blok 4: refutace páteřní konjektury nesmí být měkčí než ostatní.
+- [x] **Step 4: Schválení autorem** — zvlášť projít blok 4: refutace páteřní konjektury nesmí být měkčí než ostatní.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add reality/determinism.md
@@ -220,7 +220,7 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: kompletní refutace (Tasky 3–4), the folk inference, the decidable fringe.
 - Produces: autorův provizorní verdikt + seznam „what would change my mind"; podklad pro destilaci verdiktu do README (Task 8).
 
-- [ ] **Step 1: Draft (v dialogu s autorem — u tohoto tasku obzvlášť: je to jeho hlas)**
+- [x] **Step 1: Draft (v dialogu s autorem — u tohoto tasku obzvlášť: je to jeho hlas)**
 
 Plán předepisuje povinné prvky, ne závěr:
 
@@ -229,13 +229,13 @@ Plán předepisuje povinné prvky, ne závěr:
 3. **What would change my mind** s reálnými experimenty: detekce signatur spontánního kolapsu → silný posun k B a proti C; další ořezávání kolapsových modelů → mírný posun od B (fringe se zavírá, C sílí); konsensuální odvození Bornova pravidla v Everettovi → odpadá hlavní cena everettovské větve A; superdeterministický program s testovatelným obsahem → přehodnotit celý rám. U každé položky říct, co by udělala s páteřní C.
 4. **Přiznané napětí:** chtít „objektivní posouzení" otázky, jejíž páteřní konjektura tvrdí nerozhodnutelnost, je samo pointa — poctivý verdikt může znít „podstatná část otázky je mimo dosah verdiktů, a tady je přesná hranice".
 
-- [ ] **Step 2: Check**
+- [x] **Step 2: Check**
 
 Ručně: sekce obsahuje explicitní větu o osudu the folk inference a seznam změn názoru s aspoň třemi položkami vázanými na experimenty.
 
-- [ ] **Step 3: Schválení autorem** — jeho verdikt; bez souhlasu nepokračovat.
+- [x] **Step 3: Schválení autorem** — jeho verdikt; bez souhlasu nepokračovat.
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add reality/determinism.md

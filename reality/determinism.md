@@ -1,6 +1,6 @@
 # Is the universe deterministic — and could we ever know?
 
-*Status: open · last touched 2026-08-25 · sources checked 2026-08-23*
+*Status: open · last touched 2026-09-04 · sources checked 2026-08-23*
 
 ## The question
 
@@ -51,7 +51,21 @@ Why care? Partly because a cluster of questions I do care about — freedom, res
 
 ## Where it stands
 
-*(to be written)*
+The folk inference did not survive, and I want to record its failure precisely, because it is the one firm result this note has produced. When my friend asked, I answered with a proof I did not possess: "quantum mechanics settled it." Quantum mechanics, as it actually stands, has settled nothing here — deterministic readings of the same formalism match every experiment the chancy readings match, and the theorem I would have waved at (Bell's) targets locality, not determinism. My answer was a choice of interpretation wearing the costume of a theorem. Withdrawn.
+
+The lean reversed while I was writing. I came in holding that the universe is not deterministic and left suspecting that it is — and a reversal that convenient deserves more suspicion than comfort. What earns it: only one party to this dispute makes predictions, and that party is losing. Collapse models stuck their necks out; the underground searches came back empty; Diósi–Penrose fell. What does not earn it: an undetected collapse is not an undetected indeterminism. Collapse models are one form of chance — the boldest, because it volunteered for testing — and the standard theory's silence about what measurement is remains silence, not clockwork. So the inference "the dice weren't where we looked, therefore no dice" has the same shape as the folk inference I just withdrew, pointed the other way; I should not accept from the second what I refused from the first. I record the new lean, and I record that it is a suspicion sitting on thin evidence, formed in one sitting, from objections I did not have to find for myself.
+
+So I end holding two claims at once, and they are different kinds of claim. The epistemic one is the careful version of C: the rivals that remain — a deterministic Bohm, a deterministic Everett, the standard theory's silence — straddle both answers observation for observation, and I see no path to separating them. Not "permanently undecidable," which signs a promissory note on the future of theory I have no right to sign; rather, undecided by anything we can currently observe, with no known route to deciding the core. To this I add D's modest kernel as standing discipline: the question is only crisp relative to a theory, so every verdict here is indexed — the universe according to *which description*? The ontological claim is the lean toward A. The two are compatible, and holding both forces an admission I would rather make than dodge: if C is right, then my suspicion that the world runs on gears is taste, not knowledge. It is what I would bet, not what I would claim to have found out.
+
+What would change my mind — and unusually for this repository, laboratories are working on several of these right now:
+
+- **A detected collapse signature** — spontaneous radiation, or an interferometric deviation from pure unitary evolution — would settle it against me: B wins, C dies at the core rather than at the fringe, and my new lean was wrong within a year of being formed. This is the most decisive live possibility, and the reason the question is not purely philosophical.
+- **A demonstration that neither Bohmian mechanics nor Everett extends to relativistic quantum field theory** would take the deterministic family's only serious roads away, and my lean with them. This is the objection I would most like someone to press, because it attacks the position I actually hold rather than the one I abandoned.
+- **A definitive failure of the Born rule derivation inside Everett** — a proof that the decision-theoretic route is circular — would make one deterministic price unpayable and throw the weight of A onto Bohm alone, nonlocality and preferred foliation included.
+- **Continued null results** squeezing collapse parameters toward implausibility would harden the careful C and comfort my lean — and I have already recorded above why that comfort is worth less than it feels: silence where one model was tested is not evidence against every form of chance.
+- **A superdeterministic program with novel, confirmed predictions** would reopen this note from the first paragraph. I do not expect it; Threads records why writing it off cheaply would still be a mistake.
+
+And the tension I promised to acknowledge: I asked for an objective assessment, and the objective assessment's best output turned out to be a map of where objectivity runs out. I don't take that as the question failing. I take it as the answer's actual shape — the same shape [[great-filter]] found: the honest position is not a verdict but a precise statement of why the evidence cannot presently yield one, plus a standing list of what would.
 
 ## Threads to pull
 
