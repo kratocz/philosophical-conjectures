@@ -1,6 +1,6 @@
 # Fairy tale, oracle, or something else — what is the Bible's record against checkable reality?
 
-*Status: open · last touched 2026-08-22 · sources checked 2026-07-20 (Tyre re-checked 2026-08-22)*
+*Status: open · last touched 2026-09-03 · sources checked 2026-07-20 (Tyre re-checked 2026-08-22)*
 
 ## The question
 
@@ -157,6 +157,8 @@ the pen over a numeral, and since inerrancy is claimed for the lost autographs r
 than the copies, the scribal defense is legitimate there. Likewise the mustard seed as
 "smallest of all seeds": commentators read it as proverbial hyperbole about smallness,
 which is how the phrase would have been heard, and I think they are right.
+
+**The retreat from B, as it sounds in practice.** Put the Tyre case to a defender of B and the reply, after a round or two, is rarely "it was fulfilled after all". It is: the contradictions are only apparent and can be explained; trust in the Bible does not stand or fall on one prophecy but on the whole; the Bible is also history and law, not only prophecy; and we lack the information for a definitive verdict, so humility says wait for understanding. Every clause of that deserves a yes — and every clause but the last is a move from B to C. "Trust does not rest on one prophecy" concedes exactly what B denies, that one can fail; "also history and law" is the library; "only apparent" is a promise that an explanation exists, which is not an explanation. The last clause is not a concession but the dial stated in the open: a rule under which a fulfilment counts as evidence and a miss counts as information we do not yet have cannot lose, and what cannot lose cannot prove. Deuteronomy 18:21–22 contains no waiting clause — it asks "how shall we know?", answers with the outcome, and adds "do not be afraid of him" (Bible 21 wording re-checked 2026-09-03). Observed in a Facebook exchange in 2026-09; the shape is general.
 
 **Tensions in C — where the comfortable middle has to do real work.**
 
