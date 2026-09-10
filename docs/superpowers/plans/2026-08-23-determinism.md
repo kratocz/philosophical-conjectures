@@ -288,32 +288,32 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: celé znění s markery `[VERIFY]`; pracovní seznam zdrojů z Tasků 3–4.
 - Produces: sekce Sources seskupená podle argumentu s anotacemi; `sources checked` = den tohoto tasku; nula `[VERIFY]` markerů.
 
-- [ ] **Step 1: Sestavit checklist markerů**
+- [x] **Step 1: Sestavit checklist markerů**
 
 Run: `grep -n 'VERIFY' reality/determinism.md`
 Každý nalezený marker přiřadit jednomu z bloků níže; žádný nesmí zůstat nepřiřazený.
 
-- [ ] **Step 2: Filosoficko-textový blok**
+- [x] **Step 2: Filosoficko-textový blok**
 
 Ověřit: Laplace, *Essai philosophique sur les probabilités* (1814) — přesná pasáž o démonovi v dostupném překladu; Strawson, „Freedom and Resentment" (1962) — kde vyšlo; van Inwagen, *An Essay on Free Will* (1983) — consequence argument; Pereboom (hard incompatibilism — *Living Without Free Will*, 2001?); Kane (libertarianismus — *The Significance of Free Will*, 1996?). SEP hesla („Causal Determinism", „Free Will", „Incompatibilism") jako sekundární opora — u každého ověřit, že říká, co poznámka tvrdí.
 
-- [ ] **Step 3: Kvantový blok**
+- [x] **Step 3: Kvantový blok**
 
 Ověřit: Bell 1964 — přesná citace (Physics 1, 195–200?); Bellův citát o Bohmovi — přesné znění a místo (*Speakable and Unspeakable in Quantum Mechanics*); SEP „Bohmian Mechanics", „Many-Worlds Interpretation", „Collapse Theories", „Bell's Theorem" — empirická ekvivalence Bohma, deterministická unitarita Everetta, status Bornova pravidla (Deutsch–Wallace), cena superdeterminismu.
 
-- [ ] **Step 4: Experimentální blok (perishable)**
+- [x] **Step 4: Experimentální blok (perishable)**
 
 Ověřit: Donadi et al. — přesná citace a co přesně vyloučili (Diósi–Penrose parametry?); aktuální stav testů kolapsových modelů k datu verifikace (CSL bounds). Všechna tvrzení o stavu experimentů dostávají `(as of YYYY-MM)` podle dne verifikace.
 
-- [ ] **Step 5: Klasický blok**
+- [x] **Step 5: Klasický blok**
 
 Ověřit: Norton, „The Dome" — publikace a rok (Philosophy of Science ~2008?); Xia — Annals of Mathematics (~1992); Saari & Xia — „Off to Infinity in Finite Time", Notices of the AMS (~1995); Earman, *A Primer on Determinism* (1986) — přístup „teorie po teorii".
 
-- [ ] **Step 6: Zapsat Sources a vyřešit markery**
+- [x] **Step 6: Zapsat Sources a vyřešit markery**
 
 Struktura sekce: úvodní odstavec-předmluva zaznamenávající, co verifikace opravila nebo zabila (konvence repa — prohry viditelné, withdrawn s důvodem); pak skupiny podle argumentu, např. **The framing** (Laplace, Earman, SEP), **The quantum core** (Bell, SEP hesla), **The experiments** (Donadi et al., stav kolapsových testů), **The classical surprise** (Norton, Xia/Saari), **The stakes** (Strawson, van Inwagen, Pereboom, Kane). Každá položka s anotací, co přesně nese — ne jen jméno. Neověřitelné: NOT VERIFIED nebo pryč. Aktualizovat statusovou řádku (`sources checked` = dnešek tasku).
 
-- [ ] **Step 7: Check**
+- [x] **Step 7: Check**
 
 Run: `grep -c 'VERIFY' reality/determinism.md`
 Expected: `0`
@@ -321,9 +321,9 @@ Expected: `0`
 Run: `grep -n 'as of 20' reality/determinism.md`
 Expected: každé perishable tvrzení (stav experimentů, „no one has yet…") má `(as of YYYY-MM)`.
 
-- [ ] **Step 8: Schválení autorem** — zejména co verifikace změnila (opravy, withdrawn, NOT VERIFIED).
+- [x] **Step 8: Schválení autorem** — zejména co verifikace změnila (opravy, withdrawn, NOT VERIFIED).
 
-- [ ] **Step 9: Commit**
+- [x] **Step 9: Commit**
 
 ```bash
 git add reality/determinism.md
