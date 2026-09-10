@@ -254,7 +254,7 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: celé dosavadní znění.
 - Produces: seznam otevřených vláken; dopředné zmínky na budoucí poznámky v `reality/` a `mind/`.
 
-- [ ] **Step 1: Draft (v dialogu s autorem)**
+- [x] **Step 1: Draft (v dialogu s autorem)**
 
 Kandidátní vlákna (výběr a formulace v dialogu):
 
@@ -267,9 +267,9 @@ Kandidátní vlákna (výběr a formulace v dialogu):
 
 Markery v Threads smějí zůstat jako „co číst" — Threads nejsou tvrzení; ale jména a tituly ověřit v Tasku 7, ať se nedoporučuje neexistující text.
 
-- [ ] **Step 2: Schválení autorem** — jako výše.
+- [x] **Step 2: Schválení autorem** — jako výše.
 
-- [ ] **Step 3: Commit**
+- [x] **Step 3: Commit**
 
 ```bash
 git add reality/determinism.md

@@ -1,6 +1,6 @@
 # Is the universe deterministic — and could we ever know?
 
-*Status: open · last touched 2026-09-04 · sources checked 2026-08-23*
+*Status: open · last touched 2026-09-10 · sources checked 2026-08-23*
 
 ## The question
 
@@ -69,7 +69,19 @@ And the tension I promised to acknowledge: I asked for an objective assessment, 
 
 ## Threads to pull
 
-*(to be written)*
+- **Superdeterminism, given a fair hearing rather than a sneer.** I dismissed it in a clause above, which is roughly how the field treats it, and that is not the same as refuting it. The case to read first is Hossenfelder & Palmer, "Rethinking Superdeterminism" (*Frontiers in Physics* 8:139, 2020), which argues that the standard objections — conspiracy, the death of science, retrocausality — are weaker than their reputation. 't Hooft's cellular-automaton programme is the other road in. The question I want answered: does giving up statistical independence really cost the methodology of experiment, or only the version of it philosophers describe?
+
+- **The Conway–Kochen free will theorem, and what it does not say.** "If experimenters have free will, so do elementary particles" (Conway & Kochen, *Foundations of Physics* 36, 2006; strengthened in *Notices of the AMS* 56:2, 2009, 226–232). "Free will" there is a technical term — roughly, not a function of accessible past information — and the popular readings of this result are wilder than the result. Worth working through carefully, because it bears directly on the superdeterminism thread and on E.
+
+- **General relativity as its own chapter.** I confined this note to quantum mechanics and Newtonian mechanics, which is a real omission: determinism in general relativity fails and survives in its own ways — Cauchy horizons, the strong cosmic censorship conjecture and the recent work weakening it, spacetimes where the initial-value problem has no unique solution. Earman treats determinism theory by theory for exactly this reason, and general relativity is where that method earns its keep [VERIFY — Earman's chapters].
+
+- **Deriving the Born rule.** The Deutsch–Wallace decision-theoretic programme and the critical literature answering it (still growing, as of 2026-08). This is the load-bearing question for Everett's branch of A, and by my own "what would change my mind" list, one of the two places where my lean is most exposed.
+
+- **Certified quantum randomness.** Device-independent randomness generation takes Bell violations and produces numbers certified as unpredictable — granted the statistical independence assumption. So the certification presupposes exactly what superdeterminism denies, which makes it a sharp test case for C: what is being certified, chance in the world, or chance relative to an assumption? [VERIFY — pin to a primary source rather than to my summary.]
+
+- **Does quantum indeterminacy reach the brain at all?** Left as a marker in the refutation of E because I could not source it to my satisfaction in this pass. The claim to check: decoherence in warm, wet neural tissue is fast enough that quantum indeterminacy washes out long before the scale of decisions, which would make the libertarian's demand for indeterminism moot on physical rather than philosophical grounds.
+
+- **Where this note goes next.** A full treatment of free will and moral responsibility belongs in `mind/` — E is a coda here, not an argument, and the objections against it deserve their own note. Within `reality/`, the natural siblings are the arrow of time (why does a time-symmetric dynamics yield a one-way world?) and the simulation hypothesis, which is a determinism question wearing different clothes.
 
 ## Sources
 
