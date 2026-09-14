@@ -33,6 +33,8 @@ section and the caveats around it, is always the source of truth.
 - **`meaning/`** — What a life is for. Purpose, value, and how to live without a guarantee that any of it means anything.
   - [Meaning without a guarantee](meaning/meaning-without-guarantee.md) — *The demand for an outside guarantee fails on its own terms, the question what is worth engaging in survives it — and the case for living is not that life means something, but option value at a one-way door.*
 - **`mind/`** — The thing doing all the asking. Consciousness, free will, and whether experience is what it seems to be.
+- **`reality/`** — How the world is wired. Determinism and chance, the nature of physical law, and which of those questions observation can even reach.
+  - [Determinism](reality/determinism.md) — *Quantum mechanics settled nothing here — deterministic and chancy readings match observation for observation — so the honest position is a hunch toward clockwork held as taste, not knowledge, and a map of where the evidence stops.*
 - **`religion/`** — Faith examined from outside. What scripture gets right and wrong against checkable reality, and what makes a religion dangerous to the civilization hosting it.
   - [The Bible against checkable reality](religion/bible-veracity.md) — *A human library of its era, not an oracle: reliability rises as the text approaches its own present — the signature of human authorship.*
   - [What makes a religion dangerous](religion/religion-risk.md) — *Text is ammunition, structure is the gun, power is the trigger — what can be assessed is never "a religion" in the abstract, only a configuration at a time and place.*

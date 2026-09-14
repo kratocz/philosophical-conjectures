@@ -3,7 +3,7 @@
 *To jest polskie tłumaczenie [angielskiego oryginału](README.md). Oryginał jest
 wiążący i tylko on podlega edycji — propozycje zmian (issue, pull request) kierujcie
 proszę do niego; pisać je możecie także po polsku. Tłumaczenie odpowiada stanowi
-oryginału z 2026-08-31.*
+oryginału z 2026-09-10.*
 
 Osobisty, powoli rosnący zbiór notatek, w których rozmyślam nad niektórymi
 z największych otwartych pytań — nad śmiertelnością, sensem, nad tym, czy jesteśmy
@@ -52,6 +52,8 @@ zawsze sama notatka, jej sekcja „Where it stands" i zastrzeżenia wokół niej
 - **`meaning/`** — Po co jest życie. Cel, wartość i jak żyć bez gwarancji, że cokolwiek z tego coś znaczy.
   - [Sens bez gwarancji](meaning/meaning-without-guarantee.md) — *Żądanie zewnętrznej gwarancji upada na własnych warunkach, pytanie, co jest warte zaangażowania, je przeżywa — a powodem do życia nie jest to, że życie coś znaczy, lecz wartość opcji przy jednokierunkowych drzwiach.*
 - **`mind/`** — To, co przez cały czas zadaje pytania. Świadomość, wolna wola i to, czy doświadczenie jest tym, czym się wydaje.
+- **`reality/`** — Jak jest urządzony świat. Determinizm i przypadek, natura praw fizyki oraz to, do których z tych pytań obserwacja w ogóle sięga.
+  - [Determinizm](reality/determinism.md) — *Mechanika kwantowa niczego tu nie rozstrzygnęła — odczytania deterministyczne i losowe zgadzają się z obserwacjami tak samo — więc uczciwą pozycją jest przeczucie skłaniające się ku determinizmowi trzymane jako gust, nie wiedza, oraz mapa tego, gdzie kończą się świadectwa.*
 - **`religion/`** — Wiara badana z zewnątrz. Co Pismo trafia, a czego nie, wobec sprawdzalnej rzeczywistości, i czym religia jest niebezpieczna dla cywilizacji, która ją gości.
   - [Biblia wobec sprawdzalnej rzeczywistości](religion/bible-veracity.md) — *Ludzka biblioteka swojej epoki, nie wyrocznia: wiarygodność rośnie, im bardziej tekst zbliża się do własnej teraźniejszości — podpis ludzkiego autorstwa.*
   - [Czym religia jest niebezpieczna](religion/religion-risk.md) — *Tekst to amunicja, struktura to broń, władza to spust — oceniać można nie „religię" w abstrakcji, lecz tylko konkretną konfigurację w czasie i miejscu.*

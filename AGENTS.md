@@ -17,6 +17,7 @@ deliverable is prose.
 - `cosmos/` — Our place in the universe: the Fermi paradox, the Great Filter, and their candidate resolutions.
 - `meaning/` — What a life is for: purpose, value, living without guarantees.
 - `mind/` — Consciousness, free will, and whether experience is what it seems.
+- `reality/` — How the world is wired: determinism, chance, the nature of physical law, and what physics can and cannot decide.
 - `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
 - `war/` — The ethics of war: aggression, defense, prolongation, and third-party duties, tested on the war in Ukraine.
 
