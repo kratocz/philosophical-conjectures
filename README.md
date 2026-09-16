@@ -33,6 +33,7 @@ section and the caveats around it, is always the source of truth.
 - **`meaning/`** — What a life is for. Purpose, value, and how to live without a guarantee that any of it means anything.
   - [Meaning without a guarantee](meaning/meaning-without-guarantee.md) — *The demand for an outside guarantee fails on its own terms, the question what is worth engaging in survives it — and the case for living is not that life means something, but option value at a one-way door.*
 - **`mind/`** — The thing doing all the asking. Consciousness, free will, and whether experience is what it seems to be.
+  - [Brain-dependence](mind/brain-dependence.md) — *The evidence of brain-dependence fits production and transmission alike — they part only after death, where nothing can be checked — so it doesn't refute survival, it removes the positive case for it, and parsimony does the rest.*
 - **`reality/`** — How the world is wired. Determinism and chance, the nature of physical law, and which of those questions observation can even reach.
   - [Determinism](reality/determinism.md) — *Quantum mechanics settled nothing here — deterministic and chancy readings match observation for observation — so the honest position is a hunch toward clockwork held as taste, not knowledge, and a map of where the evidence stops.*
 - **`religion/`** — Faith examined from outside. What scripture gets right and wrong against checkable reality, and what makes a religion dangerous to the civilization hosting it.

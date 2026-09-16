@@ -2,7 +2,7 @@
 
 *Toto je český překlad [anglického originálu](README.md). Originál je závazný a jediný
 se edituje — návrhy změn (issue, pull request) prosím směřujte na něj; psát je můžete
-i česky. Překlad odpovídá stavu originálu k 2026-09-10.*
+i česky. Překlad odpovídá stavu originálu k 2026-09-16.*
 
 Osobní, pomalu rostoucí sbírka poznámek, v nichž promýšlím některé z největších
 otevřených otázek — smrtelnost, smysl, jestli jsme sami — a snažím se své odpovědi
@@ -48,6 +48,7 @@ a výhrady kolem ní.
 - **`meaning/`** — K čemu život je. Účel, hodnota a jak žít bez záruky, že cokoli z toho něco znamená.
   - [Smysl bez záruky](meaning/meaning-without-guarantee.md) — *Požadavek vnější záruky selhává sám o sobě, otázka, co stojí za angažmá, ho přežívá — a důvodem k životu není, že život něco znamená, ale opční hodnota u jednosměrných dveří.*
 - **`mind/`** — To, co se tu celou dobu ptá. Vědomí, svobodná vůle a jestli je prožitek tím, čím se zdá být.
+  - [Závislost na mozku](mind/brain-dependence.md) — *Evidence závislosti na mozku sedí na produkci i na přenos stejně — rozcházejí se až po smrti, kde nic nejde ověřit — takže přežití nevyvrací, jen mu bere pozitivní argument, a zbytek udělá Occamova břitva.*
 - **`reality/`** — Jak je svět zapojený. Determinismus a náhoda, povaha fyzikálních zákonů a které z těch otázek vůbec může dosáhnout pozorování.
   - [Determinismus](reality/determinism.md) — *Kvantová mechanika tady nerozhodla nic — deterministická i náhodná čtení sedí na pozorování stejně — takže poctivá pozice je tušení směrem k soukolí držené jako vkus, ne poznatek, a mapa toho, kde evidence končí.*
 - **`religion/`** — Víra zkoumaná zvenčí. Co Písmo trefuje a netrefuje proti ověřitelné realitě a čím je náboženství nebezpečné civilizaci, která ho hostí.
