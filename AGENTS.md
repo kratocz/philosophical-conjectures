@@ -54,8 +54,7 @@ None. Any Markdown editor works; there are no dependencies to install.
   (and therefore in every translation). Verdict rules: one sentence, distilled from
   "Where it stands" — no new claims, no sharper than the note itself, nothing
   perishable (no numbers, no "as of").
-- Working documents under `docs/superpowers/` (specs, plans) are written in Czech —
-  the author's working language. Notes, `README.md` and repo docs are English.
+- Working documents are written in Czech, the author's working language: specs and plans under `docs/superpowers/`, and dialogue analyses under `docs/analyses/` — a first-pass answer to a question the author brought, written to be reacted to; the seed of a note, not a note. Notes, `README.md` and repo docs are English.
 - Notes are drafted in dialogue with the author. For substantive content decisions
   (positions, wording, weighing refutations), offer plain-text questions or a full
   drafted text to react to — the author prefers reacting to prose over filling
