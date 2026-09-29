@@ -26,3 +26,4 @@
 - plná etika odstrašení
 - svobodná vůle a odpovědnost (dovětek E determinismu na ni dopředně odkazuje; patří do `mind/`)
 - šipka času a simulační hypotéza (sourozenci v `reality/`)
+- LLM jako svědek: modelu, kterému přikážeš vysvětlit rozpory, je vysvětlí vždy — takže jako svědek neplatí, ať odpoví cokoli. Vyplynulo z výměny, která přinesla Conjecture D do `religion/science-as-religion.md` (2026-09-17); je to otázka o poznání, ne o víře, takže do `religion/` nepatří. Autor zatím nerozhodl.

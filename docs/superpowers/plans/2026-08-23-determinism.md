@@ -344,20 +344,20 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: hotové Where it stands (Task 5), hotová poznámka (Task 7).
 - Produces: složka `reality/` viditelná ve všech rozcestnících; verdikt poznámky ve třech jazycích.
 
-- [ ] **Step 1: Destilovat verdikt (v dialogu s autorem)**
+- [x] **Step 1: Destilovat verdikt (v dialogu s autorem)**
 
 Pravidla verdiktu (AGENTS.md): jedna věta, destilát z Where it stands, žádné nové tvrzení, ne ostřejší než poznámka, nic perishable (žádná čísla, žádné „as of"). Navrhnout anglicky + česky + polsky, schválit autorem.
 
-- [ ] **Step 2: README.md**
+- [x] **Step 2: README.md**
 
 Do seznamu „How it's organized" mezi `mind/` a `religion/` (seznam je abecední):
 
 ```markdown
 - **`reality/`** — How the world is wired. Determinism and chance, the nature of physical law, and which of those questions observation can even reach.
-  - [Determinism](reality/determinism.md) — *<schválený verdikt z Step 1>*
+  - [Determinism](reality/determinism.md) — *Quantum mechanics settled nothing here — deterministic and chancy readings match observation for observation — so the honest position is a hunch toward clockwork held as taste, not knowledge, and a map of where the evidence stops.*
 ```
 
-- [ ] **Step 3: AGENTS.md**
+- [x] **Step 3: AGENTS.md**
 
 Do sekce „Structure" mezi `mind/` a `religion/`:
 
@@ -365,18 +365,18 @@ Do sekce „Structure" mezi `mind/` a `religion/`:
 - `reality/` — How the world is wired: determinism, chance, the nature of physical law, and what physics can and cannot decide.
 ```
 
-- [ ] **Step 4: README.cs.md a README.pl.md**
+- [x] **Step 4: README.cs.md a README.pl.md**
 
 Zrcadlit složkovou odrážku i odrážku poznámky (překlad, verdikt ve schváleném znění z Step 1); aktualizovat datum synchronizace překladu v hlavičce souboru (přesný formát převzít z aktuálního znění obou souborů). Nic jiného v překladech neměnit.
 
-- [ ] **Step 5: Check**
+- [x] **Step 5: Check**
 
 Run: `grep -n 'reality/' README.md README.cs.md README.pl.md AGENTS.md`
 Expected: složková odrážka ve všech třech README + řádka v AGENTS; odrážka poznámky ve všech třech README.
 
-- [ ] **Step 6: Schválení autorem** — verdikt je jeho, ve všech třech jazycích.
+- [x] **Step 6: Schválení autorem** — verdikt je jeho, ve všech třech jazycích.
 
-- [ ] **Step 7: Commit**
+- [x] **Step 7: Commit**
 
 ```bash
 git add README.md README.cs.md README.pl.md AGENTS.md
@@ -388,6 +388,8 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 
 ### Task 9: Závěrečný průchod
 
+*Odškrtnuto v retru 2026-09-29: Task 8 doručen v `e3a1d56` (verdikt v README.md, README.cs.md, README.pl.md, `reality/` v AGENTS.md); Task 9 kroky 1–4 ověřeny auditem dokumentace nad `origin/main`. Kroky 5–6 zůstávají autorovi.*
+
 **Files:**
 - Modify: `reality/determinism.md` (jen opravy z checků)
 
@@ -395,23 +397,23 @@ Claude-Session: https://claude.ai/code/session_01BGtkbfoRJooRXZ44TYKKbg"
 - Consumes: hotová poznámka + rozcestníky (Tasky 1–8).
 - Produces: finální stav na `main`.
 
-- [ ] **Step 1: Strukturní check**
+- [x] **Step 1: Strukturní check**
 
 Run: `grep -n '^## ' reality/determinism.md` → šest sekcí v pořadí šablony.
 Run: `grep -n '^\*Status: open · last touched' reality/determinism.md` → 1 řádek, obě data skutečná (last touched = poslední den úprav prózy, sources checked = den Tasku 7).
 Run: `grep -c 'to be written' reality/determinism.md` → `0`
 Run: `grep -c 'VERIFY' reality/determinism.md` → `0`
 
-- [ ] **Step 2: Check odkazů**
+- [x] **Step 2: Check odkazů**
 
 Ručně: každý `[[…]]` v poznámce (pokud nějaký je) míří na existující soubor; zmínky na budoucí poznámky (`mind/`, šipka času) jsou próza, ne `[[…]]`.
 
-- [ ] **Step 3: Check stárnutí a rozsahu**
+- [x] **Step 3: Check stárnutí a rozsahu**
 
 Run: `grep -n 'as of 20' reality/determinism.md` → každé perishable tvrzení datované; čísla souhlasí se Sources.
 Run: `wc -w reality/determinism.md` → ~4000–5500 slov; výrazný přesah řešit s autorem (krácení vs. vědomá výjimka).
 
-- [ ] **Step 4: Čtení celku**
+- [x] **Step 4: Čtení celku**
 
 Přečíst poznámku vcelku: tón thinking-in-progress; konzistence pevných jmen (A–E, the folk inference, the decidable fringe, the schoolbook picture); the folk inference testována, ne hájena; refutace C nejsou měkčí než ostatní; E drží jednu konjekturu a neroste; verdikt v README není ostřejší než Where it stands.
 
