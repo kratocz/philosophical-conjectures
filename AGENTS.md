@@ -15,7 +15,7 @@ A personal, slowly-growing collection of Markdown notes thinking through large o
 - `reality/` — How the world is wired: determinism, chance, the nature of physical law, and what physics can and cannot decide.
 - `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
 - `war/` — The ethics of war: aggression, defense, prolongation, and third-party duties, tested on the war in Ukraine.
-- `docs/` — Working documents, not notes, written in Czech: `docs/superpowers/specs/` and `docs/superpowers/plans/` hold the design spec and implementation plan of each larger note; `docs/analyses/` holds dialogue analyses (see Conventions).
+- `docs/` — Working documents, not notes, written in Czech: `docs/superpowers/specs/` and `docs/superpowers/plans/` hold the design spec and implementation plan of each larger note; `docs/analyses/` holds dialogue analyses (see Conventions); `docs/backlog.md` is the topic backlog — done, in progress, parked, candidates — and is updated whenever a topic changes state.
 
 The structure is itself a conjecture and will change as the questions do.
 
@@ -42,6 +42,7 @@ None. Any Markdown editor works; there are no dependencies to install.
 - **Record what the sourcing cost you.** When a source corrects a claim, refuses the use you wanted, or forces a conclusion to weaken, write that into the note rather than silently editing around it. Withdrawn claims stay visible, with the reason. This is the Popperian point of the project made concrete: a note that only shows its wins isn't a conjecture, it's a pitch.
 - Filenames: lowercase kebab-case `.md` (e.g. `fermi-paradox.md`), placed in the topic folder that fits.
 - Commit messages: short, present-tense, describing the change to the notes (e.g. `add fermi-paradox conjecture`, `revise meaning: where-it-stands`).
+- **Git workflow.** The author's own work lands on `main` directly; there are no pull requests for it. From a Claude Code worktree (branch `worktree-<name>`) push with `git push origin HEAD:main`, then `git pull` in the main checkout. A worktree branch is pushed under its own name only when a topic is parked (see Parked work).
 - **English is canonical; translations mirror it.** All notes and `README.md` are
   English. `README.<lang>.md` files (currently `README.cs.md` and `README.pl.md`)
   are translations of `README.md` — never edit content in them directly. Edit
