@@ -1,6 +1,6 @@
 # What makes a future person me — and is that even the question that matters?
 
-*Status: open · last touched 2026-07-20 · sources checked 2026-07-20*
+*Status: open · last touched 2026-09-29 · sources checked 2026-07-20*
 
 ## The question
 
@@ -241,10 +241,7 @@ writing it:**
   self-interpretation rather than as a persistence relation. It may be that the second
   question is the one that actually does work in a human life, and I've spent this note
   on the first.
-- Connects back to [[cryonics]] and [[immortality-desirability]], both of which were
-  waiting on this. And forward to whatever eventually lands in `mind/` — the persistence
-  question and the consciousness question constrain each other, and I have written
-  neither half honestly yet.
+- Connects back to [[cryonics]] and [[immortality-desirability]], both of which were waiting on this. And forward to [brain-dependence](../mind/brain-dependence.md), which has since landed in `mind/` and hands its result back here — the persistence question and the consciousness question constrain each other, and that constraint is written from its side, not yet from this one.
 
 ## Sources
 
