@@ -40,6 +40,12 @@ I am aware this is the common position rather than a worked-out one, which is th
 
 ## Conjectures
 
+- **A — Net harm.** The balance is negative. Anonymity is the operating condition for categories of harm whose victims are picked at random and never consented to anything: markets in material produced by abusing children, extortion operations that take hospitals offline, fraud run at industrial scale. Against that sit benefits that are real but diffuse, and largely enjoyed by people who had other options. A world with less anonymity online would be a better world — and the fact that this is also the intuitive position is not by itself an argument against it. *(This is my starting position, stated here in its strongest form rather than its most common one.)*
+- **B — Shield of the weak.** Anonymity is the necessary condition for speech by people with something to lose: whistleblowers, dissidents, people reporting an abuser they live with, journalistic sources, anyone persecuted for an identity they cannot put down. Every mechanism that strips anonymity strips it from these people first, because they are the ones for whom being identified carries a cost. The harms are the price of there being any opposition to power at all.
+- **C — Not a dial.** The question "should anonymity be available" is malformed, because anonymity is not a setting anyone controls. Either the technical possibility of network-blind communication exists — in which case it cannot be withdrawn from bad actors in particular — or it does not, in which case the people under threat do not have it either. There is no middle position on the dial. There is only the question of who holds the key.
+- **D — The middle rung.** Most of the benefit comes from pseudonymity, where a person can still be found by due process, and most of the harm requires network-blind anonymity, where nobody can be found at all. The answer is therefore neither pole but a shift of one rung: let the name be optional, keep the trail.
+- **E — Who holds the key.** The real question is not how much anonymity, but who may break it, on what grounds, and under whose supervision. Every proposal to end anonymity is in substance a proposal to hand someone a power, so the balance cannot be computed without knowing who that someone is and what restrains them.
+
 ## Refutations & tensions
 
 ## Where it stands
