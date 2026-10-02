@@ -48,6 +48,42 @@ I am aware this is the common position rather than a worked-out one, which is th
 
 ## Refutations & tensions
 
+The three reasons behind A do not hold up equally well, and the differences between them turned out to be the most informative thing in this note. I take them in the order I first thought of them, which is roughly the reverse of their strength.
+
+### 1. Illegality: the firmest leg, and what it actually claims
+
+The strong version of this leg is not that anonymity correlates with crime. It is that network-blind anonymity is the *operating condition* for particular markets — ransomware infrastructure that has to stay reachable while remaining unlocatable, and hosting for material produced by abusing children — and that the victims of those markets are selected at random and consent to nothing. Stated that way the leg does not depend on how much of the traffic on anonymity networks is criminal, a number that is notoriously contested, and it does not need anonymity to be the *cause* of the crime. It needs only that removing the anonymity would remove the market in its current form. That seems right to me, and nothing I read moved it.
+
+What the evidence does unsettle is the step from there to "therefore anonymity defeats enforcement". The two largest darknet markets to be taken down were not reached by breaking the anonymity. Silk Road's server was located after a misconfiguration briefly exposed its IP address, and Ross Ulbricht was tied to it through a chain of ordinary operational mistakes: he had advertised the site under the handle `altoid` on public forums and then reused that handle to recruit developers, and the encryption key on the server carried the string `frosty@frosty`. AlphaBay fell further still from any technical break — its administrator's personal email address, `pimp_alex_91@hotmail.com`, had been sitting in the header of the welcome message the site sent every new user, and that address led to a PayPal account, to forums where he had posted under his own name, and from there to his real identity and his arrest in Bangkok in 2017.
+
+So anonymity raised the price of the investigation without closing it. That is a weaker claim than the one usually made on this leg, and it cuts both ways: it means enforcement is possible, and it also means enforcement that succeeds does so by waiting for human error rather than by having a key. Both halves matter later, when E asks what a key would be worth.
+
+### 2. Disinformation: the leg that shifted under me
+
+Here the shape of my reason was wrong, and the sourcing corrected it in a way I did not expect — not by showing anonymity matters less, but by showing I had been imagining the wrong mechanism.
+
+I had pictured disinformation as diffuse: a mass of unaccountable accounts, each contributing a little, with anonymity as the enabling condition for all of them. Grinberg and colleagues, looking at registered voters on Twitter during the 2016 US election, found engagement with fake news sources to be extraordinarily concentrated instead: "Only 1% of individuals accounted for 80% of fake news source exposures, and 0.1% accounted for nearly 80% of fake news sources shared." They also found that "for people across the political spectrum, most political news exposure still came from mainstream media outlets." A phenomenon driven by one account in a thousand is not a mass phenomenon, and a mass of anonymous accounts is not the mechanism.
+
+There is also a well-measured channel for misinformation that is not anonymous at all. Mosleh and Rand built a tool for scoring Twitter users' exposure to misinformation from "elites" — public figures and organisations — using PolitiFact fact-checks to assign falsity scores to 816 of them, and found users' exposure scores negatively correlated with the quality of news those users then shared themselves. Every one of those 816 is a named, identifiable actor.
+
+**What I must not claim here, and originally intended to.** I expected to write that the most effective disinformation travels under real names, because a name lends authority an anonymous account cannot borrow. Neither of these papers shows that. Grinberg measures concentration, not anonymity; Mosleh and Rand measure an elite channel without comparing it to an anonymous one. Neither abstract discusses anonymity at all. What the two together support is narrower: that disinformation is concentrated rather than diffuse, and that a large identified channel exists. Whether named sources outperform anonymous ones per unit of reach is a question I did not find answered, and it stays open rather than getting asserted.
+
+Even so, the leg has moved. "Anonymity enables disinformation" was doing work in my position that it cannot do: whatever is driving a phenomenon concentrated in a tenth of a percent of users, it is not the general availability of anonymity.
+
+### 3. Bot farms: the leg that inverted
+
+This is the reason I would have defended most casually, and it is the one that turned out to be backwards. Inauthentic accounts at scale do not need anonymity. They need *identity* — and they buy it.
+
+The infrastructure is a market with published prices. Roozenbeek, Dek and van der Linden tracked real-time pricing for the SMS verifications used to create fake accounts across more than 500 platforms over twelve months to July 2025, and the numbers are not deterrents: $0.08 per verification in Russia, $0.10 in the UK, $0.26 in the US, with per-platform averages of $0.08 for Meta, $0.10 for X and Instagram, $0.11 for TikTok and LinkedIn *(as of 2025-07)*. Open marketplaces sell Facebook accounts advertised as aged one to three years with phone and ID verification already completed, in bulk, at around $1.50 each *(as of 2026-10)*. The industrial end of the same business is larger still: Europol's Operation SIMCARTEL dismantled a network running SIM farms that had been used to create over 49 million fake accounts across more than 80 countries.
+
+And where identity cannot be bought, it gets stolen. The Mueller indictment of the Internet Research Agency alleges its operatives used the Social Security numbers, home addresses and dates of birth of real US persons, without their knowledge, to open at least four bank accounts and six PayPal accounts, and charges four of them with aggravated identity theft. The accounts that carried the operation were not anonymous. They impersonated identifiable Americans, because impersonation is what bought the credibility the campaign needed.
+
+The one qualification worth keeping, because it is also the most interesting finding for C and D below: price is not irrelevant. The same research reports that verification costs more where SIM cards cost more — $4.93 in Japan, $3.24 in Australia — and the authors' reading is that this "is likely to suppress rates of malicious online activity". Stricter identity requirements, on this evidence, do not prevent the abuse; they tax it. Whether a tax that large is worth having is a real question, and it is not the same question as whether anonymity should exist.
+
+### Where that leaves A
+
+One leg held, one moved, one inverted. The strongest form of my position is now narrower than the position I started with: it rests on network-blind anonymity being the operating condition for specific markets whose victims never consented, and it can no longer lean on disinformation or bot farms, because in those two the mechanism runs through identity — bought, stolen, or simply held by named elites — rather than through its absence. The honest summary of the shift is that anonymity makes some of what I objected to *cheaper*, and that it makes almost none of it *possible*.
+
 ## Where it stands
 
 ## Threads to pull
