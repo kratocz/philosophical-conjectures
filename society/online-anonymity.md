@@ -160,4 +160,48 @@ Which leaves E as the only question with any purchase. Not *should anonymity exi
 
 ## Threads to pull
 
+- **Does disinformation actually travel better under a real name?** I assumed it and could not source it. The question is researchable — compare reach per unit of exposure for named versus pseudonymous accounts on the same claim — and until someone has, the authority-of-the-name argument should not be used by either side.
+- **Can the benefit of anonymity be measured at all?** The visibility asymmetry is the methodological core of the whole dispute. Survey and natural-experiment designs exist for chilled behaviour; whether anything can capture speech that happened *because* of anonymity is the harder half.
+- **Has a lawful-access power ever been narrowed without a scandal?** E rests on supervision being real. The historical record of key-holder powers, once granted, is the test.
+- **Freedom of speech and its limits** — the obvious sibling note for `society/`, and the one this note keeps brushing against without entering.
+- **Surveillance as its own question** — this note treats being watched only where it bears on authorship; the broader case needs its own treatment.
+- **Content moderation** — the third `society/` sibling: who decides what is removed, by what process, reviewable by whom.
+- **Age assurance as a live natural experiment** — the UK data will mature. If the harms it targeted fall measurably and the circumvention plateaus, D comes back and this note needs revising *(as of 2026-10)*.
+
 ## Sources
+
+Grouped by the argument each source does work for. Three things this section exists to record, all of them losses.
+
+**What the sourcing refused me.** I set out to write that the most effective disinformation travels under real names, because a name lends borrowed authority. Neither paper I had in mind supports it: Grinberg et al. measure concentration of sharing and exposure, Mosleh and Rand measure an elite channel without comparing it to an anonymous one, and neither discusses anonymity. The claim is withdrawn from the argument and demoted to a thread to pull. Separately, the 80%-of-Tor-requests figure I had half-remembered as settled turned out to rest on a crawl with an unknown denominator, and the correction came from the Tor Project rather than from any critic of anonymity.
+
+**What went against the conclusion I was heading for.** Jardine, Lindner and Owenson find the harms of Tor concentrated in free countries rather than unfree ones. I had been constructing a case in which anonymity's defensive value offsets its abuse; that finding says the offset is weakest precisely where the argument was being conducted. It is in the note because it is the strongest thing said against my own drift, not despite it.
+
+**Left unverified.** The Cambridge verification-price index is cited from the university's own write-up of the research, which states publication in *Science* on 11 December 2025; I did not obtain the article itself, so the figures are reported as that write-up gives them. The two VPN disclosure cases (IPVanish 2016, PureVPN 2017) are from secondary accounts of court and investigative records rather than the filings; they are used only for the narrow claim that advertised no-logs policies have produced logs, which is the weakest-supported claim in the note and is flagged as such in Where it stands.
+
+*Concentration and channels of disinformation*
+- N. Grinberg, K. Joseph, L. Friedland, B. Swire-Thompson, D. Lazer, "Fake news on Twitter during the 2016 U.S. presidential election," *Science* 363 (2019), doi:10.1126/science.aau2706 — the concentration figures quoted verbatim (1% of individuals for 80% of exposures, 0.1% for nearly 80% of shares) and the finding that mainstream outlets remained most people's main political exposure. Does **not** speak to anonymity.
+- M. Mosleh, D. G. Rand, "Measuring exposure to misinformation from political elites on Twitter," *Nature Communications* 13 (2022), doi:10.1038/s41467-022-34769-6 — 816 fact-checked elites, exposure scores correlating negatively with the quality of news users then share. Establishes that a large identified channel exists; does **not** compare it to an anonymous one.
+
+*The bot-farm inversion*
+- J. Roozenbeek, A. Dek, S. van der Linden (Cambridge Social Decision-Making Lab), verification-price index across 500+ platforms, July 2024–July 2025, via <https://www.cam.ac.uk/stories/price-bot-army-global-index> — per-verification prices ($0.08 Russia, $0.10 UK, $0.26 US, $4.93 Japan, $3.24 Australia) and the authors' reading that higher SIM costs are "likely to suppress rates of malicious online activity", which is the basis for calling identity rules a tax rather than a wall.
+- Europol, Operation SIMCARTEL — SIM-farm network used to create over 49 million fake accounts across 80+ countries; the industrial scale of bought identity.
+- United States v. Internet Research Agency et al. (indictment, 16 February 2018), <https://www.justice.gov/d9/fieldable-panel-panes/basic-panes/attachments/2018/02/16/internet_research_agency_indictment.pdf> — alleges use of real US persons' Social Security numbers, addresses and dates of birth to open at least four bank and six PayPal accounts, with aggravated identity theft charges. The operation ran on stolen identity, not on anonymity.
+
+*How much harm, and the limits of the figures*
+- E. Jardine, A. M. Lindner, G. Owenson, "The potential harms of the Tor anonymity network cluster disproportionately in free countries," *PNAS* (2020), doi:10.1073/pnas.2011893117 — ~6.7% of Tor users per country/day reaching likely-illicit hidden services, and the free/partially free/not free split (~7.8% / ~6.7% / ~4.8%).
+- G. Owen, N. Savage, "Empirical analysis of Tor Hidden Services," *IET Information Security* (2016), doi:10.1049/iet-ifs.2015.0121 — the origin of the 80%-of-requests figure; the authors did not undertake a formal legal classification.
+- The Tor Project, "Tor: 80 percent of ??? percent of 1-2 percent abusive," <https://blog.torproject.org/tor-80-percent-percent-1-2-percent-abusive/> — hidden services as ~1.5% of Tor traffic, and the survivorship objection quoted in block 4: the data "could either show a lot of people visiting abuse-related hidden services, or it could simply show that abuse-related hidden services are more long-lived than others."
+
+*Enforcement without a key*
+- Accounts of the Silk Road investigation (CAPTCHA misconfiguration exposing the server IP; the reused `altoid` handle; the `frosty@frosty` key string) and of the AlphaBay investigation (the administrator's personal address `pimp_alex_91@hotmail.com` in the site's welcome email, leading through PayPal and named forum posts to his arrest in 2017). Used for the single claim that both markets fell to operator error rather than to a break in the anonymity.
+
+*The middle rung, tried*
+- South Korea's identity verification requirement (2007) and the Constitutional Court's unanimous 2012 decision striking it down, reported at <https://www.jurist.org/news/2012/08/south-korea-high-court-overturns-real-name-requirement-for-posting-online/> and discussed in the *Yale Journal of International Affairs*, "Real Names and Responsible Speech: The Cases of South Korea, China, and Facebook" — the court's finding that illegal postings did not significantly decline and that users migrated to overseas sites. The most load-bearing evidence in the note.
+- Facebook's real-name policy: the October 2014 apology by its chief product officer to drag performers and trans users, and the June 2015 Menlo Park protest at which placards read "Facebook exposed me to my abuser" — documented harm from pseudonymity's single point of failure.
+
+*The dial, and who it turns for*
+- UK Online Safety Act 2023, age-assurance duties in force 25 July 2025; Proton's reported 1,400–1,800% and NordVPN's ~1,000% UK sign-up surges that day; Ofcom's acknowledgement that VPNs cannot be blocked under the Act; the March 2026 consultation asking whether activating a VPN should itself require age verification *(as of 2026-10)*.
+- IPVanish (2016 Homeland Security summons) and PureVPN (2017 FBI cyberstalking investigation) — advertised no-logs policies that produced connection logs and identifying details. See the unverified note above.
+
+*Chilled behaviour*
+- J. Penney, "Chilling Effects: Online Surveillance and Wikipedia Use," *Berkeley Technology Law Journal* (2016) — views of Wikipedia articles on 48 DHS-listed terrorism topics falling roughly 30% after June 2013, with steeper falls on reader-rated privacy-sensitive topics. Load-bearing for both the rescue of B and the objection to E.
