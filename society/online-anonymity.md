@@ -132,6 +132,16 @@ One structural reason to distrust my own intuition here, which applies equally t
 
 So any honest estimate of the balance is being made from evidence that systematically favours the conclusion that anonymity costs more than it returns. That is not an argument that anonymity is good. It is a reason to hold whatever conclusion I reach more loosely than the evidence superficially allows, and specifically a reason to discount the confidence of my own starting position rather than its content.
 
+### 10. Who holds the key — and what the key is worth
+
+E says the question was never how much anonymity but who may break it. Three findings above converge on this, which is why I now think E is doing more work than I gave it credit for.
+
+Nobody has ever proposed abolishing anonymity, because nobody can. What gets proposed is always a mechanism: a verification requirement, a retention mandate, a lawful-access provision, a scanning obligation. Each of those names a holder — a platform, a regulator, a ministry, a vendor — and hands them a capability that did not previously exist. So the real comparison is never "anonymity versus no anonymity" but "this risk versus that holder, under these restraints". `religion/religion-risk.md` reached the same shape from a different direction: structure loads the gun, power pulls the trigger. The dangerous variable was not the text but who was holding it, and here it is not the anonymity but who holds its exception.
+
+What makes this more than a debating move is that the key turns out to be worth remarkably little against the harms it is sold for, and quite a lot against everyone else. The Korean key produced no significant fall in illegal postings and pushed users offshore. The UK key is conceded by its own regulator to be routable around with a $0.10 app. The verification key is priced at eight cents in Russia. Meanwhile the holder acquires a standing capability over the whole population, and the capability does not expire when the threat does.
+
+**The objection to E, which I think stands.** It relocates the question without answering it. Even a well-restrained key changes behaviour by existing: Penney's readers were not being prosecuted, they were being *watched*, and that was enough to cut traffic to lawful articles by thirty per cent. A key held under impeccable supervision still produces that effect, because the chilling runs on the belief that someone could look, not on anyone actually looking. So E cannot close the balance by pointing to good governance of the key. It can only insist that the balance be computed about a specific key in specific hands, which is a demand for precision rather than an answer.
+
 ## Where it stands
 
 ## Threads to pull
