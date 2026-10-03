@@ -14,6 +14,7 @@ A personal, slowly-growing collection of Markdown notes thinking through large o
 - `mind/` — Consciousness, free will, and whether experience is what it seems.
 - `reality/` — How the world is wired: determinism, chance, the nature of physical law, and what physics can and cannot decide.
 - `religion/` — Faith examined from outside: scripture against checkable evidence, and what makes a religion dangerous.
+- `society/` — How people arrange living together: speech, surveillance, anonymity, and the trade-offs a shared public space forces.
 - `war/` — The ethics of war: aggression, defense, prolongation, and third-party duties, tested on the war in Ukraine.
 - `docs/` — Working documents, not notes, written in Czech: `docs/superpowers/specs/` and `docs/superpowers/plans/` hold the design spec and implementation plan of each larger note; `docs/analyses/` holds dialogue analyses (see Conventions); `docs/backlog.md` is the topic backlog — done, in progress, parked, candidates — and is updated whenever a topic changes state.
 

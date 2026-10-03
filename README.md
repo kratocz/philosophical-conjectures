@@ -40,6 +40,8 @@ section and the caveats around it, is always the source of truth.
   - [The Bible against checkable reality](religion/bible-veracity.md) — *A human library of its era, not an oracle: reliability rises as the text approaches its own present — the signature of human authorship.*
   - [What makes a religion dangerous](religion/religion-risk.md) — *Text is ammunition, structure is the gun, power is the trigger — what can be assessed is never "a religion" in the abstract, only a configuration at a time and place.*
   - [Is science just another religion?](religion/science-as-religion.md) — *The method is not a faith, though the lay relationship to it can be — the line runs not through what people believe but through what happens to an error: whether it can be published, and whether the repair yields a new prediction or only absorbs the miss.*
+- **`society/`** — How people arrange living together. Speech, surveillance, anonymity, and the trade-offs a shared public space forces on everyone in it.
+  - [Does online anonymity do more harm than good?](society/online-anonymity.md) — *Anonymity's harms are real and concentrated at the third rung, but every lever for having less of it reaches the careless rather than the committed — so the honest question is not how much anonymity, but who holds its exception.*
 - **`war/`** — The ethics of war, tested on the one running now: who started it, who keeps it going, and what bystanders owe.
   - [The war in Ukraine](war/ukraine-war-justification.md) — *The invasion and its prolongation are unjust, the defense and its support justified — and the defense's one limit is Ukraine's own settled choice, which no third party may manufacture.*
 
