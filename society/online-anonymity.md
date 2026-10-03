@@ -84,6 +84,34 @@ The one qualification worth keeping, because it is also the most interesting fin
 
 One leg held, one moved, one inverted. The strongest form of my position is now narrower than the position I started with: it rests on network-blind anonymity being the operating condition for specific markets whose victims never consented, and it can no longer lean on disinformation or bot farms, because in those two the mechanism runs through identity — bought, stolen, or simply held by named elites — rather than through its absence. The honest summary of the shift is that anonymity makes some of what I objected to *cheaper*, and that it makes almost none of it *possible*.
 
+### 4. How much harm, actually — and why the numbers will not come clean
+
+Before the ethics, the size of the thing. This is where I expected to find a settled figure and found instead a cautionary tale about how such figures are made.
+
+The number that circulates is that over 80% of requests to Tor hidden services go to abuse sites, from Owen and Savage's crawl of some 80,000 hidden services over six months. The Tor Project's response is the more instructive document. Hidden service traffic is about 1.5% of all Tor traffic, so the 80% was never 80% of Tor. And the measurement has a survivorship problem the authors acknowledge in their own framing: the graphs "only show data about the sites that were still up many months later: so his data could either show a lot of people visiting abuse-related hidden services, or it could simply show that abuse-related hidden services are more long-lived than others." Without knowing how many sites vanished before the crawl reached them, the denominator is unknown. The study's own authors did not undertake a formal legal classification at all.
+
+The best-grounded estimate I found works from the user side rather than the request side. Jardine, Lindner and Owenson, using data from Tor entry nodes, estimate that on an average country/day about 6.7% of Tor users connect to hidden services that are disproportionately used for illicit purposes — which leaves the large majority of Tor use somewhere other than the part of the network the harms live in.
+
+**And then the finding that cuts against where I was heading.** The same paper reports that the balance varies systematically with a country's political conditions, and not in the direction that flatters the liberal case: using Freedom House's classifications, illicit hidden-service use is *more* prevalent in "free" countries (~7.8%) than in "partially free" (~6.7%) or "not free" ones (~4.8%). The authors' own title says it: the potential harms of Tor cluster disproportionately in free countries. The reading is uncomfortable and I think it is correct. Anonymity's defensive value is highest where speech is punished, and its abuse value is highest where it is not — so for someone arguing about this from inside a democracy, the local balance is worse than the global one. B is a real argument, but it is an argument that mostly cashes out somewhere else, for someone else. That is a cost to my own conclusion, not to A's.
+
+### 5. What a VPN actually does
+
+This is where the video that started this gets its answer. A VPN does not remove traceability; it moves the trust. Without one, the party able to link my traffic to me is my internet provider. With one, it is the VPN operator — a company whose claim not to keep records is, from the outside, unfalsifiable marketing.
+
+Two cases show what that exposure is worth. IPVanish advertised a zero-logs policy; after a 2016 Homeland Security summons to its parent company it initially said it had no user data, then on a follow-up request produced connection logs with the subject's real name, email address, originating IP and the times of each connection. In a 2017 FBI cyberstalking investigation PureVPN, also advertising no logs, supplied connection timestamps and originating addresses, and investigators described those records as the key to the identification.
+
+So on the three rungs, a consumer VPN does not deliver network-blind anonymity and does not even reliably deliver platform-blind anonymity. It delivers pseudonymity with a single point of failure, and it relocates that point from a regulated utility to a company selected largely on the strength of its own advertising. For the hazards most buyers actually have in mind — a government, a serious adversary, a court order — the move is close to nil. Against an advertiser or an open Wi-Fi snoop it is real. The product is not a fraud; it is just sold against a threat model its buyers do not have.
+
+### 6. Against C: the rungs exist, and the dial turns for the wrong people
+
+C says there is no middle setting. The strong counterexample arrived while this note was being written, and it is worth more than any argument I could construct.
+
+The UK's Online Safety Act took effect on 25 July 2025, requiring "highly effective age assurance" — facial age estimation, photo ID, credit card or bank checks — on services showing adult content. The response was immediate and measurable: Proton reported sustained daily UK sign-up increases of 1,400 to 1,800%, levels it compared to those it normally sees during civil unrest; NordVPN reported around 1,000%; half the top ten UK App Store downloads that day were VPN or identity apps. Because the obligation attaches to UK IP addresses, appearing to be elsewhere is sufficient, and Ofcom has conceded that VPNs cannot be blocked under the Act. A consultation in March 2026 asks whether activating a VPN should itself require age verification *(as of 2026-10)* — which is what the next rung down looks like when the previous one leaks.
+
+So C is too strong as stated. Middle settings do exist, they are being legislated, and they have effects. But the effect they have is the one the verification market already demonstrated: identity requirements function as a **tax**, not a wall. Roozenbeek and colleagues found verification costs more where SIM cards cost more, and read that as likely to suppress rates of malicious activity — so the tax is not pointless. It is simply levied on whoever will not take two minutes to route around it. The curious adolescent pays it; the organised operation buys 49 million accounts wholesale and does not.
+
+The accurate version of C is therefore narrower and, to me, more damning than the original: anonymity is a dial, but it turns almost exclusively for the people we were least worried about. Every notch costs the incidental user their privacy and the determined actor a rounding error.
+
 ## Where it stands
 
 ## Threads to pull
