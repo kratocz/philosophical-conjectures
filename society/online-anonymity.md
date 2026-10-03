@@ -112,6 +112,26 @@ So C is too strong as stated. Middle settings do exist, they are being legislate
 
 The accurate version of C is therefore narrower and, to me, more damning than the original: anonymity is a dial, but it turns almost exclusively for the people we were least worried about. Every notch costs the incidental user their privacy and the determined actor a rounding error.
 
+### 7. Against B: necessary condition, or merely useful?
+
+B claims anonymity is the *necessary* condition for speech by the exposed. The strongest objection is that the celebrated cases do not look like that. Whistleblowing in the democracies runs largely through identified channels with legal protection attached, and the famous disclosures went through journalists who knew exactly who their source was. Anonymity from the public is not the same as anonymity from everyone, and what those cases needed was a trusted intermediary, not an untraceable network. If anonymity is merely useful rather than necessary, B weighs less against A than its advocates suppose — and that conclusion is against the side I would instinctively defend.
+
+What rescues part of B is a different kind of evidence. Penney, in the *Berkeley Technology Law Journal*, examined monthly views of Wikipedia articles on 48 terrorism-related topics that the US Department of Homeland Security had listed as subjects it tracks, and found traffic fell by roughly 30% after the June 2013 Snowden revelations, with steeper falls on topics readers themselves rated as privacy-sensitive. Nobody in that data was blowing a whistle. They were reading an encyclopedia, legally, and stopped because they believed they were being watched. That is anonymity doing work for ordinary people in a free country, and it is work that has nothing to do with wrongdoing — which also means it is not captured by any argument about whether whistleblowers strictly need it.
+
+### 8. Against D: the middle rung has been tried, and it is where the trapdoor is
+
+D is the position I found most attractive while drafting: keep the name optional, keep the trail. Two things are wrong with it.
+
+The first is structural. Pseudonymity means someone holds the mapping from the handle to the person, and that someone can be breached, bought, subpoenaed, or simply sold to a new owner with different intentions. For the person B is about, "the platform knows who I am" is not a weaker form of protection, it is the absence of protection with a delay. Facebook's real-name policy is the worked example: enforcement fell on Native Americans, trans and drag performers, and domestic violence survivors, the policy was weaponised by trolls who mass-reported the accounts of people whose legal names were dangerous to them, and the company's 2014 apology did not stop the 2015 protest where the placards read "Facebook exposed me to my abuser".
+
+The second is that the middle rung has had a full-scale trial. South Korea required identity verification for posting comments from 2007, and in August 2012 the Constitutional Court struck the requirement down unanimously. The court's reasoning is the part worth keeping: after the real-name system was introduced the volume of illegal postings did not decline significantly, and users migrated to overseas sites the rule could not reach. That is not an argument from principle, it is a measured outcome in a wired democracy of fifty million people — the single most relevant piece of evidence in this note, and it says the middle rung delivered neither the civility it promised nor the enforcement it was for.
+
+### 9. The visibility asymmetry
+
+One structural reason to distrust my own intuition here, which applies equally to anyone else's. The harms of anonymity are *countable*: they have victims, case numbers, prosecutions, press coverage. The benefits are not merely hard to count, they are unobservable in principle. A person who spoke because they could not be identified produces no record of the alternative in which they stayed silent; the dissident who was never arrested, the woman who reported an abuser from an account he could not trace, the reader who looked something up without fearing a file — none of them generate an incident report. The ledger has one column filled in.
+
+So any honest estimate of the balance is being made from evidence that systematically favours the conclusion that anonymity costs more than it returns. That is not an argument that anonymity is good. It is a reason to hold whatever conclusion I reach more loosely than the evidence superficially allows, and specifically a reason to discount the confidence of my own starting position rather than its content.
+
 ## Where it stands
 
 ## Threads to pull
