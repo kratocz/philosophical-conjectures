@@ -2,7 +2,7 @@
 
 *Toto je český překlad [anglického originálu](README.md). Originál je závazný a jediný
 se edituje — návrhy změn (issue, pull request) prosím směřujte na něj; psát je můžete
-i česky. Překlad odpovídá stavu originálu k 2026-10-03.*
+i česky. Překlad odpovídá stavu originálu k 2026-10-20.*
 
 Osobní, pomalu rostoucí sbírka poznámek, v nichž promýšlím některé z největších
 otevřených otázek — smrtelnost, smysl, jestli jsme sami — a snažím se své odpovědi
@@ -57,6 +57,7 @@ a výhrady kolem ní.
   - [Je věda jen další náboženství?](religion/science-as-religion.md) — *Metoda není víra, i když vztah laika k ní může být — hranice nevede tím, čemu lidé věří, ale tím, co se stane s omylem: zda se smí zveřejnit a zda oprava přinese novou předpověď, nebo jen pohltí nezdar.*
 - **`society/`** — Jak si lidé zařizují společné soužití. Řeč, dohled, anonymita a kompromisy, které společný veřejný prostor vynucuje na všech, kdo v něm jsou.
   - [Škodí anonymita na internetu víc, než prospívá?](society/online-anonymity.md) — *Škody anonymity jsou reálné a soustředěné na nejvyšším stupni, ale každá páčka na její omezení dosáhne na nedbalé, ne na odhodlané — poctivá otázka proto není kolik anonymity, nýbrž kdo drží výjimku z ní.*
+  - [Co zmůže jeden člověk proti dezinformacím ve veřejném vlákně?](society/countering-misinformation.md) — *Schopnosti chrání před nepravděpodobnými tvrzeními, ne před lichotivými, a posměch mýtus jen opakuje — doklady podporují jasnou a podrobnou opravu, s očkováním jako nástrojem na dobu před vláknem, ne v něm.*
 - **`war/`** — Etika války, testovaná na té, která právě běží: kdo ji začal, kdo ji udržuje a co dlužíme my ostatní.
   - [Válka na Ukrajině](war/ukraine-war-justification.md) — *Invaze i její prodlužování jsou nespravedlivé, obrana i její podpora oprávněné — a jedinou mezí obrany je vlastní ustálená volba Ukrajiny, kterou žádná třetí strana nesmí vyrobit.*
 
