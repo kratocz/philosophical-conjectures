@@ -228,7 +228,16 @@ reading a norm off a regularity is the oldest slide in the book, and "the strong
 what they can" was a warning in Thucydides, not a licence. Three specific failures.
 The performative one: Russia itself does not treat justification as decoration — it
 argues, manufactures pretexts, litigates history at essay length; states that
-believed moral vocabulary idle would not spend so heavily on propaganda. The agency
+believed moral vocabulary idle would not spend so heavily on propaganda. Russia has
+also put its name to the norm C calls idle: the OSCE Charter for European Security
+(Istanbul, 1999, §8), reaffirmed at Astana in 2010 (§3), affirms "the inherent right
+of each and every participating State to be free to choose or change its security
+arrangements, including treaties of alliance", and in the same paragraph rules that
+no state "can consider any part of the OSCE area as its sphere of influence". The
+"indivisible security" argument against enlargement cites that very paragraph for
+its other sentence — states "will not strengthen their security at the expense of the
+security of other States" — and a clause cannot be invoked while the two around it
+are discarded; both texts postdate Ukraine's independence. The agency
 one: "buffer state" analysis treats Ukraine as terrain — some forty million people as
 a pressure gradient — which is precisely the erasure the standing argument
 (Conjecture E) exposes; whatever geopolitics says about spheres, it is not Ukraine's
@@ -530,6 +539,13 @@ note uses no number for it.
 
 **Law and the UN record**
 
+- OSCE, Istanbul Document 1999 — Charter for European Security, §8
+  ([PDF](https://www.osce.org/files/f/documents/6/5/39569.pdf)), and Astana
+  Commemorative Declaration, 3 December 2010, §3
+  ([PDF](https://www.osce.org/files/f/documents/b/6/74985.pdf)); identical wording on
+  freedom to choose alliances, not strengthening security at others' expense, and no
+  sphere of influence; quoted in Against C (read raw 2026-10-30). Political
+  commitments, not treaties.
 - Charter of the United Nations, [full text at un.org](https://www.un.org/en/about-us/un-charter/full-text).
   Article 2(4), quoted in the refutations: "All Members shall refrain in their
   international relations from the threat or use of force against the territorial
